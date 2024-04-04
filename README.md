@@ -12,5 +12,7 @@
 #### [LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models](2404.01617.md)
 #### [Are large language models superhuman chemists?](2404.01475.md)
 #### [LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact Language Model](2404.01331.md)
+## 2403
+#### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](2403.17607.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](2401.10774.md)
