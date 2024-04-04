@@ -4,7 +4,7 @@ with open('README.md', 'w') as wf:
     wf.write('# Paper List\n')
     ym = None
     for i in sorted(os.listdir(), reverse=True):
-        if i == 'README.md' or i.endswith('.py'):
+        if i == 'README.md' or i.endswith('.py') or os.path.isdir(i):
             continue
         if not ym or ym != i.split('.')[0]:
             ym = i.split('.')[0]
