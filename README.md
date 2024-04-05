@@ -6,6 +6,7 @@
 #### [CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](2404.03543.md)
 #### [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](2404.03413.md)
 #### [Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](2404.03411.md)
+#### [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](2404.03204.md)
 #### [LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models](2404.03118.md)
 #### [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](2404.02905.md)
 #### [ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline](2404.02893.md)
