@@ -22,6 +22,7 @@
 ## 2403
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](2403.18365.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](2403.17607.md)
+#### [Gemma: Open Models Based on Gemini Research and Technology](2403.08295.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](2401.10774.md)
 #### [Tuning Language Models by Proxy](2401.08565.md)
