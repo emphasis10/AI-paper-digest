@@ -1,5 +1,11 @@
 # Paper List
 ## 2404
+#### [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](2404.04167.md)
+#### [No “Zero-Shot” Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance](2404.04125.md)
+#### [CantTalkAboutThis: Aligning Language Models to Stay on Topic in Dialogues](2404.03820.md)
+#### [Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences](2404.03715.md)
+#### [Stream of Search (SoS): Learning to Search in Language](2404.03683.md)
+#### [RL for Consistency Models: Faster Reward Guided Text-to-Image Generation](2404.03673.md)
 #### [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](2404.03648.md)
 #### [Training LLMs over Neurally Compressed Text](2404.03626.md)
 #### [ReFT: Representation Finetuning for Language Models](2404.03592.md)
