@@ -35,6 +35,7 @@
 #### [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](2402.17764.md)
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](2402.17193.md)
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](2402.16828.md)
+#### [More Agents Is All You Need](2402.05120.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](2401.10774.md)
 #### [Tuning Language Models by Proxy](2401.08565.md)
@@ -42,8 +43,12 @@
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](2312.09979.md)
 ## 2311
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](2311.01282.md)
+## 2310
+#### [EELBERT: Tiny Models through Dynamic Embeddings](2310.20144.md)
 ## 2308
 #### [Fast Feedforward Networks](2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](2308.14352.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](2302.14017.md)
+## 2202
+#### [cosFormer: Rethinking Softmax in Attention](2202.08791.md)
