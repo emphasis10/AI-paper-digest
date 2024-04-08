@@ -1,5 +1,6 @@
 # Paper List
 ## 2404
+#### [Sigma : Siamese Mamba Network for Multi-Modal Semantic Segmentation](2404.04256.md)
 #### [Robust Gaussian Splatting](2404.04211.md)
 #### [Social Skill Training with Large Language Models](2404.04204.md)
 #### [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](2404.04167.md)
