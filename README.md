@@ -38,6 +38,7 @@
 #### [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](2402.17764.md)
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](2402.17193.md)
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](2402.16828.md)
+#### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](2402.14714.md)
 #### [More Agents Is All You Need](2402.05120.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](2401.10774.md)
