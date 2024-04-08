@@ -24,12 +24,16 @@
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](2403.18365.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](2403.17607.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](2403.08295.md)
+#### [Learning to Decode Collaboratively with Multiple Language Models](2403.03870.md)
 ## 2402
 #### [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](2402.17764.md)
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](2402.17193.md)
+#### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](2402.16828.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](2401.10774.md)
 #### [Tuning Language Models by Proxy](2401.08565.md)
+## 2312
+#### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](2312.09979.md)
 ## 2311
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](2311.01282.md)
 ## 2308
