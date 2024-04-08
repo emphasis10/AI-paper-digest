@@ -43,6 +43,7 @@
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](2401.10774.md)
 #### [Tuning Language Models by Proxy](2401.08565.md)
 ## 2312
+#### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](2312.15166.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](2312.09979.md)
 ## 2311
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](2311.01282.md)
