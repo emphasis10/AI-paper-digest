@@ -1,5 +1,7 @@
 # Paper List
 ## 2404
+#### [Robust Gaussian Splatting](2404.04211.md)
+#### [Social Skill Training with Large Language Models](2404.04204.md)
 #### [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](2404.04167.md)
 #### [No “Zero-Shot” Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance](2404.04125.md)
 #### [CantTalkAboutThis: Aligning Language Models to Stay on Topic in Dialogues](2404.03820.md)
