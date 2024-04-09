@@ -50,6 +50,7 @@
 #### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](2312.15166.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](2312.09979.md)
 ## 2311
+#### [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](2311.17049.md)
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](2311.01282.md)
 ## 2310
 #### [EELBERT: Tiny Models through Dynamic Embeddings](2310.20144.md)
