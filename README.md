@@ -56,6 +56,8 @@
 ## 2308
 #### [Fast Feedforward Networks](2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](2308.14352.md)
+## 2304
+#### [Visual Instruction Tuning](2304.08485.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](2302.14017.md)
 ## 2202
