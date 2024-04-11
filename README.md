@@ -67,6 +67,7 @@
 #### [LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models](2404.01617.md)
 #### [Are large language models superhuman chemists?](2404.01475.md)
 #### [LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact Language Model](2404.01331.md)
+#### [HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach](2404.01094.md)
 ## 2403
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](2403.18365.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](2403.17607.md)
@@ -98,3 +99,5 @@
 #### [Full Stack Optimization of Transformer Inference: a Survey](2302.14017.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](2202.08791.md)
+## 
+#### [dea](.gitignore)
