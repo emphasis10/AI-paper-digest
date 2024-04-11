@@ -78,6 +78,7 @@
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](summaries/2402.17193.md)
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](summaries/2402.16828.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
+#### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
 #### [More Agents Is All You Need](summaries/2402.05120.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
