@@ -99,5 +99,3 @@
 #### [Full Stack Optimization of Transformer Inference: a Survey](2302.14017.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](2202.08791.md)
-## 
-#### [dea](.gitignore)
