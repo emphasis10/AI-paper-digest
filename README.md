@@ -101,6 +101,7 @@
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](summaries/2402.17193.md)
 #### [MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](summaries/2402.16840.md)
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](summaries/2402.16828.md)
+#### [FuseChat: Knowledge Fusion of Chat Models](summaries/2402.16107.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
 #### [More Agents Is All You Need](summaries/2402.05120.md)
@@ -115,6 +116,7 @@
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
 ## 2310
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
+#### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 ## 2309
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
