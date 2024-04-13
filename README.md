@@ -84,7 +84,14 @@
 #### [LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact Language Model](summaries/2404.01331.md)
 #### [HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach](summaries/2404.01094.md)
 ## 2403
+#### [ReALM: Reference Resolution As Language Modeling](summaries/2403.20329.md)
+#### [DiJiang: Efficient Large Language Models through Compact Kernelization](summaries/2403.19928.md)
+#### [Jamba: A Hybrid Transformer-Mamba Language Model](summaries/2403.19887.md)
+#### [Localizing Paragraph Memorization in Language Models](summaries/2403.19851.md)
+#### [sDPO: Don’t Use Your Data All at Once](summaries/2403.19270.md)
+#### [Towards a World-English Language Model for On-Device Virtual Assistants](summaries/2403.18783.md)
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](summaries/2403.18365.md)
+#### [The Unreasonable Ineffectiveness of the Deeper Layers](summaries/2403.17887.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](summaries/2403.17607.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](summaries/2403.08295.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
@@ -92,6 +99,7 @@
 #### [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](summaries/2402.19427.md)
 #### [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](summaries/2402.17764.md)
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](summaries/2402.17193.md)
+#### [MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](summaries/2402.16840.md)
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](summaries/2402.16828.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
@@ -107,14 +115,21 @@
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
 ## 2310
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
+## 2309
+#### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
 #### [Fast Feedforward Networks](summaries/2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
+#### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
+## 2205
+#### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
 ## 2106
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
+## 2005
+#### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
