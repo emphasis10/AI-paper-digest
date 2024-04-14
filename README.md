@@ -65,6 +65,7 @@
 #### [ReFT: Representation Finetuning for Language Models](summaries/2404.03592.md)
 #### [PointInfinity: Resolution-Invariant Point Diffusion Models](summaries/2404.03566.md)
 #### [CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](summaries/2404.03543.md)
+#### [Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought](summaries/2404.03414.md)
 #### [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](summaries/2404.03413.md)
 #### [Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?](summaries/2404.03411.md)
 #### [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](summaries/2404.03204.md)
