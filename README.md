@@ -1,5 +1,14 @@
 # Paper List
 ## 2404
+#### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
+#### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [COCONut: Modernizing COCO Segmentation](summaries/2404.08639.md)
+#### [Probing the 3D Awareness of Visual Foundation Models](summaries/2404.08636.md)
+#### [Pre-training Small Base LMs with Fewer Tokens](summaries/2404.08634.md)
+#### [On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation](summaries/2404.08540.md)
+#### [Dataset Reset Policy Optimization for RLHF](summaries/2404.08495.md)
+#### [MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance](summaries/2404.08252.md)
+#### [Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies](summaries/2404.08197.md)
 #### [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](summaries/2404.07987.md)
 #### [LLoCO: Learning Long Contexts Offline](summaries/2404.07979.md)
 #### [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](summaries/2404.07973.md)
@@ -30,6 +39,7 @@
 #### [Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models](summaries/2404.06209.md)
 #### [Revising Densification in Gaussian Splatting](summaries/2404.06109.md)
 #### [Hash3D: Training-free Acceleration for 3D Generation](summaries/2404.06091.md)
+#### [THOUGHTSCULPT: Reasoning with Intermediate Revision and Search](summaries/2404.05966.md)
 #### [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](summaries/2404.05961.md)
 #### [WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents](summaries/2404.05902.md)
 #### [Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence](summaries/2404.05892.md)
@@ -41,7 +51,9 @@
 #### [MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation](summaries/2404.05674.md)
 #### [YaART: Yet Another ART Rendering Technology](summaries/2404.05666.md)
 #### [UniFL: Improve Stable Diffusion via Unified Feedback Learning](summaries/2404.05595.md)
+#### [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](summaries/2404.05405.md)
 #### [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](summaries/2404.05014.md)
+#### [Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers](summaries/2404.04925.md)
 #### [ByteEdit: Boost, Comply and Accelerate Generative Image Editing](summaries/2404.04860.md)
 #### [BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion](summaries/2404.04544.md)
 #### [DATENeRF: Depth-Aware Text-based Editing of NeRFs](summaries/2404.04526.md)
@@ -55,6 +67,7 @@
 #### [Social Skill Training with Large Language Models](summaries/2404.04204.md)
 #### [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](summaries/2404.04167.md)
 #### [No “Zero-Shot” Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance](summaries/2404.04125.md)
+#### [Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data](summaries/2404.03862.md)
 #### [CantTalkAboutThis: Aligning Language Models to Stay on Topic in Dialogues](summaries/2404.03820.md)
 #### [Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences](summaries/2404.03715.md)
 #### [Stream of Search (SoS): Learning to Search in Language](summaries/2404.03683.md)
@@ -117,6 +130,7 @@
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
 ## 2310
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
+#### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 ## 2309
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
