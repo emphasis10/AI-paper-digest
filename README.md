@@ -57,6 +57,7 @@
 #### [ByteEdit: Boost, Comply and Accelerate Generative Image Editing](summaries/2404.04860.md)
 #### [BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion](summaries/2404.04544.md)
 #### [DATENeRF: Depth-Aware Text-based Editing of NeRFs](summaries/2404.04526.md)
+#### [Q-PEFT: Query-dependent Parameter Efficient Fine-tuning for Text Reranking with Large Language Models](summaries/2404.04522.md)
 #### [Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models](summaries/2404.04478.md)
 #### [Aligning Diffusion Models by Optimizing Human Utility](summaries/2404.04465.md)
 #### [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](summaries/2404.04421.md)
