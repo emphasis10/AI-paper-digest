@@ -145,6 +145,7 @@
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
+#### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 ## 2309
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
