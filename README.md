@@ -2,6 +2,7 @@
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
 #### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [Social Choice for AI Alignment: Dealing with Diverse Human Feedback](summaries/2404.10271.md)
 #### [Taming Latent Diffusion Model for Neural Radiance Field Inpainting](summaries/2404.09995.md)
 #### [HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing](summaries/2404.09990.md)
 #### [CTRL-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model](summaries/2404.09967.md)
@@ -132,6 +133,7 @@
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
 #### [More Agents Is All You Need](summaries/2402.05120.md)
+#### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
 ## 2401
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
