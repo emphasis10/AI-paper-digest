@@ -2,6 +2,7 @@
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
 #### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](summaries/2404.14219.md)
 #### [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](summaries/2404.13026.md)
 #### [Stronger Random Baselines for In-Context Learning](summaries/2404.13020.md)
 #### [Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models](summaries/2404.13013.md)
