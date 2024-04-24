@@ -217,6 +217,8 @@
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
 ## 2205
 #### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
+## 2203
+#### [A Survey of Multi-Tenant Deep Learning Inference on GPU](summaries/2203.09040.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
 ## 2106
