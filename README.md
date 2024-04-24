@@ -2,6 +2,13 @@
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
 #### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [Multi-Head Mixture-of-Experts](summaries/2404.15045.md)
+#### [Transformers Can Represent n-gram Language Models](summaries/2404.14994.md)
+#### [FlashSpeech: Efficient Zero-Shot Speech Synthesis](summaries/2404.14700.md)
+#### [Pegasus-1 Technical Report](summaries/2404.14687.md)
+#### [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](summaries/2404.14619.md)
+#### [Align Your Steps: Optimizing Sampling Schedules in Diffusion Models](summaries/2404.14507.md)
+#### [SnapKV : LLM Knows What You are Looking for Before Generation](summaries/2404.14469.md)
 #### [Learning H-Infinity Locomotion Control](summaries/2404.14405.md)
 #### [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](summaries/2404.14396.md)
 #### [A Multimodal Automated Interpretability Agent](summaries/2404.14394.md)
@@ -197,6 +204,7 @@
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 ## 2309
+#### [QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](summaries/2309.14717.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
