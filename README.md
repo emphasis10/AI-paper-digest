@@ -2,6 +2,14 @@
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
 #### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [MoDE: CLIP Data Experts via Clustering](summaries/2404.16030.md)
+#### [Editable Image Elements for Controllable Synthesis](summaries/2404.16029.md)
+#### [PuLID: Pure and Lightning ID Customization via Contrastive Alignment](summaries/2404.16022.md)
+#### [MotionMaster: Training-free Camera Motion Transfer For Video Generation](summaries/2404.15789.md)
+#### [BASS: Batched Attention-optimized Speculative Sampling](summaries/2404.15778.md)
+#### [CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data](summaries/2404.15653.md)
+#### [ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning](summaries/2404.15449.md)
+#### [XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference](summaries/2404.15420.md)
 #### [Multi-Head Mixture-of-Experts](summaries/2404.15045.md)
 #### [Transformers Can Represent n-gram Language Models](summaries/2404.14994.md)
 #### [FlashSpeech: Efficient Zero-Shot Speech Synthesis](summaries/2404.14700.md)
@@ -176,6 +184,7 @@
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](summaries/2403.18365.md)
 #### [The Unreasonable Ineffectiveness of the Deeper Layers](summaries/2403.17887.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](summaries/2403.17607.md)
+#### [Evolutionary Optimization of Model Merging Recipes](summaries/2403.13187.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](summaries/2403.08295.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
 ## 2402
