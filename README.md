@@ -2,6 +2,10 @@
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
 #### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](summaries/2404.17569.md)
+#### [PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning](summaries/2404.16994.md)
+#### [AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](summaries/2404.16873.md)
+#### [HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections](summaries/2404.16845.md)
 #### [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](summaries/2404.16821.md)
 #### [Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and Human Ratings](summaries/2404.16820.md)
 #### [Make Your LLM Fully Utilize the Context](summaries/2404.16811.md)
@@ -9,6 +13,7 @@
 #### [ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving](summaries/2404.16771.md)
 #### [Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding](summaries/2404.16710.md)
 #### [Tele-FLM Technical Report](summaries/2404.16645.md)
+#### [TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning](summaries/2404.16635.md)
 #### [Interactive3D: Create What You Want by Interactive 3D Generation](summaries/2404.16510.md)
 #### [List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs](summaries/2404.16375.md)
 #### [NeRF-XL: Scaling NeRFs with Multiple GPUs](summaries/2404.16221.md)
@@ -207,6 +212,7 @@
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2402.16107.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
+#### [Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](summaries/2402.05445.md)
 #### [More Agents Is All You Need](summaries/2402.05120.md)
 #### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
 ## 2401
