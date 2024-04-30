@@ -2,7 +2,14 @@
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
 #### [CodeGemma: Open Code Models Based on Gemma](summaries/2404.code_gemma.md)
+#### [Stylus: Automatic Adapter Selection for Diffusion Models](summaries/2404.18928.md)
+#### [Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting](summaries/2404.18911.md)
+#### [Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models](summaries/2404.18796.md)
+#### [Capabilities of Gemini Models in Medicine](summaries/2404.18416.md)
+#### [LEGENT: Open Platform for Embodied Agents](summaries/2404.18243.md)
+#### [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](summaries/2404.17672.md)
 #### [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](summaries/2404.17569.md)
+#### [Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations](summaries/2404.17521.md)
 #### [PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning](summaries/2404.16994.md)
 #### [AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](summaries/2404.16873.md)
 #### [HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections](summaries/2404.16845.md)
@@ -218,6 +225,7 @@
 #### [More Agents Is All You Need](summaries/2402.05120.md)
 #### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
 ## 2401
+#### [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](summaries/2401.16465.md)
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
 ## 2312
