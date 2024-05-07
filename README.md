@@ -1,5 +1,13 @@
 # Paper List
 ## 2405
+#### [Customizing Text-to-Image Models with a Single Image Pair](summaries/2405.01536.md)
+#### [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](summaries/2405.01535.md)
+#### [FLAME: Factuality-Aware Alignment for Large Language Models](summaries/2405.01525.md)
+#### [NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment](summaries/2405.01481.md)
+#### [WildChat: 1M ChatGPT Interaction Logs in the Wild](summaries/2405.01470.md)
+#### [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation](summaries/2405.01434.md)
+#### [LLM-AD: Large Language Model based Audio Description System](summaries/2405.00983.md)
+#### [LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report](summaries/2405.00732.md)
 #### [Spectrally Pruned Gaussian Fields with Neural Compensation](summaries/2405.00676.md)
 #### [Self-Play Preference Optimization for Language Model Alignment](summaries/2405.00675.md)
 #### [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3](summaries/2405.00664.md)
@@ -7,6 +15,8 @@
 #### [Clover: Regressive Lightweight Speculative Decoding with Sequential Knowledge](summaries/2405.00263.md)
 #### [STT: Stateful Tracking with Transformers for Autonomous Driving](summaries/2405.00236.md)
 #### [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](summaries/2405.00233.md)
+#### [A Primer on the Inner Workings of Transformer-based Language Models](summaries/2405.00208.md)
+#### [In-Context Learning with Long-Context Models: An In-Depth Exploration](summaries/2405.00200.md)
 #### [Automatic Creative Selection with Cross-Modal Matching](summaries/2405.00029.md)
 ## 2404
 #### [OpenEQA: Embodied Question Answering in the Era of Foundation Models](summaries/2404.open_eqa.md)
@@ -19,12 +29,15 @@
 #### [Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation](summaries/2404.19752.md)
 #### [Better & Faster Large Language Models via Multi-token Prediction](summaries/2404.19737.md)
 #### [Iterative Reasoning Preference Optimization](summaries/2404.19733.md)
+#### [When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively](summaries/2404.19705.md)
 #### [GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting](summaries/2404.19702.md)
 #### [Extending Llama-3's Context Ten-Fold Overnight](summaries/2404.19553.md)
+#### [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](summaries/2404.19543.md)
 #### [MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction](summaries/2404.19525.md)
 #### [InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation](summaries/2404.19427.md)
 #### [Octopus v4: Graph of language models](summaries/2404.19296.md)
 #### [SAGS: Structure-Aware 3D Gaussian Splatting](summaries/2404.19149.md)
+#### [Hallucination of Multimodal Large Language Models: A Survey](summaries/2404.18930.md)
 #### [Stylus: Automatic Adapter Selection for Diffusion Models](summaries/2404.18928.md)
 #### [Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting](summaries/2404.18911.md)
 #### [Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models](summaries/2404.18796.md)
@@ -250,6 +263,7 @@
 #### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
 ## 2401
 #### [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](summaries/2401.16465.md)
+#### [SliceGPT: Compress Large Language Models by Deleting Rows and Columns](summaries/2401.15024.md)
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
 ## 2312
@@ -275,6 +289,8 @@
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
+## 2211
+#### [Fast Inference from Transformers via Speculative Decoding](summaries/2211.17192.md)
 ## 2205
 #### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
 ## 2203
