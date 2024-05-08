@@ -271,6 +271,7 @@
 ## 2312
 #### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](summaries/2312.15166.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
+#### [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](summaries/2312.00752.md)
 ## 2311
 #### [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](summaries/2311.17049.md)
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
@@ -287,6 +288,8 @@
 #### [Fast Feedforward Networks](summaries/2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
 #### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
+## 2306
+#### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2302
