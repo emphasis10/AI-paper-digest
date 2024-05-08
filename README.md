@@ -147,6 +147,7 @@
 #### [MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance](summaries/2404.08252.md)
 #### [Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies](summaries/2404.08197.md)
 #### [Reducing hallucination in structured outputs via Retrieval-Augmented Generation](summaries/2404.08189.md)
+#### [Conformal Prediction via Regression-as-Classification](summaries/2404.08168.md)
 #### [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](summaries/2404.07987.md)
 #### [LLoCO: Learning Long Contexts Offline](summaries/2404.07979.md)
 #### [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](summaries/2404.07973.md)
@@ -249,6 +250,7 @@
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](summaries/2403.17607.md)
 #### [Evolutionary Optimization of Model Merging Recipes](summaries/2403.13187.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](summaries/2403.08295.md)
+#### [How Far Are We from Intelligent Visual Deductive Reasoning?](summaries/2403.04732.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
 ## 2402
 #### [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](summaries/2402.19427.md)
@@ -265,6 +267,7 @@
 #### [DISTILLM: Towards Streamlined Distillation for Large Language Models](summaries/2402.03898.md)
 ## 2401
 #### [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](summaries/2401.16465.md)
+#### [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](summaries/2401.16380.md)
 #### [SliceGPT: Compress Large Language Models by Deleting Rows and Columns](summaries/2401.15024.md)
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
@@ -279,9 +282,12 @@
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
+#### [Pseudo-Generalized Dynamic View Synthesis from a Video](summaries/2310.08587.md)
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
+#### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
 ## 2309
+#### [Guiding Instruction-based Image Editing via Multimodal Large Language Models](summaries/2309.17102.md)
 #### [QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](summaries/2309.14717.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
