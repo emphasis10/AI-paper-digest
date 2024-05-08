@@ -280,6 +280,7 @@
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
 ## 2310
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
+#### [Large Language Models as Generalizable Policies for Embodied Tasks](summaries/2310.17722.md)
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 #### [Pseudo-Generalized Dynamic View Synthesis from a Video](summaries/2310.08587.md)
@@ -296,7 +297,10 @@
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
 #### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
 ## 2306
+#### [MOFI: Learning Image Representation from Noisy Entity Annotated Images](summaries/2306.07952.md)
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
+## 2305
+#### [Manifold Diffusion Fields](summaries/2305.15586.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2302
