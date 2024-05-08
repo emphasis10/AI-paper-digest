@@ -241,6 +241,7 @@
 #### [DiJiang: Efficient Large Language Models through Compact Kernelization](summaries/2403.19928.md)
 #### [Jamba: A Hybrid Transformer-Mamba Language Model](summaries/2403.19887.md)
 #### [Localizing Paragraph Memorization in Language Models](summaries/2403.19851.md)
+#### [Model Stock: All we need is just a few fine-tuned models](summaries/2403.19522.md)
 #### [sDPO: Don’t Use Your Data All at Once](summaries/2403.19270.md)
 #### [Towards a World-English Language Model for On-Device Virtual Assistants](summaries/2403.18783.md)
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](summaries/2403.18365.md)
@@ -261,6 +262,7 @@
 #### [Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](summaries/2402.05445.md)
 #### [More Agents Is All You Need](summaries/2402.05120.md)
 #### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
+#### [DISTILLM: Towards Streamlined Distillation for Large Language Models](summaries/2402.03898.md)
 ## 2401
 #### [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](summaries/2401.16465.md)
 #### [SliceGPT: Compress Large Language Models by Deleting Rows and Columns](summaries/2401.15024.md)
