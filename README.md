@@ -292,6 +292,7 @@
 #### [When Can Transformers Reason With Abstract Symbols?](summaries/2310.09753.md)
 #### [Pseudo-Generalized Dynamic View Synthesis from a Video](summaries/2310.08587.md)
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
+#### [Generative Modeling with Phase Stochastic Bridges](summaries/2310.07805.md)
 #### [JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling](summaries/2310.06347.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
 #### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
