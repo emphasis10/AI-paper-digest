@@ -1,5 +1,6 @@
 # Paper List
 ## 2405
+#### [xLSTM: Extended Long Short-Term Memory](summaries/2405.04517.md)
 #### [Customizing Text-to-Image Models with a Single Image Pair](summaries/2405.01536.md)
 #### [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](summaries/2405.01535.md)
 #### [FLAME: Factuality-Aware Alignment for Large Language Models](summaries/2405.01525.md)
@@ -253,6 +254,7 @@
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](summaries/2403.18365.md)
 #### [The Unreasonable Ineffectiveness of the Deeper Layers](summaries/2403.17887.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](summaries/2403.17607.md)
+#### [Arcee’s MergeKit: A Toolkit for Merging Large Language Models](summaries/2403.13257.md)
 #### [Evolutionary Optimization of Model Merging Recipes](summaries/2403.13187.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](summaries/2403.08295.md)
 #### [Poly-View Contrastive Learning](summaries/2403.05490.md)
@@ -296,6 +298,7 @@
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 #### [Generative Modeling with Phase Stochastic Bridges](summaries/2310.07805.md)
 #### [JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling](summaries/2310.06347.md)
+#### [Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages](summaries/2310.04799.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
 #### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
 ## 2309
