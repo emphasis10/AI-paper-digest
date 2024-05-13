@@ -1,5 +1,7 @@
 # Paper List
 ## 2405
+#### [Linearizing Large Language Models](summaries/2405.06640.md)
+#### [Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](summaries/2405.06545.md)
 #### [You Only Cache Once: Decoder-Decoder Architectures for Language Models](summaries/2405.05254.md)
 #### [ChuXin: 1.6B Technical Report](summaries/2405.04828.md)
 #### [xLSTM: Extended Long Short-Term Memory](summaries/2405.04517.md)
