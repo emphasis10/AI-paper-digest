@@ -1,6 +1,12 @@
 # Paper List
 ## 2405
 #### [xLSTM: Extended Long Short-Term Memory](summaries/2405.04517.md)
+#### [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](summaries/2405.04434.md)
+#### [Granite Code Models: A Family of Open Foundation Models for Code Intelligence](summaries/2405.04324.md)
+#### [AlphaMath Almost Zero: process Supervision without process](summaries/2405.03553.md)
+#### [MAmmoTH2: Scaling Instructions from the Web](summaries/2405.03548.md)
+#### [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](summaries/2405.03520.md)
+#### [Is Flash Attention Stable?](summaries/2405.02803.md)
 #### [Customizing Text-to-Image Models with a Single Image Pair](summaries/2405.01536.md)
 #### [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](summaries/2405.01535.md)
 #### [FLAME: Factuality-Aware Alignment for Large Language Models](summaries/2405.01525.md)
@@ -260,6 +266,7 @@
 #### [Poly-View Contrastive Learning](summaries/2403.05490.md)
 #### [How Far Are We from Intelligent Visual Deductive Reasoning?](summaries/2403.04732.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
+#### [CLLMs: Consistency Large Language Models](summaries/2403.00835.md)
 ## 2402
 #### [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](summaries/2402.19427.md)
 #### [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](summaries/2402.17764.md)
