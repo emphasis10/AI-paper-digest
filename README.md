@@ -1,5 +1,7 @@
 # Paper List
 ## 2405
+#### [You Only Cache Once: Decoder-Decoder Architectures for Language Models](summaries/2405.05254.md)
+#### [ChuXin: 1.6B Technical Report](summaries/2405.04828.md)
 #### [xLSTM: Extended Long Short-Term Memory](summaries/2405.04517.md)
 #### [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](summaries/2405.04434.md)
 #### [Granite Code Models: A Family of Open Foundation Models for Code Intelligence](summaries/2405.04324.md)
@@ -54,6 +56,7 @@
 #### [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](summaries/2404.17672.md)
 #### [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](summaries/2404.17569.md)
 #### [Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations](summaries/2404.17521.md)
+#### [Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study](summaries/2404.17136.md)
 #### [PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning](summaries/2404.16994.md)
 #### [AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](summaries/2404.16873.md)
 #### [HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections](summaries/2404.16845.md)
@@ -322,6 +325,7 @@
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
 ## 2305
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
+#### [RWKV: Reinventing RNNs for the Transformer Era](summaries/2305.13048.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2302
