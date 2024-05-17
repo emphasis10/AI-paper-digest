@@ -234,6 +234,7 @@
 #### [MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](summaries/2404.05726.md)
 #### [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](summaries/2404.05719.md)
 #### [SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing](summaries/2404.05717.md)
+#### [Evaluating Mathematical Reasoning Beyond Accuracy](summaries/2404.05692.md)
 #### [MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation](summaries/2404.05674.md)
 #### [YaART: Yet Another ART Rendering Technology](summaries/2404.05666.md)
 #### [UniFL: Improve Stable Diffusion via Unified Feedback Learning](summaries/2404.05595.md)
