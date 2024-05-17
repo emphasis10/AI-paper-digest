@@ -311,6 +311,7 @@
 #### [Evolutionary Optimization of Model Merging Recipes](summaries/2403.13187.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](summaries/2403.08295.md)
 #### [Process Modeling With Large Language Models](summaries/2403.07541.md)
+#### [VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models](summaries/2403.06098.md)
 #### [Poly-View Contrastive Learning](summaries/2403.05490.md)
 #### [How Far Are We from Intelligent Visual Deductive Reasoning?](summaries/2403.04732.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
