@@ -339,6 +339,7 @@
 #### [More Agents Is All You Need](summaries/2402.05120.md)
 #### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
 #### [DISTILLM: Towards Streamlined Distillation for Large Language Models](summaries/2402.03898.md)
+#### [ReLU$^2$ Wins: Discovering Efficient Activation Functions for Sparse LLMs](summaries/2402.03804.md)
 ## 2401
 #### [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](summaries/2401.16465.md)
 #### [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](summaries/2401.16380.md)
@@ -346,6 +347,7 @@
 #### [Demystifying Chains, Trees, and Graphs of Thoughts](summaries/2401.14295.md)
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
+#### [Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models](summaries/2401.06432.md)
 ## 2312
 #### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](summaries/2312.15166.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
@@ -371,6 +373,7 @@
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
 #### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
 ## 2309
+#### [Efficient Streaming Language Models with Attention Sinks](summaries/2309.17453.md)
 #### [Guiding Instruction-based Image Editing via Multimodal Large Language Models](summaries/2309.17102.md)
 #### [QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](summaries/2309.14717.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
@@ -385,8 +388,11 @@
 ## 2305
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
 #### [RWKV: Reinventing RNNs for the Transformer Era](summaries/2305.13048.md)
+#### [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](summaries/2305.10601.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
+## 2303
+#### [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](summaries/2303.06865.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
 ## 2211
@@ -399,5 +405,7 @@
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
 ## 2106
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
+## 2010
+#### [TurboTransformers: An Efficient GPU Serving System For Transformer Models](summaries/2010.05680.md)
 ## 2005
 #### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
