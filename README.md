@@ -1,5 +1,10 @@
 # Paper List
 ## 2405
+#### [Observational Scaling Laws and the Predictability of Language Model Performance](summaries/2405.10938.md)
+#### [INDUS: Effective and Efficient Language Models for Scientific Applications](summaries/2405.10725.md)
+#### [Layer-Condensed KV Cache for Efficient Inference of Large Language Models](summaries/2405.10637.md)
+#### [Dynamic data sampler for cross-language transfer learning in large language models](summaries/2405.10626.md)
+#### [Grounded 3D-LLM with Referent Tokens](summaries/2405.10370.md)
 #### [Toon3D: Seeing Cartoons from a New Perspective](summaries/2405.10320.md)
 #### [TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction](summaries/2405.10315.md)
 #### [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](summaries/2405.10314.md)
