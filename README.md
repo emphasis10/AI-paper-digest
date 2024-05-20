@@ -353,6 +353,7 @@
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
 #### [Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models](summaries/2401.06432.md)
+#### [RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models](summaries/2401.00396.md)
 ## 2312
 #### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](summaries/2312.15166.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
