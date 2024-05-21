@@ -388,7 +388,7 @@
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 #### [When Can Transformers Reason With Abstract Symbols?](summaries/2310.09753.md)
-#### [# 요약](summaries/2310.08659.md)
+#### [LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models](summaries/2310.08659.md)
 #### [Pseudo-Generalized Dynamic View Synthesis from a Video](summaries/2310.08587.md)
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 #### [Generative Modeling with Phase Stochastic Bridges](summaries/2310.07805.md)
@@ -417,6 +417,7 @@
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
 #### [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](summaries/2306.00978.md)
 ## 2305
+#### [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](summaries/2305.18290.md)
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
 #### [QLoRA: Efficient Finetuning of Quantized LLMs](summaries/2305.14314.md)
 #### [RWKV: Reinventing RNNs for the Transformer Era](summaries/2305.13048.md)
