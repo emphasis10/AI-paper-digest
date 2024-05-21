@@ -1,5 +1,9 @@
 # Paper List
 ## 2405
+#### [Octo: An Open-Source Generalist Robot Policy](summaries/2405.12213.md)
+#### [MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning](summaries/2405.12130.md)
+#### [Imp: Highly Capable Large Multimodal Models for Mobile Devices](summaries/2405.12107.md)
+#### [SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization](summaries/2405.11582.md)
 #### [FIFO-Diffusion: Generating Infinite Videos from Text without Training](summaries/2405.11473.md)
 #### [Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching](summaries/2405.11252.md)
 #### [Towards Modular LLMs by Building and Reusing a Library of LoRAs](summaries/2405.11157.md)
