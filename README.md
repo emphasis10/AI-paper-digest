@@ -137,6 +137,7 @@
 #### [Leveraging Large Language Models for Multimodal Search](summaries/2404.15790.md)
 #### [MotionMaster: Training-free Camera Motion Transfer For Video Generation](summaries/2404.15789.md)
 #### [BASS: Batched Attention-optimized Speculative Sampling](summaries/2404.15778.md)
+#### [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](summaries/2404.15758.md)
 #### [CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data](summaries/2404.15653.md)
 #### [ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning](summaries/2404.15449.md)
 #### [XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference](summaries/2404.15420.md)
@@ -398,6 +399,7 @@
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 #### [Generative Modeling with Phase Stochastic Bridges](summaries/2310.07805.md)
 #### [Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning](summaries/2310.06694.md)
+#### [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](summaries/2310.06625.md)
 #### [JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling](summaries/2310.06347.md)
 #### [Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages](summaries/2310.04799.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
@@ -405,6 +407,7 @@
 ## 2309
 #### [Efficient Streaming Language Models with Attention Sinks](summaries/2309.17453.md)
 #### [Guiding Instruction-based Image Editing via Multimodal Large Language Models](summaries/2309.17102.md)
+#### [Vision Transformers Need Registers](summaries/2309.16588.md)
 #### [QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](summaries/2309.14717.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
@@ -437,6 +440,8 @@
 #### [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](summaries/2303.06865.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
+## 2301
+#### [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](summaries/2301.08243.md)
 ## 2211
 #### [Fast Inference from Transformers via Speculative Decoding](summaries/2211.17192.md)
 #### [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](summaries/2211.10438.md)
