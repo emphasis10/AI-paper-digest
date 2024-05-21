@@ -360,6 +360,8 @@
 #### [RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models](summaries/2401.00396.md)
 ## 2312
 #### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](summaries/2312.15166.md)
+#### [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](summaries/2312.12456.md)
+#### [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](summaries/2312.11514.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
 #### [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](summaries/2312.00752.md)
 ## 2311
@@ -367,17 +369,28 @@
 #### [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](summaries/2311.17049.md)
 #### [RELIC: Investigating Large Language Model Responses using Self-Consistency](summaries/2311.16842.md)
 #### [Direct2.5: Diverse 3D Content Creation via Multi-view 2.5D Diffusion](summaries/2311.15980.md)
+#### [LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](summaries/2311.12023.md)
+#### [MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](summaries/2311.11501.md)
+#### [Tied-Lora: Enhancing parameter efficiency of LoRA with weight tying](summaries/2311.09578.md)
+#### [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](summaries/2311.03285.md)
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
+#### [Efficient LLM Inference on CPUs](summaries/2311.00502.md)
 ## 2310
 #### [EELBERT: Tiny Models through Dynamic Embeddings](summaries/2310.20144.md)
+#### [Accelerating LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with LITE](summaries/2310.18581.md)
+#### [LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery](summaries/2310.18356.md)
+#### [FP8-LM: Training FP8 Large Language Models](summaries/2310.18313.md)
 #### [Large Language Models as Generalizable Policies for Embodied Tasks](summaries/2310.17722.md)
+#### [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](summaries/2310.16836.md)
 #### [Matryoshka Diffusion Models](summaries/2310.15111.md)
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 #### [When Can Transformers Reason With Abstract Symbols?](summaries/2310.09753.md)
+#### [# 요약](summaries/2310.08659.md)
 #### [Pseudo-Generalized Dynamic View Synthesis from a Video](summaries/2310.08587.md)
 #### [QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](summaries/2310.08041.md)
 #### [Generative Modeling with Phase Stochastic Bridges](summaries/2310.07805.md)
+#### [Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning](summaries/2310.06694.md)
 #### [JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling](summaries/2310.06347.md)
 #### [Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages](summaries/2310.04799.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
@@ -389,33 +402,66 @@
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
+#### [Reducing shared memory footprint to leverage high throughput on Tensor Cores and its flexible API extension library](summaries/2308.15152.md)
 #### [Fast Feedforward Networks](summaries/2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
 #### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
+## 2307
+#### [ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats](summaries/2307.09782.md)
+#### [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](summaries/2307.08691.md)
 ## 2306
 #### [MOFI: Learning Image Representation from Noisy Entity Annotated Images](summaries/2306.07952.md)
+#### [SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](summaries/2306.03078.md)
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
+#### [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](summaries/2306.00978.md)
 ## 2305
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
+#### [QLoRA: Efficient Finetuning of Quantized LLMs](summaries/2305.14314.md)
 #### [RWKV: Reinventing RNNs for the Transformer Era](summaries/2305.13048.md)
 #### [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](summaries/2305.10601.md)
+#### [SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification](summaries/2305.09781.md)
+#### [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](summaries/2305.07185.md)
+#### [Fast Distributed Inference Serving for Large Language Models](summaries/2305.05920.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2303
+#### [ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation](summaries/2303.08302.md)
 #### [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](summaries/2303.06865.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
 ## 2211
 #### [Fast Inference from Transformers via Speculative Decoding](summaries/2211.17192.md)
+#### [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](summaries/2211.10438.md)
+#### [Who Says Elephants Can't Run: Bringing Large Scale MoE Models into Cloud Scale Production](summaries/2211.10017.md)
+## 2210
+#### [ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs](summaries/2210.03052.md)
+## 2209
+#### [FP8 Formats for Deep Learning](summaries/2209.05433.md)
+## 2208
+#### [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](summaries/2208.07339.md)
+## 2206
+#### [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](summaries/2206.01861.md)
 ## 2205
+#### [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](summaries/2205.14135.md)
 #### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
+#### [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](summaries/2205.05638.md)
 ## 2203
 #### [A Survey of Multi-Tenant Deep Learning Inference on GPU](summaries/2203.09040.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
 ## 2106
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
+## 2104
+#### [RoFormer: Enhanced Transformer with Rotary Position Embedding](summaries/2104.09864.md)
 ## 2010
 #### [TurboTransformers: An Efficient GPU Serving System For Transformer Models](summaries/2010.05680.md)
+## 2009
+#### [Flexible Performant GEMM Kernels on GPUs](summaries/2009.12263.md)
 ## 2005
 #### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
+## 1805
+#### [Online normalizer calculation for softmax](summaries/1805.02867.md)
+## 1803
+#### [NVIDIA Tensor Core Programmability, Performance & Precision](summaries/1803.04014.md)
+## 1706
+#### [Attention Is All You Need](summaries/1706.03762.md)
