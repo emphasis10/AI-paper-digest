@@ -1,5 +1,9 @@
 # Paper List
 ## 2405
+#### [FIFO-Diffusion: Generating Infinite Videos from Text without Training](summaries/2405.11473.md)
+#### [Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching](summaries/2405.11252.md)
+#### [Towards Modular LLMs by Building and Reusing a Library of LoRAs](summaries/2405.11157.md)
+#### [OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework](summaries/2405.11143.md)
 #### [Observational Scaling Laws and the Predictability of Language Model Performance](summaries/2405.10938.md)
 #### [INDUS: Effective and Efficient Language Models for Scientific Applications](summaries/2405.10725.md)
 #### [Layer-Condensed KV Cache for Efficient Inference of Large Language Models](summaries/2405.10637.md)
