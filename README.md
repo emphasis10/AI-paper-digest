@@ -1,5 +1,6 @@
 # Paper List
 ## 2405
+#### [PaliGemma](summaries/2405.paligemma.md)
 #### [Octo: An Open-Source Generalist Robot Policy](summaries/2405.12213.md)
 #### [MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning](summaries/2405.12130.md)
 #### [Imp: Highly Capable Large Multimodal Models for Mobile Devices](summaries/2405.12107.md)
