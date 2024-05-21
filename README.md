@@ -452,6 +452,7 @@
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
 ## 2106
+#### [LibShalom: Optimizing Small and Irregular-Shaped Matrix Multiplications on ARMv8 Multi-Cores](summaries/2106.libshalom.md)
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
 ## 2104
 #### [RoFormer: Enhanced Transformer with Rotary Position Embedding](summaries/2104.09864.md)
