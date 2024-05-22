@@ -1,7 +1,10 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](summaries/2405.12981.md)
+#### [OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](summaries/2405.12979.md)
 #### [Personalized Residuals for Concept-Driven Text-to-Image Generation](summaries/2405.12978.md)
+#### [Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](summaries/2405.12970.md)
 #### [Diffusion for World Modeling: Visual Details Matter in Atari](summaries/2405.12399.md)
 #### [Your Transformer is Secretly Linear](summaries/2405.12250.md)
 #### [Octo: An Open-Source Generalist Robot Policy](summaries/2405.12213.md)
