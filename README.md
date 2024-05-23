@@ -5,11 +5,14 @@
 #### [OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](summaries/2405.12979.md)
 #### [Personalized Residuals for Concept-Driven Text-to-Image Generation](summaries/2405.12978.md)
 #### [Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](summaries/2405.12970.md)
+#### [Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction](summaries/2405.12656.md)
 #### [Diffusion for World Modeling: Visual Details Matter in Atari](summaries/2405.12399.md)
 #### [Your Transformer is Secretly Linear](summaries/2405.12250.md)
 #### [Octo: An Open-Source Generalist Robot Policy](summaries/2405.12213.md)
+#### [Training Data Attribution via Approximate Unrolled Differentiation](summaries/2405.12186.md)
 #### [MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning](summaries/2405.12130.md)
 #### [Imp: Highly Capable Large Multimodal Models for Mobile Devices](summaries/2405.12107.md)
+#### [Information Leakage from Embedding in Large Language Models](summaries/2405.11916.md)
 #### [SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization](summaries/2405.11582.md)
 #### [FIFO-Diffusion: Generating Infinite Videos from Text without Training](summaries/2405.11473.md)
 #### [Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching](summaries/2405.11252.md)
@@ -347,6 +350,7 @@
 #### [Poly-View Contrastive Learning](summaries/2403.05490.md)
 #### [How Far Are We from Intelligent Visual Deductive Reasoning?](summaries/2403.04732.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
+#### [LAB: Large-Scale Alignment for ChatBots](summaries/2403.01081.md)
 #### [CLLMs: Consistency Large Language Models](summaries/2403.00835.md)
 ## 2402
 #### [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](summaries/2402.19427.md)
@@ -355,6 +359,7 @@
 #### [MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](summaries/2402.16840.md)
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](summaries/2402.16828.md)
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2402.16107.md)
+#### [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](summaries/2402.14905.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
@@ -464,6 +469,8 @@
 #### [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](summaries/2205.14135.md)
 #### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
 #### [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](summaries/2205.05638.md)
+## 2204
+#### [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](summaries/2204.05862.md)
 ## 2203
 #### [A Survey of Multi-Tenant Deep Learning Inference on GPU](summaries/2203.09040.md)
 ## 2202
