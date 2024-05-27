@@ -8,6 +8,7 @@
 #### [Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training](summaries/2405.15319.md)
 #### [iVideoGPT: Interactive VideoGPTs are Scalable World Models](summaries/2405.15223.md)
 #### [Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition](summaries/2405.15216.md)
+#### [OptLLM: Optimal Assignment of Queries to Large Language Models](summaries/2405.15130.md)
 #### [HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting](summaries/2405.15125.md)
 #### [Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization](summaries/2405.15071.md)
 #### [Aya 23: Open Weight Releases to Further Multilingual Progress](summaries/2405.15032.md)
@@ -384,6 +385,7 @@
 #### [Poly-View Contrastive Learning](summaries/2403.05490.md)
 #### [How Far Are We from Intelligent Visual Deductive Reasoning?](summaries/2403.04732.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
+#### [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](summaries/2403.03507.md)
 #### [LAB: Large-Scale Alignment for ChatBots](summaries/2403.01081.md)
 #### [CLLMs: Consistency Large Language Models](summaries/2403.00835.md)
 ## 2402
