@@ -96,6 +96,7 @@
 #### [xLSTM: Extended Long Short-Term Memory](summaries/2405.04517.md)
 #### [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](summaries/2405.04434.md)
 #### [Granite Code Models: A Family of Open Foundation Models for Code Intelligence](summaries/2405.04324.md)
+#### [ContextQ: Generated Questions to Support Meaningful Parent-Child Dialogue While Co-Reading](summaries/2405.03889.md)
 #### [AlphaMath Almost Zero: process Supervision without process](summaries/2405.03553.md)
 #### [MAmmoTH2: Scaling Instructions from the Web](summaries/2405.03548.md)
 #### [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](summaries/2405.03520.md)
