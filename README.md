@@ -344,6 +344,7 @@
 #### [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](summaries/2404.03204.md)
 #### [LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models](summaries/2404.03118.md)
 #### [Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference](summaries/2404.03085.md)
+#### [PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models](summaries/2404.02948.md)
 #### [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](summaries/2404.02905.md)
 #### [ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline](summaries/2404.02893.md)
 #### [On the Scalability of Diffusion-based Text-to-Image Generation](summaries/2404.02883.md)
