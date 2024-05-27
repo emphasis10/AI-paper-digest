@@ -1,8 +1,11 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models](summaries/2405.15738.md)
+#### [The Road Less Scheduled](summaries/2405.15682.md)
 #### [Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach](summaries/2405.15613.md)
 #### [Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models](summaries/2405.15574.md)
+#### [Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training](summaries/2405.15319.md)
 #### [iVideoGPT: Interactive VideoGPTs are Scalable World Models](summaries/2405.15223.md)
 #### [Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition](summaries/2405.15216.md)
 #### [HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting](summaries/2405.15125.md)
