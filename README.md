@@ -36,6 +36,7 @@
 #### [Personalized Residuals for Concept-Driven Text-to-Image Generation](summaries/2405.12978.md)
 #### [Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](summaries/2405.12970.md)
 #### [Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction](summaries/2405.12656.md)
+#### [Quantifying Emergence in Large Language Models](summaries/2405.12617.md)
 #### [Diffusion for World Modeling: Visual Details Matter in Atari](summaries/2405.12399.md)
 #### [Your Transformer is Secretly Linear](summaries/2405.12250.md)
 #### [Octo: An Open-Source Generalist Robot Policy](summaries/2405.12213.md)
@@ -145,6 +146,7 @@
 #### [Stylus: Automatic Adapter Selection for Diffusion Models](summaries/2404.18928.md)
 #### [Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting](summaries/2404.18911.md)
 #### [Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models](summaries/2404.18796.md)
+#### [PECC: Problem Extraction and Coding Challenges](summaries/2404.18766.md)
 #### [ChatGPT as an inventor: Eliciting the strengths and weaknesses of current large language models against humans in engineering design](summaries/2404.18479.md)
 #### [Capabilities of Gemini Models in Medicine](summaries/2404.18416.md)
 #### [LEGENT: Open Platform for Embodied Agents](summaries/2404.18243.md)
@@ -444,6 +446,7 @@
 #### [JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling](summaries/2310.06347.md)
 #### [Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages](summaries/2310.04799.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
+#### [Improved Baselines with Visual Instruction Tuning](summaries/2310.03744.md)
 #### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
 ## 2309
 #### [Efficient Streaming Language Models with Attention Sinks](summaries/2309.17453.md)
