@@ -1,6 +1,13 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [Matryoshka Multimodal Models](summaries/2405.17430.md)
+#### [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](summaries/2405.17414.md)
+#### [Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer](summaries/2405.17405.md)
+#### [$\textit{Trans-LoRA}$: towards data-free Transferable Parameter Efficient Finetuning](summaries/2405.17258.md)
+#### [An Introduction to Vision-Language Modeling](summaries/2405.17247.md)
+#### [Part123: Part-aware 3D Reconstruction from a Single-view Image](summaries/2405.16888.md)
+#### [Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models](summaries/2405.16759.md)
 #### [ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models](summaries/2405.15738.md)
 #### [The Road Less Scheduled](summaries/2405.15682.md)
 #### [Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach](summaries/2405.15613.md)
