@@ -1,6 +1,11 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [Phased Consistency Model](summaries/2405.18407.md)
+#### [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](summaries/2405.18377.md)
+#### [2BP: 2-Stage Backpropagation](summaries/2405.18047.md)
+#### [VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections](summaries/2405.17991.md)
+#### [Yuan 2.0-M32: Mixture of Experts with Attention Router](summaries/2405.17976.md)
 #### [Matryoshka Multimodal Models](summaries/2405.17430.md)
 #### [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](summaries/2405.17414.md)
 #### [Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer](summaries/2405.17405.md)
