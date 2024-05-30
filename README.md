@@ -1,7 +1,10 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [GFlow: Recovering 4D World from Monocular Video](summaries/2405.18426.md)
+#### [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](summaries/2405.18424.md)
 #### [Phased Consistency Model](summaries/2405.18407.md)
+#### [Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning](summaries/2405.18386.md)
 #### [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](summaries/2405.18377.md)
 #### [2BP: 2-Stage Backpropagation](summaries/2405.18047.md)
 #### [VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections](summaries/2405.17991.md)
