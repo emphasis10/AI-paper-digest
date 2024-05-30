@@ -1,6 +1,18 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](summaries/2405.19332.md)
+#### [NPGA: Neural Parametric Gaussian Avatars](summaries/2405.19331.md)
+#### [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](summaries/2405.19327.md)
+#### [Nearest Neighbor Speculative Decoding for LLM Generation and Attribution](summaries/2405.19325.md)
+#### [Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF](summaries/2405.19320.md)
+#### [Offline Regularised Reinforcement Learning for Large Language Models Alignment](summaries/2405.19107.md)
+#### [EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture](summaries/2405.18991.md)
+#### [LLMs achieve adult human performance on higher-order theory of mind tasks](summaries/2405.18870.md)
+#### [T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback](summaries/2405.18750.md)
+#### [Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities](summaries/2405.18669.md)
+#### [Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication](summaries/2405.18515.md)
+#### [SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound Generation](summaries/2405.18503.md)
 #### [GFlow: Recovering 4D World from Monocular Video](summaries/2405.18426.md)
 #### [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](summaries/2405.18424.md)
 #### [Phased Consistency Model](summaries/2405.18407.md)
