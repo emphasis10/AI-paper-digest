@@ -1,6 +1,17 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [MotionLLM: Understanding Human Behaviors from Human Motions and Videos](summaries/2405.20340.md)
+#### [Xwin-LM: Strong and Scalable Alignment Practice for LLMs](summaries/2405.20335.md)
+#### [GECO: Generative Image-to-3D within a SECOnd](summaries/2405.20327.md)
+#### [DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation](summaries/2405.20289.md)
+#### [MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model](summaries/2405.20222.md)
+#### [Jina CLIP: Your CLIP Model Is Also Your Text Retriever](summaries/2405.20204.md)
+#### [PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting](summaries/2405.19957.md)
+#### [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](summaries/2405.19893.md)
+#### [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](summaries/2405.19888.md)
+#### [DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories](summaries/2405.19856.md)
+#### [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](summaries/2405.19707.md)
 #### [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](summaries/2405.19332.md)
 #### [NPGA: Neural Parametric Gaussian Avatars](summaries/2405.19331.md)
 #### [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](summaries/2405.19327.md)
