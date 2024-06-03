@@ -1,6 +1,7 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [4Diffusion: Multi-view Video Diffusion Model for 4D Generation](summaries/2405.20674.md)
 #### [MotionLLM: Understanding Human Behaviors from Human Motions and Videos](summaries/2405.20340.md)
 #### [Xwin-LM: Strong and Scalable Alignment Practice for LLMs](summaries/2405.20335.md)
 #### [GECO: Generative Image-to-3D within a SECOnd](summaries/2405.20327.md)
@@ -435,6 +436,7 @@
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2402.16107.md)
 #### [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](summaries/2402.14905.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
+#### [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](summaries/2402.13605.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
 #### [Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](summaries/2402.05445.md)
