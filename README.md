@@ -532,6 +532,7 @@
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2303
+#### [Sigmoid Loss for Language Image Pre-Training](summaries/2303.15343.md)
 #### [ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation](summaries/2303.08302.md)
 #### [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](summaries/2303.06865.md)
 ## 2302
