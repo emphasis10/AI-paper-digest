@@ -1,7 +1,11 @@
 # Paper List
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
+#### [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](summaries/2405.21075.md)
+#### [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](summaries/2405.21060.md)
+#### [Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling](summaries/2405.21048.md)
 #### [4Diffusion: Multi-view Video Diffusion Model for 4D Generation](summaries/2405.20674.md)
+#### [Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models](summaries/2405.20541.md)
 #### [MotionLLM: Understanding Human Behaviors from Human Motions and Videos](summaries/2405.20340.md)
 #### [Xwin-LM: Strong and Scalable Alignment Practice for LLMs](summaries/2405.20335.md)
 #### [GECO: Generative Image-to-3D within a SECOnd](summaries/2405.20327.md)
@@ -30,6 +34,7 @@
 #### [Phased Consistency Model](summaries/2405.18407.md)
 #### [Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning](summaries/2405.18386.md)
 #### [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](summaries/2405.18377.md)
+#### [4-bit Shampoo for Memory-Efficient Network Training](summaries/2405.18144.md)
 #### [2BP: 2-Stage Backpropagation](summaries/2405.18047.md)
 #### [VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections](summaries/2405.17991.md)
 #### [Yuan 2.0-M32: Mixture of Experts with Attention Router](summaries/2405.17976.md)
