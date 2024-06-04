@@ -1,4 +1,11 @@
 # Paper List
+## 2406
+#### [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](summaries/2406.01574.md)
+#### [Learning Temporally Consistent Video Depth from Video Diffusion Priors](summaries/2406.01493.md)
+#### [ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation](summaries/2406.00908.md)
+#### [Show, Don't Tell: Aligning Language Models with Demonstrated Feedback](summaries/2406.00888.md)
+#### [Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning](summaries/2406.00392.md)
+#### [$μ$LO: Compute-Efficient Meta-Generalization of Learned Optimizers](summaries/2406.00153.md)
 ## 2405
 #### [PaliGemma](summaries/2405.paligemma.md)
 #### [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](summaries/2405.21075.md)
