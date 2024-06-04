@@ -431,6 +431,7 @@
 #### [VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models](summaries/2403.06098.md)
 #### [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](summaries/2403.05530.md)
 #### [Poly-View Contrastive Learning](summaries/2403.05490.md)
+#### [Is Cosine-Similarity of Embeddings Really About Similarity?](summaries/2403.05440.md)
 #### [How Far Are We from Intelligent Visual Deductive Reasoning?](summaries/2403.04732.md)
 #### [Learning to Decode Collaboratively with Multiple Language Models](summaries/2403.03870.md)
 #### [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](summaries/2403.03507.md)
