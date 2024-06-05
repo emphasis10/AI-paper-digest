@@ -441,6 +441,7 @@
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](summaries/2403.18365.md)
 #### [The Unreasonable Ineffectiveness of the Deeper Layers](summaries/2403.17887.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](summaries/2403.17607.md)
+#### [Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation](summaries/2403.13777.md)
 #### [Arcee’s MergeKit: A Toolkit for Merging Large Language Models](summaries/2403.13257.md)
 #### [Evolutionary Optimization of Model Merging Recipes](summaries/2403.13187.md)
 #### [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](summaries/2403.12968.md)
