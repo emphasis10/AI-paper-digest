@@ -1,5 +1,13 @@
 # Paper List
 ## 2406
+#### [To Believe or Not to Believe Your LLM](summaries/2406.02543.md)
+#### [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](summaries/2406.02523.md)
+#### [V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation](summaries/2406.02511.md)
+#### [CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation](summaries/2406.02509.md)
+#### [Guiding a Diffusion Model with a Bad Version of Itself](summaries/2406.02507.md)
+#### [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](summaries/2406.02430.md)
+#### [I4VGen: Image as Stepping Stone for Text-to-Video Generation](summaries/2406.02230.md)
+#### [Self-Improving Robust Preference Optimization](summaries/2406.01660.md)
 #### [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](summaries/2406.01574.md)
 #### [Learning Temporally Consistent Video Depth from Video Diffusion Priors](summaries/2406.01493.md)
 #### [ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation](summaries/2406.00908.md)
