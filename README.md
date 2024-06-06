@@ -1,6 +1,14 @@
 # Paper List
 ## 2406
+#### [Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](summaries/2406.03184.md)
+#### [LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive Modeling of Audio Discrete Codes](summaries/2406.02897.md)
+#### [PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs](summaries/2406.02886.md)
+#### [PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM](summaries/2406.02884.md)
+#### [Xmodel-LM Technical Report](summaries/2406.02856.md)
+#### [Item-Language Model for Conversational Recommendation](summaries/2406.02844.md)
+#### [Block Transformer: Global-to-Local Language Modeling for Fast Inference](summaries/2406.02657.md)
 #### [To Believe or Not to Believe Your LLM](summaries/2406.02543.md)
+#### [Parrot: Multilingual Visual Instruction Tuning](summaries/2406.02539.md)
 #### [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](summaries/2406.02523.md)
 #### [V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation](summaries/2406.02511.md)
 #### [CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation](summaries/2406.02509.md)
