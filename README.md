@@ -1,5 +1,11 @@
 # Paper List
 ## 2406
+#### [BitsFusion: 1.99 bits Weight Quantization of Diffusion Model](summaries/2406.04333.md)
+#### [SF-V: Single Forward Video Generation Model](summaries/2406.04324.md)
+#### [VideoTetris: Towards Compositional Text-to-Video Generation](summaries/2406.04277.md)
+#### [Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](summaries/2406.04271.md)
+#### [Open-Endedness is Essential for Artificial Superhuman Intelligence](summaries/2406.04268.md)
+#### [AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](summaries/2406.04151.md)
 #### [Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](summaries/2406.03184.md)
 #### [LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive Modeling of Audio Discrete Codes](summaries/2406.02897.md)
 #### [PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs](summaries/2406.02886.md)
