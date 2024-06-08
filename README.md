@@ -1,7 +1,9 @@
 # Paper List
 ## 2406
 #### [BitsFusion: 1.99 bits Weight Quantization of Diffusion Model](summaries/2406.04333.md)
+#### [ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](summaries/2406.04325.md)
 #### [SF-V: Single Forward Video Generation Model](summaries/2406.04324.md)
+#### [Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step](summaries/2406.04314.md)
 #### [VideoTetris: Towards Compositional Text-to-Video Generation](summaries/2406.04277.md)
 #### [Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](summaries/2406.04271.md)
 #### [Open-Endedness is Essential for Artificial Superhuman Intelligence](summaries/2406.04268.md)
@@ -24,6 +26,7 @@
 #### [Self-Improving Robust Preference Optimization](summaries/2406.01660.md)
 #### [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](summaries/2406.01574.md)
 #### [Learning Temporally Consistent Video Depth from Video Diffusion Priors](summaries/2406.01493.md)
+#### [pOps: Photo-Inspired Diffusion Operators](summaries/2406.01300.md)
 #### [ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation](summaries/2406.00908.md)
 #### [Show, Don't Tell: Aligning Language Models with Demonstrated Feedback](summaries/2406.00888.md)
 #### [Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning](summaries/2406.00392.md)
