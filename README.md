@@ -1,5 +1,13 @@
 # Paper List
 ## 2406
+#### [WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild](summaries/2406.04770.md)
+#### [CRAG -- Comprehensive RAG Benchmark](summaries/2406.04744.md)
+#### [Mixture-of-Agents Enhances Large Language Model Capabilities](summaries/2406.04692.md)
+#### [Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach](summaries/2406.04594.md)
+#### [Proofread: Fixes All Errors with One Tap](summaries/2406.04523.md)
+#### [NATURAL PLAN: Benchmarking LLMs on Natural Language Planning](summaries/2406.04520.md)
+#### [GenAI Arena: An Open Evaluation Platform for Generative Models](summaries/2406.04485.md)
+#### [Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](summaries/2406.04391.md)
 #### [BitsFusion: 1.99 bits Weight Quantization of Diffusion Model](summaries/2406.04333.md)
 #### [ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](summaries/2406.04325.md)
 #### [SF-V: Single Forward Video Generation Model](summaries/2406.04324.md)
