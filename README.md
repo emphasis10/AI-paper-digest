@@ -1,5 +1,6 @@
 # Paper List
 ## 2406
+#### [MLCM: Multistep Consistency Distillation of Latent Diffusion Model](summaries/2406.05768.md)
 #### [WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild](summaries/2406.04770.md)
 #### [CRAG -- Comprehensive RAG Benchmark](summaries/2406.04744.md)
 #### [Mixture-of-Agents Enhances Large Language Model Capabilities](summaries/2406.04692.md)
