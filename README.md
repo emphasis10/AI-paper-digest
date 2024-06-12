@@ -1,5 +1,10 @@
 # Paper List
 ## 2406
+#### [Zero-shot Image Editing with Reference Imitation](summaries/2406.07547.md)
+#### [Simple and Effective Masked Diffusion Language Models](summaries/2406.07524.md)
+#### [TextGrad: Automatic "Differentiation" via Text](summaries/2406.07496.md)
+#### [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](summaries/2406.07472.md)
+#### [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](summaries/2406.06592.md)
 #### [MLCM: Multistep Consistency Distillation of Latent Diffusion Model](summaries/2406.05768.md)
 #### [WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild](summaries/2406.04770.md)
 #### [CRAG -- Comprehensive RAG Benchmark](summaries/2406.04744.md)
