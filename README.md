@@ -1,5 +1,11 @@
 # Paper List
 ## 2406
+#### [mDPO: Conditional Preference Optimization for Multimodal Large Language Models](summaries/2406.11839.md)
+#### [DataComp-LM: In search of the next generation of training sets for language models](summaries/2406.11794.md)
+#### [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](summaries/2406.11768.md)
+#### [Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion](summaries/2406.11196.md)
+#### [L4GM: Large 4D Gaussian Reconstruction Model](summaries/2406.10324.md)
+#### [MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers](summaries/2406.10163.md)
 #### [Zero-shot Image Editing with Reference Imitation](summaries/2406.07547.md)
 #### [Simple and Effective Masked Diffusion Language Models](summaries/2406.07524.md)
 #### [TextGrad: Automatic "Differentiation" via Text](summaries/2406.07496.md)
