@@ -1,8 +1,14 @@
 # Paper List
 ## 2406
+#### [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](summaries/2406.12793.md)
+#### [OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI](summaries/2406.12753.md)
+#### [TroL: Traversal of Layers for Large Language and Vision Models](summaries/2406.12246.md)
+#### [Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks](summaries/2406.12066.md)
+#### [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](summaries/2406.11931.md)
 #### [mDPO: Conditional Preference Optimization for Multimodal Large Language Models](summaries/2406.11839.md)
 #### [WPO: Enhancing RLHF with Weighted Preference Optimization](summaries/2406.11827.md)
 #### [VideoLLM-online: Online Video Large Language Model for Streaming Video](summaries/2406.11816.md)
+#### [RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content](summaries/2406.11811.md)
 #### [DataComp-LM: In search of the next generation of training sets for language models](summaries/2406.11794.md)
 #### [Task Me Anything](summaries/2406.11775.md)
 #### [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](summaries/2406.11768.md)
