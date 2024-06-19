@@ -617,10 +617,12 @@
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](summaries/2402.13605.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
+#### [OneBit: Towards Extremely Low-bit Large Language Models](summaries/2402.11295.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
 #### [Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](summaries/2402.05445.md)
 #### [More Agents Is All You Need](summaries/2402.05120.md)
 #### [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](summaries/2402.04615.md)
+#### [BiLLM: Pushing the Limit of Post-Training Quantization for LLMs](summaries/2402.04291.md)
 #### [DISTILLM: Towards Streamlined Distillation for Large Language Models](summaries/2402.03898.md)
 #### [ReLU$^2$ Wins: Discovering Efficient Activation Functions for Sparse LLMs](summaries/2402.03804.md)
 ## 2401
