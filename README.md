@@ -133,6 +133,7 @@
 #### [ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization](summaries/2406.05981.md)
 #### [CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark](summaries/2406.05967.md)
 #### [Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters](summaries/2406.05955.md)
+#### [Attention as a Hypernetwork](summaries/2406.05816.md)
 #### [Unified Text-to-Image Generation and Retrieval](summaries/2406.05814.md)
 #### [MLCM: Multistep Consistency Distillation of Latent Diffusion Model](summaries/2406.05768.md)
 #### [GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement](summaries/2406.05649.md)
@@ -612,6 +613,7 @@
 #### [BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models](summaries/2403.18365.md)
 #### [The Unreasonable Ineffectiveness of the Deeper Layers](summaries/2403.17887.md)
 #### [Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs](summaries/2403.17607.md)
+#### [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models](summaries/2403.15388.md)
 #### [Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation](summaries/2403.13777.md)
 #### [Arcee’s MergeKit: A Toolkit for Merging Large Language Models](summaries/2403.13257.md)
 #### [Evolutionary Optimization of Model Merging Recipes](summaries/2403.13187.md)
@@ -710,6 +712,7 @@
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
+#### [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](summaries/2308.16369.md)
 #### [Reducing shared memory footprint to leverage high throughput on Tensor Cores and its flexible API extension library](summaries/2308.15152.md)
 #### [Fast Feedforward Networks](summaries/2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
