@@ -1,5 +1,6 @@
 # Paper List
 ## 2406
+#### [Instruction Pre-Training: Language Models are Supervised Multitask Learners](summaries/2406.14491.md)
 #### [Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation](summaries/2406.12849.md)
 #### [VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing](summaries/2406.12831.md)
 #### [From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](summaries/2406.12824.md)
