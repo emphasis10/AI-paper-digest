@@ -1,5 +1,6 @@
 # Paper List
 ## 2406
+#### [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](summaries/2406.14563.md)
 #### [Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities](summaries/2406.14562.md)
 #### [Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs](summaries/2406.14544.md)
 #### [Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps](summaries/2406.14539.md)
@@ -9,9 +10,11 @@
 #### [LiveMind: Low-latency Large Language Models with Simultaneous Inference](summaries/2406.14319.md)
 #### [ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning](summaries/2406.14130.md)
 #### [PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents](summaries/2406.13923.md)
+#### [StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images](summaries/2406.13735.md)
 #### [Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation](summaries/2406.13663.md)
 #### [Improving Visual Commonsense in Language Models via Multiple Image Generation](summaries/2406.13621.md)
 #### [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](summaries/2406.13542.md)
+#### [Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models](summaries/2406.13099.md)
 #### [GLiNER multi-task: Generalist Lightweight Model for Various Information Extraction Tasks](summaries/2406.12925.md)
 #### [Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation](summaries/2406.12849.md)
 #### [VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing](summaries/2406.12831.md)
@@ -59,6 +62,7 @@
 #### [Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization](summaries/2406.11431.md)
 #### [HARE: HumAn pRiors, a key to small language model Efficiency](summaries/2406.11410.md)
 #### [Evaluating Open Language Models Across Task Types, Application Domains, and Reasoning Types: An In-Depth Experimental Analysis](summaries/2406.11402.md)
+#### [A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models](summaries/2406.11289.md)
 #### [Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models](summaries/2406.11230.md)
 #### [Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion](summaries/2406.11196.md)
 #### [Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](summaries/2406.11139.md)
