@@ -1,11 +1,14 @@
 # Paper List
 ## 2406
+#### [ToVo: Toxicity Taxonomy via Voting](summaries/2406.14835.md)
+#### [How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions](summaries/2406.14805.md)
 #### [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](summaries/2406.14563.md)
 #### [Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities](summaries/2406.14562.md)
 #### [Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs](summaries/2406.14544.md)
 #### [Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps](summaries/2406.14539.md)
 #### [MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding](summaries/2406.14515.md)
 #### [Instruction Pre-Training: Language Models are Supervised Multitask Learners](summaries/2406.14491.md)
+#### [Jailbreaking as a Reward Misspecification Problem](summaries/2406.14393.md)
 #### [$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials](summaries/2406.14347.md)
 #### [LiveMind: Low-latency Large Language Models with Simultaneous Inference](summaries/2406.14319.md)
 #### [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](summaries/2406.14283.md)
