@@ -708,6 +708,7 @@
 #### [Training Neural Networks from Scratch with Parallel Low-Rank Adapters](summaries/2402.16828.md)
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2402.16107.md)
 #### [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](summaries/2402.14905.md)
+#### [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs](summaries/2402.14740.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](summaries/2402.13605.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
@@ -731,6 +732,7 @@
 #### [RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models](summaries/2401.00396.md)
 ## 2312
 #### [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](summaries/2312.15166.md)
+#### [Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](summaries/2312.15011.md)
 #### [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](summaries/2312.12456.md)
 #### [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](summaries/2312.11514.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
@@ -772,6 +774,7 @@
 #### [Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages](summaries/2310.04799.md)
 #### [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](summaries/2310.04564.md)
 #### [Improved Baselines with Visual Instruction Tuning](summaries/2310.03744.md)
+#### [Large Language Models as Analogical Reasoners](summaries/2310.01714.md)
 #### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
 ## 2309
 #### [Efficient Streaming Language Models with Attention Sinks](summaries/2309.17453.md)
@@ -786,10 +789,12 @@
 #### [Fast Feedforward Networks](summaries/2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
 #### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
+#### [AgentBench: Evaluating LLMs as Agents](summaries/2308.03688.md)
 ## 2307
 #### [ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats](summaries/2307.09782.md)
 #### [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](summaries/2307.08691.md)
 ## 2306
+#### [MotionGPT: Finetuned LLMs Are General-Purpose Motion Generators](summaries/2306.10900.md)
 #### [MOFI: Learning Image Representation from Noisy Entity Annotated Images](summaries/2306.07952.md)
 #### [SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](summaries/2306.03078.md)
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
@@ -804,16 +809,22 @@
 #### [SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification](summaries/2305.09781.md)
 #### [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](summaries/2305.07185.md)
 #### [Fast Distributed Inference Serving for Large Language Models](summaries/2305.05920.md)
+#### [Shap-E: Generating Conditional 3D Implicit Functions](summaries/2305.02463.md)
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2303
 #### [Sigmoid Loss for Language Image Pre-Training](summaries/2303.15343.md)
+#### [Sparks of Artificial General Intelligence: Early experiments with GPT-4](summaries/2303.12712.md)
 #### [ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation](summaries/2303.08302.md)
 #### [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](summaries/2303.06865.md)
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
+#### [Active Prompting with Chain-of-Thought for Large Language Models](summaries/2302.12246.md)
+#### [Offsite-Tuning: Transfer Learning without Full Model](summaries/2302.04870.md)
 ## 2301
 #### [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](summaries/2301.08243.md)
+#### [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](summaries/2301.00774.md)
+#### [Muse: Text-To-Image Generation via Masked Generative Transformers](summaries/2301.00704.md)
 ## 2211
 #### [Fast Inference from Transformers via Speculative Decoding](summaries/2211.17192.md)
 #### [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](summaries/2211.10438.md)
