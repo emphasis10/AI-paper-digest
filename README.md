@@ -1,5 +1,9 @@
 # Paper List
 ## 2406
+#### [DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation](summaries/2406.16855.md)
+#### [Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters](summaries/2406.16758.md)
+#### [VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](summaries/2406.16338.md)
+#### [Video-Infinity: Distributed Long Video Generation](summaries/2406.16260.md)
 #### [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](summaries/2406.15349.md)
 #### [LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](summaries/2406.15319.md)
 #### [Cognitive Map for Language Models: Optimal Planning via Verbally Representing the World Model](summaries/2406.15275.md)
@@ -8,6 +12,7 @@
 #### [A Tale of Trust and Accuracy: Base vs. Instruct LLMs in RAG Systems](summaries/2406.14972.md)
 #### [Towards Retrieval Augmented Generation over Large Video Libraries](summaries/2406.14938.md)
 #### [ToVo: Toxicity Taxonomy via Voting](summaries/2406.14835.md)
+#### [Efficient Continual Pre-training by Mitigating the Stability Gap](summaries/2406.14833.md)
 #### [How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions](summaries/2406.14805.md)
 #### [Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework](summaries/2406.14783.md)
 #### [RE-AdaptIR: Improving Information Retrieval through Reverse Engineered Adaptation](summaries/2406.14764.md)
