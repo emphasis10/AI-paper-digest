@@ -741,6 +741,7 @@
 #### [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](summaries/2403.12895.md)
 #### [LLM as a System Service on Mobile Devices](summaries/2403.11805.md)
 #### [RAFT: Adapting Language Model to Domain Specific RAG](summaries/2403.10131.md)
+#### [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](summaries/2403.09629.md)
 #### [WavCraft: Audio Editing and Generation with Large Language Models](summaries/2403.09527.md)
 #### [Gemma: Open Models Based on Gemini Research and Technology](summaries/2403.08295.md)
 #### [Process Modeling With Large Language Models](summaries/2403.07541.md)
