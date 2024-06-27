@@ -163,6 +163,7 @@
 #### [Bootstrapping Language Models with DPO Implicit Rewards](summaries/2406.09760.md)
 #### [Multimodal Large Language Models with Fusion Low Rank Adaptation for Device Directed Speech Detection](summaries/2406.09617.md)
 #### [Decoding the Diversity: A Review of the Indic AI Research Landscape](summaries/2406.09559.md)
+#### [Comparative Analysis of Personalized Voice Activity Detection Systems: Assessing Real-World Effectiveness](summaries/2406.09443.md)
 #### [Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models](summaries/2406.09416.md)
 #### [An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels](summaries/2406.09415.md)
 #### [Depth Anything V2](summaries/2406.09414.md)
@@ -828,6 +829,7 @@
 #### [Tied-Lora: Enhancing parameter efficiency of LoRA with weight tying](summaries/2311.09578.md)
 #### [PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning](summaries/2311.08711.md)
 #### [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](summaries/2311.03285.md)
+#### [Server-side Rescoring of Spoken Entity-centric Knowledge Queries for Virtual Assistants](summaries/2311.01398.md)
 #### [FlashDecoding++: Faster Large Langauge Model Inference on GPUs](summaries/2311.01282.md)
 #### [Efficient LLM Inference on CPUs](summaries/2311.00502.md)
 ## 2310
