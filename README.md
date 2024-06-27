@@ -161,6 +161,7 @@
 #### [ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation](summaries/2406.09961.md)
 #### [GEB-1.3B: Open Lightweight Large Language Model](summaries/2406.09900.md)
 #### [Bootstrapping Language Models with DPO Implicit Rewards](summaries/2406.09760.md)
+#### [Multimodal Large Language Models with Fusion Low Rank Adaptation for Device Directed Speech Detection](summaries/2406.09617.md)
 #### [Decoding the Diversity: A Review of the Indic AI Research Landscape](summaries/2406.09559.md)
 #### [Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models](summaries/2406.09416.md)
 #### [An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels](summaries/2406.09415.md)
@@ -228,6 +229,7 @@
 #### [Merging Improves Self-Critique Against Jailbreak Attacks](summaries/2406.07188.md)
 #### [Never Miss A Beat: An Efficient Recipe for Context Window Extension of Large Language Models with Consistent "Middle" Enhancement](summaries/2406.07138.md)
 #### [AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising](summaries/2406.06911.md)
+#### [Synthetic Query Generation using Large Language Models for Virtual Assistants](summaries/2406.06729.md)
 #### [SEE-2-SOUND: Zero-Shot Spatial Environment-to-Spatial Sound](summaries/2406.06612.md)
 #### [The Prompt Report: A Systematic Survey of Prompting Techniques](summaries/2406.06608.md)
 #### [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](summaries/2406.06592.md)
@@ -810,6 +812,7 @@
 #### [Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](summaries/2312.15011.md)
 #### [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](summaries/2312.12456.md)
 #### [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](summaries/2312.11514.md)
+#### [Conformer-Based Speech Recognition On Extreme Edge-Computing Devices](summaries/2312.10359.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
 #### [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](summaries/2312.00752.md)
 ## 2311
