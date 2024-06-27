@@ -1,5 +1,7 @@
 # Paper List
 ## 2406
+#### [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](summaries/2406.18521.md)
+#### [Octo-planner: On-device Language Model for Planner-Action Agents](summaries/2406.18082.md)
 #### [Fast and Uncertainty-Aware SVBRDF Recovery from Multi-View Capture using Frequency Domain Analysis](summaries/2406.17774.md)
 #### [MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning](summaries/2406.17770.md)
 #### [DiffusionPDE: Generative PDE-Solving Under Partial Observation](summaries/2406.17763.md)
@@ -26,6 +28,7 @@
 #### [Repulsive Score Distillation for Diverse Sampling of Diffusion Models](summaries/2406.16683.md)
 #### [Segment Any Text: A Universal Approach for Robust, Efficient and Adaptable Sentence Segmentation](summaries/2406.16678.md)
 #### [On the Transformations across Reward Model, Parameter Update, and In-Context Prompt](summaries/2406.16377.md)
+#### [EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records](summaries/2406.16341.md)
 #### [VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](summaries/2406.16338.md)
 #### [YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals](summaries/2406.16273.md)
 #### [Video-Infinity: Distributed Long Video Generation](summaries/2406.16260.md)
