@@ -1,5 +1,6 @@
 # Paper List
 ## 2406
+#### [Gemma 2: Improving Open Language Models at a Practical Size](summaries/2406.gemma2.md)
 #### [OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding](summaries/2406.19389.md)
 #### [Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding](summaries/2406.19263.md)
 #### [Aligning Teacher with Student Preferences for Tailored Training Data Generation](summaries/2406.19227.md)
