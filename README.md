@@ -5,6 +5,7 @@
 #### [Scaling Synthetic Data Creation with 1,000,000,000 Personas](summaries/2406.20094.md)
 #### [Dataset Size Recovery from LoRA Weights](summaries/2406.19395.md)
 #### [OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding](summaries/2406.19389.md)
+#### [The Remarkable Robustness of LLMs: Stages of Inference?](summaries/2406.19384.md)
 #### [LiveBench: A Challenging, Contamination-Free LLM Benchmark](summaries/2406.19314.md)
 #### [HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale](summaries/2406.19280.md)
 #### [Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding](summaries/2406.19263.md)
