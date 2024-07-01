@@ -262,6 +262,7 @@
 #### [World Models with Hints of Large Language Models for Goal Achieving](summaries/2406.07381.md)
 #### [Needle In A Multimodal Haystack](summaries/2406.07230.md)
 #### [Merging Improves Self-Critique Against Jailbreak Attacks](summaries/2406.07188.md)
+#### [TernaryLLM: Ternarized Large Language Model](summaries/2406.07177.md)
 #### [Never Miss A Beat: An Efficient Recipe for Context Window Extension of Large Language Models with Consistent "Middle" Enhancement](summaries/2406.07138.md)
 #### [AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising](summaries/2406.06911.md)
 #### [Synthetic Query Generation using Large Language Models for Virtual Assistants](summaries/2406.06729.md)
@@ -959,6 +960,7 @@
 #### [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](summaries/2208.07339.md)
 ## 2206
 #### [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](summaries/2206.01861.md)
+#### [NIPQ: Noise proxy-based Integrated Pseudo-Quantization](summaries/2206.00820.md)
 ## 2205
 #### [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](summaries/2205.14135.md)
 #### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
