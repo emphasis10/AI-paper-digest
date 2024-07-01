@@ -54,6 +54,7 @@
 #### [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](summaries/2406.16860.md)
 #### [DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation](summaries/2406.16855.md)
 #### [Long Context Transfer from Language to Vision](summaries/2406.16852.md)
+#### [RaTEScore: A Metric for Radiology Report Generation](summaries/2406.16845.md)
 #### [ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians](summaries/2406.16815.md)
 #### [Adam-mini: Use Fewer Learning Rates To Gain More](summaries/2406.16793.md)
 #### [OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?](summaries/2406.16772.md)
