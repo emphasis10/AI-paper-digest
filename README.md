@@ -785,6 +785,8 @@
 #### [HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach](summaries/2404.01094.md)
 ## 2403
 #### [ReALM: Reference Resolution As Language Modeling](summaries/2403.20329.md)
+#### [Gecko: Versatile Text Embeddings Distilled from Large Language Models](summaries/2403.20327.md)
+#### [Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs](summaries/2403.20041.md)
 #### [DiJiang: Efficient Large Language Models through Compact Kernelization](summaries/2403.19928.md)
 #### [Jamba: A Hybrid Transformer-Mamba Language Model](summaries/2403.19887.md)
 #### [Localizing Paragraph Memorization in Language Models](summaries/2403.19851.md)
