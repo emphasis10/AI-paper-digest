@@ -1,5 +1,6 @@
 # Paper List
 ## 2406
+#### [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](summaries/2406.metallmcompiler.md)
 #### [Gemma 2: Improving Open Language Models at a Practical Size](summaries/2406.gemma2.md)
 #### [Scaling Synthetic Data Creation with 1,000,000,000 Personas](summaries/2406.20094.md)
 #### [Dataset Size Recovery from LoRA Weights](summaries/2406.19395.md)
@@ -852,6 +853,7 @@
 #### [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](summaries/2312.11514.md)
 #### [Conformer-Based Speech Recognition On Extreme Edge-Computing Devices](summaries/2312.10359.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
+#### [An LLM Compiler for Parallel Function Calling](summaries/2312.04511.md)
 #### [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](summaries/2312.00752.md)
 ## 2311
 #### [Diffusion Models Without Attention](summaries/2311.18257.md)
