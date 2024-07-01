@@ -171,6 +171,7 @@
 #### [DataComp-LM: In search of the next generation of training sets for language models](summaries/2406.11794.md)
 #### [Task Me Anything](summaries/2406.11775.md)
 #### [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](summaries/2406.11768.md)
+#### [Measuring memorization in RLHF for code completion](summaries/2406.11715.md)
 #### [Nemotron-4 340B Technical Report](summaries/2406.11704.md)
 #### [Tokenization Falling Short: The Curse of Tokenization](summaries/2406.11687.md)
 #### [Ruby Teaming: Improving Quality Diversity Search with Memory for Automated Red Teaming](summaries/2406.11654.md)
