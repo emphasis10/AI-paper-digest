@@ -1,6 +1,7 @@
 # Paper List
 ## 2407
 #### [DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](summaries/2407.01519.md)
+#### [FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](summaries/2407.01494.md)
 #### [RegMix: Data Mixture as Regression for Language Model Pre-training](summaries/2407.01492.md)
 #### [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](summaries/2407.01470.md)
 #### [ColPali: Efficient Document Retrieval with Vision Language Models](summaries/2407.01449.md)
