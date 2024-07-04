@@ -1,10 +1,12 @@
 # Paper List
 ## 2407
 #### [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention](summaries/2407.02490.md)
+#### [Magic Insert: Style-Aware Drag-and-Drop](summaries/2407.02489.md)
 #### [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](summaries/2407.02477.md)
 #### [Consistency Flow Matching: Defining Straight Flows with Velocity Consistency](summaries/2407.02398.md)
 #### [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](summaries/2407.02371.md)
 #### [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](summaries/2407.01920.md)
+#### [μ-Bench: A Vision-Language Benchmark for Microscopy Understanding](summaries/2407.01791.md)
 #### [DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](summaries/2407.01519.md)
 #### [FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](summaries/2407.01494.md)
 #### [RegMix: Data Mixture as Regression for Language Model Pre-training](summaries/2407.01492.md)
