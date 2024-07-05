@@ -24,6 +24,7 @@
 #### [We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?](summaries/2407.01284.md)
 #### [Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER](summaries/2407.01272.md)
 #### [MIRAI: Evaluating LLM Agents for Event Forecasting](summaries/2407.01231.md)
+#### [Eliminating Position Bias of Language Models: A Mechanistic Approach](summaries/2407.01100.md)
 #### [Towards Robust Speech Representation Learning for Thousands of Languages](summaries/2407.00837.md)
 #### [InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation](summaries/2407.00788.md)
 #### [Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning](summaries/2407.00782.md)
