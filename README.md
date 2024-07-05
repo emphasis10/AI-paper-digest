@@ -961,6 +961,7 @@
 #### [Guiding Instruction-based Image Editing via Multimodal Large Language Models](summaries/2309.17102.md)
 #### [Vision Transformers Need Registers](summaries/2309.16588.md)
 #### [QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](summaries/2309.14717.md)
+#### [Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](summaries/2309.08168.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
 ## 2308
