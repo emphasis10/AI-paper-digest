@@ -1,5 +1,6 @@
 # Paper List
 ## 2407
+#### [Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages](summaries/2407.03321.md)
 #### [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](summaries/2407.03320.md)
 #### [DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents](summaries/2407.03300.md)
 #### [Investigating Decoder-only Large Language Models for Speech-to-text Translation](summaries/2407.03169.md)
@@ -13,6 +14,7 @@
 #### [TokenPacker: Efficient Visual Projector for Multimodal LLM](summaries/2407.02392.md)
 #### [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](summaries/2407.02371.md)
 #### [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](summaries/2407.01920.md)
+#### [Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models](summaries/2407.01906.md)
 #### [μ-Bench: A Vision-Language Benchmark for Microscopy Understanding](summaries/2407.01791.md)
 #### [DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](summaries/2407.01519.md)
 #### [FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](summaries/2407.01494.md)
@@ -20,6 +22,7 @@
 #### [Agentless: Demystifying LLM-based Software Engineering Agents](summaries/2407.01489.md)
 #### [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](summaries/2407.01470.md)
 #### [ColPali: Efficient Document Retrieval with Vision Language Models](summaries/2407.01449.md)
+#### [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](summaries/2407.01392.md)
 #### [Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems](summaries/2407.01370.md)
 #### [We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?](summaries/2407.01284.md)
 #### [Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER](summaries/2407.01272.md)
