@@ -1042,6 +1042,8 @@
 #### [A Survey of Multi-Tenant Deep Learning Inference on GPU](summaries/2203.09040.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
+## 2110
+#### [Scalable Smartphone Cluster for Deep Learning](summaries/2110.12172.md)
 ## 2106
 #### [LibShalom: Optimizing Small and Irregular-Shaped Matrix Multiplications on ARMv8 Multi-Cores](summaries/2106.libshalom.md)
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
