@@ -1,5 +1,7 @@
 # Paper List
 ## 2407
+#### [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](summaries/2407.05131.md)
+#### [Granular Privacy Control for Geolocation with Vision Language Models](summaries/2407.04952.md)
 #### [On scalable oversight with weak LLMs judging strong LLMs](summaries/2407.04622.md)
 #### [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](summaries/2407.04620.md)
 #### [AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](summaries/2407.04363.md)
