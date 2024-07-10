@@ -954,6 +954,7 @@
 #### [Demystifying Chains, Trees, and Graphs of Thoughts](summaries/2401.14295.md)
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
+#### [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](summaries/2401.07851.md)
 #### [Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models](summaries/2401.06432.md)
 #### [LLaMA Pro: Progressive LLaMA with Block Expansion](summaries/2401.02415.md)
 #### [RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models](summaries/2401.00396.md)
@@ -992,6 +993,7 @@
 #### [Matryoshka Diffusion Models](summaries/2310.15111.md)
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement](summaries/2310.14108.md)
+#### [SPEED: Speculative Pipelined Execution for Efficient Decoding](summaries/2310.12072.md)
 #### [VeRA: Vector-based Random Matrix Adaptation](summaries/2310.11454.md)
 #### [BitNet: Scaling Transformers for Large Language Models](summaries/2310.11453.md)
 #### [When Can Transformers Reason With Abstract Symbols?](summaries/2310.09753.md)
@@ -1053,6 +1055,7 @@
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
 #### [Active Prompting with Chain-of-Thought for Large Language Models](summaries/2302.12246.md)
 #### [Offsite-Tuning: Transfer Learning without Full Model](summaries/2302.04870.md)
+#### [Accelerating Large Language Model Decoding with Speculative Sampling](summaries/2302.01318.md)
 ## 2301
 #### [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](summaries/2301.08243.md)
 #### [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](summaries/2301.00774.md)
@@ -1093,6 +1096,8 @@
 #### [Flexible Performant GEMM Kernels on GPUs](summaries/2009.12263.md)
 ## 2005
 #### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
+## 1910
+#### [Depth-Adaptive Transformer](summaries/1910.10073.md)
 ## 1805
 #### [Online normalizer calculation for softmax](summaries/1805.02867.md)
 ## 1803
