@@ -1,6 +1,13 @@
 # Paper List
 ## 2407
+#### [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](summaries/2407.07071.md)
+#### [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](summaries/2407.07061.md)
+#### [RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models](summaries/2407.06938.md)
+#### [Vision language models are blind](summaries/2407.06581.md)
+#### [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](summaries/2407.06358.md)
+#### [VIMI: Grounding Video Generation through Multi-modal Instruction](summaries/2407.06304.md)
 #### [Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images](summaries/2407.06191.md)
+#### [Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision](summaries/2407.06189.md)
 #### [Compositional Video Generation as Flow Equalization](summaries/2407.06182.md)
 #### [ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation](summaries/2407.06135.md)
 #### [PAS: Data-Efficient Plug-and-Play Prompt Augmentation System](summaries/2407.06027.md)
