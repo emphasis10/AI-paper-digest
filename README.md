@@ -1,5 +1,12 @@
 # Paper List
 ## 2407
+#### [LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models](summaries/2407.07895.md)
+#### [Controlling Space and Time with Diffusion Models](summaries/2407.07860.md)
+#### [BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark](summaries/2407.07788.md)
+#### [PaliGemma: A versatile 3B VLM for transfer](summaries/2407.07726.md)
+#### [VEnhancer: Generative Space-Time Enhancement for Video Generation](summaries/2407.07667.md)
+#### [Video-to-Audio Generation with Hidden Alignment](summaries/2407.07464.md)
+#### [Inference Performance Optimization for Large Language Models on CPUs](summaries/2407.07304.md)
 #### [Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities](summaries/2407.07080.md)
 #### [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](summaries/2407.07071.md)
 #### [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](summaries/2407.07061.md)
