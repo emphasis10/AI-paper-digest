@@ -1092,6 +1092,7 @@
 ## 2302
 #### [Full Stack Optimization of Transformer Inference: a Survey](summaries/2302.14017.md)
 #### [Active Prompting with Chain-of-Thought for Large Language Models](summaries/2302.12246.md)
+#### [RETVec: Resilient and Efficient Text Vectorizer](summaries/2302.09207.md)
 #### [Offsite-Tuning: Transfer Learning without Full Model](summaries/2302.04870.md)
 #### [Accelerating Large Language Model Decoding with Speculative Sampling](summaries/2302.01318.md)
 ## 2301
