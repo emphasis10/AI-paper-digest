@@ -7,6 +7,7 @@
 #### [Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models](summaries/2407.08701.md)
 #### [SEED-Story: Multimodal Long Story Generation with Large Language Model](summaries/2407.08683.md)
 #### [Generalizable Implicit Motion Modeling for Video Frame Interpolation](summaries/2407.08680.md)
+#### [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](summaries/2407.08608.md)
 #### [The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective](summaries/2407.08583.md)
 #### [Autoregressive Speech Synthesis without Vector Quantization](summaries/2407.08551.md)
 #### [WildGaussians: 3D Gaussian Splatting in the Wild](summaries/2407.08447.md)
