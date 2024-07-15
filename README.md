@@ -1,5 +1,13 @@
 # Paper List
 ## 2407
+#### [StyleSplat: 3D Object Style Transfer with Gaussian Splatting](summaries/2407.09473.md)
+#### [Human-like Episodic Memory for Infinite Context LLMs](summaries/2407.09450.md)
+#### [MUSCLE: A Model Update Strategy for Compatible LLM Evolution](summaries/2407.09435.md)
+#### [GAVEL: Generating Games Via Evolution and Language Models](summaries/2407.09388.md)
+#### [Transformer Layers as Painters](summaries/2407.09298.md)
+#### [H2O-Danube3 Technical Report](summaries/2407.09276.md)
+#### [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](summaries/2407.09025.md)
+#### [TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models](summaries/2407.09012.md)
 #### [MAVIS: Mathematical Visual Instruction Tuning](summaries/2407.08739.md)
 #### [Video Diffusion Alignment via Reward Gradients](summaries/2407.08737.md)
 #### [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](summaries/2407.08733.md)
@@ -499,6 +507,7 @@
 #### [Guiding a Diffusion Model with a Bad Version of Itself](summaries/2406.02507.md)
 #### [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](summaries/2406.02430.md)
 #### [Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials](summaries/2406.02416.md)
+#### [Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning](summaries/2406.02265.md)
 #### [I4VGen: Image as Stepping Stone for Text-to-Video Generation](summaries/2406.02230.md)
 #### [Self-Improving Robust Preference Optimization](summaries/2406.01660.md)
 #### [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](summaries/2406.01574.md)
