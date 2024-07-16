@@ -1,8 +1,16 @@
 # Paper List
 ## 2407
+#### [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](summaries/2407.10973.md)
+#### [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](summaries/2407.10969.md)
+#### [MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models](summaries/2407.10953.md)
+#### [GRUtopia: Dream General Robots in a City at Scale](summaries/2407.10943.md)
+#### [DataDream: Few-shot Guided Dataset Generation](summaries/2407.10910.md)
 #### [Qwen2 Technical Report](summaries/2407.10671.md)
 #### [The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism](summaries/2407.10457.md)
+#### [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](summaries/2407.10387.md)
+#### [LAB-Bench: Measuring Capabilities of Language Models for Biology Research](summaries/2407.10362.md)
 #### [Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models](summaries/2407.10285.md)
+#### [Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](summaries/2407.10058.md)
 #### [Video Occupancy Models](summaries/2407.09533.md)
 #### [StyleSplat: 3D Object Style Transfer with Gaussian Splatting](summaries/2407.09473.md)
 #### [Human-like Episodic Memory for Infinite Context LLMs](summaries/2407.09450.md)
