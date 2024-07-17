@@ -1,5 +1,9 @@
 # Paper List
 ## 2407
+#### [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](summaries/2407.11394.md)
+#### [Grasping Diverse Objects with Simulated Humanoids](summaries/2407.11385.md)
+#### [From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from Low-Rank Gradients](summaries/2407.11239.md)
+#### [YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus](summaries/2407.11144.md)
 #### [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](summaries/2407.10973.md)
 #### [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](summaries/2407.10969.md)
 #### [MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models](summaries/2407.10953.md)
