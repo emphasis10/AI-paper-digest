@@ -1209,9 +1209,12 @@
 ## 2009
 #### [Flexible Performant GEMM Kernels on GPUs](summaries/2009.12263.md)
 ## 2005
+#### [Language Models are Few-Shot Learners](summaries/2005.14165.md)
 #### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
 ## 1910
 #### [Depth-Adaptive Transformer](summaries/1910.10073.md)
+## 1810
+#### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summaries/1810.04805.md)
 ## 1805
 #### [Online normalizer calculation for softmax](summaries/1805.02867.md)
 ## 1803
