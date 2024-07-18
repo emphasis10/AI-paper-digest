@@ -1,5 +1,6 @@
 # Paper List
 ## 2407
+#### [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](summaries/2407.12784.md)
 #### [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](summaries/2407.12781.md)
 #### [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](summaries/2407.12772.md)
 #### [IMAGDressing-v1: Customizable Virtual Dressing](summaries/2407.12705.md)
@@ -7,8 +8,10 @@
 #### [Patch-Level Training for Large Language Models](summaries/2407.12665.md)
 #### [E5-V: Universal Embeddings with Multimodal Large Language Models](summaries/2407.12580.md)
 #### [Audio Conditioning for Music Generation via Discrete Bottleneck Features](summaries/2407.12563.md)
+#### [Case2Code: Learning Inductive Reasoning with Synthetic Data](summaries/2407.12504.md)
 #### [Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models](summaries/2407.12327.md)
 #### [Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections](summaries/2407.12306.md)
+#### [GoldFinch: High Performance RWKV/Transformer Hybrid with Linear Pre-Fill and Extreme KV-Cache Compression](summaries/2407.12077.md)
 #### [The Art of Saying No: Contextual Noncompliance in Language Models](summaries/2407.12043.md)
 #### [Efficient Training with Denoised Neural Weights](summaries/2407.11966.md)
 #### [NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](summaries/2407.11963.md)
