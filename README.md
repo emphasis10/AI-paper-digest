@@ -830,6 +830,7 @@
 #### [Label-Efficient Sleep Staging Using Transformers Pre-trained with Position Prediction](summaries/2404.15308.md)
 #### [Multi-Head Mixture-of-Experts](summaries/2404.15045.md)
 #### [Transformers Can Represent n-gram Language Models](summaries/2404.14994.md)
+#### [Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models](summaries/2404.14897.md)
 #### [FlashSpeech: Efficient Zero-Shot Speech Synthesis](summaries/2404.14700.md)
 #### [Pegasus-1 Technical Report](summaries/2404.14687.md)
 #### [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](summaries/2404.14619.md)
