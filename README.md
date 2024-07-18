@@ -1216,6 +1216,8 @@
 #### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
 ## 1910
 #### [Depth-Adaptive Transformer](summaries/1910.10073.md)
+## 1909
+#### [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](summaries/1909.11942.md)
 ## 1810
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summaries/1810.04805.md)
 ## 1805
