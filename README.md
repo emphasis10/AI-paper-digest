@@ -1,5 +1,6 @@
 # Paper List
 ## 2407
+#### [Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](summaries/2407.13623.md)
 #### [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](summaries/2407.12784.md)
 #### [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](summaries/2407.12781.md)
 #### [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](summaries/2407.12772.md)
@@ -38,6 +39,7 @@
 #### [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](summaries/2407.10718.md)
 #### [Qwen2 Technical Report](summaries/2407.10671.md)
 #### [The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism](summaries/2407.10457.md)
+#### [CodeV: Empowering LLMs for Verilog Generation through Multi-Level Summarization](summaries/2407.10424.md)
 #### [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](summaries/2407.10387.md)
 #### [LAB-Bench: Measuring Capabilities of Language Models for Biology Research](summaries/2407.10362.md)
 #### [Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models](summaries/2407.10285.md)
