@@ -35,6 +35,7 @@
 #### [MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models](summaries/2407.10953.md)
 #### [GRUtopia: Dream General Robots in a City at Scale](summaries/2407.10943.md)
 #### [DataDream: Few-shot Guided Dataset Generation](summaries/2407.10910.md)
+#### [Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation](summaries/2407.10817.md)
 #### [Qwen2-Audio Technical Report](summaries/2407.10759.md)
 #### [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](summaries/2407.10718.md)
 #### [Qwen2 Technical Report](summaries/2407.10671.md)
