@@ -1244,6 +1244,8 @@
 #### [Depth-Adaptive Transformer](summaries/1910.10073.md)
 ## 1909
 #### [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](summaries/1909.11942.md)
+## 1906
+#### [How multilingual is Multilingual BERT?](summaries/1906.01502.md)
 ## 1810
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summaries/1810.04805.md)
 ## 1805
