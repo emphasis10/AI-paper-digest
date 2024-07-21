@@ -10,6 +10,7 @@
 #### [Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation](summaries/2407.13481.md)
 #### [Robust ASR Error Correction with Conservative Data Filtering](summaries/2407.13300.md)
 #### [PM-LLM-Benchmark: Evaluating Large Language Models on Process Mining Tasks](summaries/2407.13244.md)
+#### [A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks](summaries/2407.12994.md)
 #### [Retrieval-Enhanced Machine Learning: Synthesis and Opportunities](summaries/2407.12982.md)
 #### [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](summaries/2407.12883.md)
 #### [Scaling Retrieval-Based Language Models with a Trillion-Token Datastore](summaries/2407.12854.md)
