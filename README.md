@@ -1,5 +1,16 @@
 # Paper List
 ## 2407
+#### [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities](summaries/2407.14482.md)
+#### [Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](summaries/2407.14435.md)
+#### [The Vision of Autonomic Computing: Can LLMs Make It a Reality?](summaries/2407.14402.md)
+#### [Stable Audio Open](summaries/2407.14358.md)
+#### [Efficient Audio Captioning with Encoder-Level Knowledge Distillation](summaries/2407.14329.md)
+#### [SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization](summaries/2407.14257.md)
+#### [EVLM: An Efficient Vision-Language Model for Visual Understanding](summaries/2407.14177.md)
+#### [Visual Text Generation in the Wild](summaries/2407.14138.md)
+#### [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](summaries/2407.14057.md)
+#### [PlacidDreamer: Advancing Harmony in Text-to-3D Generation](summaries/2407.13976.md)
+#### [Phi-3 Safety Post-Training: Aligning Language Models with a "Break-Fix" Cycle](summaries/2407.13833.md)
 #### [Shape of Motion: 4D Reconstruction from a Single Video](summaries/2407.13764.md)
 #### [Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion](summaries/2407.13759.md)
 #### [Scaling Granite Code Models to 128K Context](summaries/2407.13739.md)
