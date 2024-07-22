@@ -1100,6 +1100,7 @@
 #### [BiLLM: Pushing the Limit of Post-Training Quantization for LLMs](summaries/2402.04291.md)
 #### [DISTILLM: Towards Streamlined Distillation for Large Language Models](summaries/2402.03898.md)
 #### [ReLU$^2$ Wins: Discovering Efficient Activation Functions for Sparse LLMs](summaries/2402.03804.md)
+#### [DenseFormer: Enhancing Information Flow in Transformers via Depth Weighted Averaging](summaries/2402.02622.md)
 ## 2401
 #### [DressCode: Autoregressively Sewing and Generating Garments from Text Guidance](summaries/2401.16465.md)
 #### [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](summaries/2401.16380.md)
