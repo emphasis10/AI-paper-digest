@@ -1,5 +1,9 @@
 # Paper List
 ## 2407
+#### [SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models](summaries/2407.15841.md)
+#### [GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization](summaries/2407.15002.md)
+#### [Temporal Residual Jacobians For Rig-free Motion Transfer](summaries/2407.14958.md)
+#### [NNsight and NDIF: Democratizing Access to Foundation Model Internals](summaries/2407.14561.md)
 #### [Internal Consistency and Self-Feedback in Large Language Models: A Survey](summaries/2407.14507.md)
 #### [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities](summaries/2407.14482.md)
 #### [Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](summaries/2407.14435.md)
