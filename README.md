@@ -1089,6 +1089,7 @@
 #### [CLLMs: Consistency Large Language Models](summaries/2403.00835.md)
 ## 2402
 #### [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](summaries/2402.19427.md)
+#### [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](summaries/2402.18150.md)
 #### [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](summaries/2402.17764.md)
 #### [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](summaries/2402.17193.md)
 #### [MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](summaries/2402.16840.md)
