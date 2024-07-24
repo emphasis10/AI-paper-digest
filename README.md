@@ -1,8 +1,10 @@
 # Paper List
 ## 2407
+#### [A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data](summaries/2407.16680.md)
 #### [KAN or MLP: A Fairer Comparison](summaries/2407.16674.md)
 #### [MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence](summaries/2407.16655.md)
 #### [Cross Anything: General Quadruped Robot Navigation through Complex Terrains](summaries/2407.16412.md)
+#### [PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing](summaries/2407.16318.md)
 #### [OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person](summaries/2407.16224.md)
 #### [INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model](summaries/2407.16198.md)
 #### [BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes](summaries/2407.15848.md)
@@ -13,6 +15,7 @@
 #### [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](summaries/2407.15711.md)
 #### [Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models](summaries/2407.15642.md)
 #### [Discrete Flow Matching](summaries/2407.15595.md)
+#### [SIGMA: Sinkhorn-Guided Masked Video Modeling](summaries/2407.15447.md)
 #### [Local All-Pair Correspondence for Point Tracking](summaries/2407.15420.md)
 #### [ThermalNeRF: Thermal Radiance Fields](summaries/2407.15337.md)
 #### [VideoGameBunny: Towards vision assistants for video games](summaries/2407.15295.md)
