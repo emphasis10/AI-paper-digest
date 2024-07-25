@@ -68,6 +68,7 @@
 #### [Retrieval-Enhanced Machine Learning: Synthesis and Opportunities](summaries/2407.12982.md)
 #### [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](summaries/2407.12883.md)
 #### [Scaling Retrieval-Based Language Models with a Trillion-Token Datastore](summaries/2407.12854.md)
+#### [Whispering Experts: Neural Interventions for Toxicity Mitigation in Language Models](summaries/2407.12824.md)
 #### [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](summaries/2407.12784.md)
 #### [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](summaries/2407.12781.md)
 #### [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](summaries/2407.12772.md)
