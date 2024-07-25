@@ -1192,6 +1192,7 @@
 #### [FP8-LM: Training FP8 Large Language Models](summaries/2310.18313.md)
 #### [Large Language Models as Generalizable Policies for Embodied Tasks](summaries/2310.17722.md)
 #### [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](summaries/2310.16836.md)
+#### [QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](summaries/2310.16795.md)
 #### [Matryoshka Diffusion Models](summaries/2310.15111.md)
 #### [We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields](summaries/2310.14870.md)
 #### [CLIP meets Model Zoo Experts: Pseudo-Supervision for Visual Enhancement](summaries/2310.14108.md)
