@@ -58,6 +58,7 @@
 #### [Scaling Granite Code Models to 128K Context](summaries/2407.13739.md)
 #### [Understanding Reference Policies in Direct Preference Optimization](summaries/2407.13709.md)
 #### [Benchmark Agreement Testing Done Right: A Guide for LLM Benchmark Evaluation](summaries/2407.13696.md)
+#### [Prover-Verifier Games improve legibility of LLM outputs](summaries/2407.13692.md)
 #### [A Comparative Study on Automatic Coding of Medical Letters with Explainability](summaries/2407.13638.md)
 #### [Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](summaries/2407.13623.md)
 #### [Qalam : A Multimodal LLM for Arabic Optical Character and Handwriting Recognition](summaries/2407.13559.md)
