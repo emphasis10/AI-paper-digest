@@ -1294,6 +1294,8 @@
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
 ## 2104
 #### [RoFormer: Enhanced Transformer with Rotary Position Embedding](summaries/2104.09864.md)
+## 2101
+#### [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](summaries/2101.03961.md)
 ## 2010
 #### [TurboTransformers: An Efficient GPU Serving System For Transformer Models](summaries/2010.05680.md)
 ## 2009
