@@ -1,5 +1,7 @@
 # Paper List
 ## 2407
+#### [Projected Language Models: A Large Model Pre-Segmented Into Smaller Ones](summaries/2407.projected_lm.md)
+#### [The Llama 3 Herd of Models](summaries/2407.llama3.md)
 #### [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](summaries/2407.17470.md)
 #### [$VILA^2$: VILA Augmented VILA](summaries/2407.17453.md)
 #### [PERSONA: A Reproducible Testbed for Pluralistic Alignment](summaries/2407.17387.md)
