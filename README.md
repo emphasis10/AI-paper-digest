@@ -1212,6 +1212,7 @@
 #### [Improved Baselines with Visual Instruction Tuning](summaries/2310.03744.md)
 #### [Large Language Models as Analogical Reasoners](summaries/2310.01714.md)
 #### [Compressing LLMs: The Truth is Rarely Pure and Never Simple](summaries/2310.01382.md)
+#### [Federated Learning with Differential Privacy for End-to-End Speech Recognition](summaries/2310.00098.md)
 ## 2309
 #### [Efficient Streaming Language Models with Attention Sinks](summaries/2309.17453.md)
 #### [Guiding Instruction-based Image Editing via Multimodal Large Language Models](summaries/2309.17102.md)
@@ -1228,6 +1229,7 @@
 #### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
 #### [AgentBench: Evaluating LLMs as Agents](summaries/2308.03688.md)
 ## 2307
+#### [Samplable Anonymous Aggregation for Private Federated Data Analysis](summaries/2307.15017.md)
 #### [ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats](summaries/2307.09782.md)
 #### [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](summaries/2307.08691.md)
 ## 2306
