@@ -1,5 +1,11 @@
 # Paper List
 ## 2407
+#### [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](summaries/2407.17470.md)
+#### [$VILA^2$: VILA Augmented VILA](summaries/2407.17453.md)
+#### [PERSONA: A Reproducible Testbed for Pluralistic Alignment](summaries/2407.17387.md)
+#### [ViPer: Visual Personalization of Generative Models via Individual Preference Learning](summaries/2407.17365.md)
+#### [Scalify: scale propagation for efficient low-precision LLM training](summaries/2407.17353.md)
+#### [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](summaries/2407.16741.md)
 #### [A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data](summaries/2407.16680.md)
 #### [KAN or MLP: A Fairer Comparison](summaries/2407.16674.md)
 #### [MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence](summaries/2407.16655.md)
@@ -7,6 +13,7 @@
 #### [PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing](summaries/2407.16318.md)
 #### [OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person](summaries/2407.16224.md)
 #### [INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model](summaries/2407.16198.md)
+#### [DDK: Distilling Domain Knowledge for Efficient Large Language Models](summaries/2407.16154.md)
 #### [BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes](summaries/2407.15848.md)
 #### [Artist: Aesthetically Controllable Text-Driven Stylization without Training](summaries/2407.15842.md)
 #### [SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models](summaries/2407.15841.md)
