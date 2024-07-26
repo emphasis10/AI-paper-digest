@@ -1270,6 +1270,7 @@
 #### [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](summaries/2305.18290.md)
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
 #### [QLoRA: Efficient Finetuning of Quantized LLMs](summaries/2305.14314.md)
+#### [Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization](summaries/2305.14152.md)
 #### [RWKV: Reinventing RNNs for the Transformer Era](summaries/2305.13048.md)
 #### [Accurate Knowledge Distillation with n-best Reranking](summaries/2305.12057.md)
 #### [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](summaries/2305.10601.md)
