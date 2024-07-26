@@ -1306,6 +1306,8 @@
 #### [FP8 Formats for Deep Learning](summaries/2209.05433.md)
 ## 2208
 #### [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](summaries/2208.07339.md)
+## 2207
+#### [Confident Adaptive Language Modeling](summaries/2207.07061.md)
 ## 2206
 #### [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](summaries/2206.01861.md)
 #### [NIPQ: Noise proxy-based Integrated Pseudo-Quantization](summaries/2206.00820.md)
