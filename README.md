@@ -1375,3 +1375,5 @@
 #### [NVIDIA Tensor Core Programmability, Performance & Precision](summaries/1803.04014.md)
 ## 1706
 #### [Attention Is All You Need](summaries/1706.03762.md)
+## 1506
+#### [Pointer Networks](summaries/1506.03134.md)
