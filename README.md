@@ -2,6 +2,12 @@
 ## 2407
 #### [Projected Language Models: A Large Model Pre-Segmented Into Smaller Ones](summaries/2407.projected_lm.md)
 #### [The Llama 3 Herd of Models](summaries/2407.llama3.md)
+#### [Floating No More: Object-Ground Reconstruction from a Single Image](summaries/2407.18914.md)
+#### [Wolf: Captioning Everything with a World Summarization Framework](summaries/2407.18908.md)
+#### [SHIC: Shape-Image Correspondences with no Keypoint Supervision](summaries/2407.18907.md)
+#### [Lessons from Learning to Spin "Pens"](summaries/2407.18902.md)
+#### [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](summaries/2407.18901.md)
+#### [VSSD: Vision Mamba with Non-Casual State Space Duality](summaries/2407.18559.md)
 #### [The FIGNEWS Shared Task on News Media Narratives](summaries/2407.18147.md)
 #### [Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic](summaries/2407.18129.md)
 #### [Efficient Inference of Vision Instruction-Following Models with Elastic Cache](summaries/2407.18121.md)
