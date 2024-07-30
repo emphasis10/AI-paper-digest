@@ -1237,6 +1237,7 @@
 #### [An LLM Compiler for Parallel Function Calling](summaries/2312.04511.md)
 #### [Revisiting Non-separable Binary Classification and its Applications in Anomaly Detection](summaries/2312.01541.md)
 #### [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](summaries/2312.00752.md)
+#### [LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices](summaries/2312.00388.md)
 ## 2311
 #### [Diffusion Models Without Attention](summaries/2311.18257.md)
 #### [Knowledge Transfer from Vision Foundation Models for Efficient Training of Small Task-specific Models](summaries/2311.18237.md)
@@ -1292,6 +1293,7 @@
 #### [Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](summaries/2309.08168.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
+#### [LLMCad: Fast and Scalable On-device Large Language Model Inference](summaries/2309.04255.md)
 ## 2308
 #### [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](summaries/2308.16369.md)
 #### [Reducing shared memory footprint to leverage high throughput on Tensor Cores and its flexible API extension library](summaries/2308.15152.md)
