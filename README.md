@@ -1198,6 +1198,7 @@
 #### [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](summaries/2402.14905.md)
 #### [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs](summaries/2402.14740.md)
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
+#### [Should We Respect LLMs? A Cross-Lingual Study on the Influence of Prompt Politeness on LLM Performance](summaries/2402.14531.md)
 #### [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](summaries/2402.13605.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
 #### [OneBit: Towards Extremely Low-bit Large Language Models](summaries/2402.11295.md)
