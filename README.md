@@ -266,6 +266,7 @@
 #### [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](summaries/2407.03320.md)
 #### [DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents](summaries/2407.03300.md)
 #### [Self-Evaluation as a Defense Against Adversarial Attacks on LLMs](summaries/2407.03234.md)
+#### [How Does Quantization Affect Multilingual LLMs?](summaries/2407.03211.md)
 #### [TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts](summaries/2407.03203.md)
 #### [Investigating Decoder-only Large Language Models for Speech-to-text Translation](summaries/2407.03169.md)
 #### [GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models](summaries/2407.02936.md)
