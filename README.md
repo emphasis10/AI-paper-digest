@@ -1209,6 +1209,7 @@
 #### [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](summaries/2402.13605.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
 #### [OneBit: Towards Extremely Low-bit Large Language Models](summaries/2402.11295.md)
+#### [Masked Attention is All You Need for Graphs](summaries/2402.10793.md)
 #### [TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles](summaries/2402.10137.md)
 #### [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](summaries/2402.09742.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
