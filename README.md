@@ -1,7 +1,6 @@
 # Paper List
 ## 2407
 #### [Projected Language Models: A Large Model Pre-Segmented Into Smaller Ones](summaries/2407.projected_lm.md)
-#### [The Llama 3 Herd of Models](summaries/2407.llama3.md)
 #### [The Llama 3 Herd of Models](summaries/2407.21783.md)
 #### [Berkeley Humanoid: A Research Platform for Learning-based Control](summaries/2407.21781.md)
 #### [ShieldGemma: Generative AI Content Moderation Based on Gemma](summaries/2407.21772.md)
