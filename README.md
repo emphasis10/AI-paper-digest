@@ -10,6 +10,7 @@
 #### [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent](summaries/2407.21646.md)
 #### [Data Contamination Report from the 2024 CONDA Shared Task](summaries/2407.21530.md)
 #### [Fine-gained Zero-shot Video Sampling](summaries/2407.21475.md)
+#### [Apple Intelligence Foundation Language Models](summaries/2407.21075.md)
 #### [ThinK: Thinner Key Cache by Query-Driven Pruning](summaries/2407.21018.md)
 #### [Matting by Generation](summaries/2407.21017.md)
 #### [Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning](summaries/2407.20798.md)
