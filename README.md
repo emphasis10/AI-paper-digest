@@ -1389,6 +1389,8 @@
 #### [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](summaries/2301.08243.md)
 #### [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](summaries/2301.00774.md)
 #### [Muse: Text-To-Image Generation via Masked Generative Transformers](summaries/2301.00704.md)
+## 2212
+#### [Large Language Models Are Reasoning Teachers](summaries/2212.10071.md)
 ## 2211
 #### [Fast Inference from Transformers via Speculative Decoding](summaries/2211.17192.md)
 #### [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](summaries/2211.10438.md)
