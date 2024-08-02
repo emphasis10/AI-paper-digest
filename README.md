@@ -1,4 +1,15 @@
 # Paper List
+## 2408
+#### [MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities](summaries/2408.00765.md)
+#### [UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model](summaries/2408.00762.md)
+#### [Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model](summaries/2408.00754.md)
+#### [TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models](summaries/2408.00735.md)
+#### [SAM 2: Segment Anything in Images and Videos](summaries/2408.00714.md)
+#### [Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning](summaries/2408.00690.md)
+#### [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](summaries/2408.00653.md)
+#### [Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names](summaries/2408.00298.md)
+#### [Sentence-wise Speech Summarization: Task, Datasets, and End-to-End Modeling with LM Knowledge Distillation](summaries/2408.00205.md)
+#### [OmniParser for Pure Vision Based GUI Agent](summaries/2408.00203.md)
 ## 2407
 #### [Projected Language Models: A Large Model Pre-Segmented Into Smaller Ones](summaries/2407.projected_lm.md)
 #### [The Llama 3 Herd of Models](summaries/2407.21783.md)
