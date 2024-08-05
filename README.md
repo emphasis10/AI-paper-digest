@@ -1,5 +1,6 @@
 # Paper List
 ## 2408
+#### [Conditional LoRA Parameter Generation](summaries/2408.01415.md)
 #### [MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models](summaries/2408.01337.md)
 #### [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](summaries/2408.01291.md)
 #### [POA: Pre-training Once for Models of All Sizes](summaries/2408.01031.md)
