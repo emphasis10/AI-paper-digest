@@ -763,6 +763,7 @@
 #### [Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials](summaries/2406.02416.md)
 #### [Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning](summaries/2406.02265.md)
 #### [I4VGen: Image as Stepping Stone for Text-to-Video Generation](summaries/2406.02230.md)
+#### [OLoRA: Orthonormal Low-Rank Adaptation of Large Language Models](summaries/2406.01775.md)
 #### [Self-Improving Robust Preference Optimization](summaries/2406.01660.md)
 #### [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](summaries/2406.01574.md)
 #### [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](summaries/2406.01506.md)
