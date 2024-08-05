@@ -1,5 +1,9 @@
 # Paper List
 ## 2408
+#### [MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models](summaries/2408.01337.md)
+#### [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](summaries/2408.01291.md)
+#### [POA: Pre-training Once for Models of All Sizes](summaries/2408.01031.md)
+#### [Medical SAM 2: Segment medical images as video via Segment Anything Model 2](summaries/2408.00874.md)
 #### [MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities](summaries/2408.00765.md)
 #### [UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model](summaries/2408.00762.md)
 #### [Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention](summaries/2408.00760.md)
