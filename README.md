@@ -1367,6 +1367,7 @@
 #### [Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding](summaries/2309.08168.md)
 #### [Efficient Memory Management for Large Language Model Serving with PagedAttention](summaries/2309.06180.md)
 #### [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](summaries/2309.05444.md)
+#### [From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting](summaries/2309.04269.md)
 #### [LLMCad: Fast and Scalable On-device Large Language Model Inference](summaries/2309.04255.md)
 ## 2308
 #### [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](summaries/2308.16369.md)
