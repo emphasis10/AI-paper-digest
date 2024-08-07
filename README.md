@@ -1,5 +1,14 @@
 # Paper List
 ## 2408
+#### [LLaVA-OneVision: Easy Visual Task Transfer](summaries/2408.03326.md)
+#### [CoverBench: A Challenging Benchmark for Complex Claim Verification](summaries/2408.03325.md)
+#### [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](summaries/2408.03314.md)
+#### [ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](summaries/2408.03284.md)
+#### [IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts](summaries/2408.03209.md)
+#### [An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion](summaries/2408.03178.md)
+#### [MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine](summaries/2408.02900.md)
+#### [Diffusion Models as Data Mining Tools](summaries/2408.02752.md)
+#### [MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models](summaries/2408.02718.md)
 #### [Self-Taught Evaluators](summaries/2408.02666.md)
 #### [Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining](summaries/2408.02657.md)
 #### [VidGen-1M: A Large-Scale Dataset for Text-to-video Generation](summaries/2408.02629.md)
