@@ -4,6 +4,7 @@
 #### [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](summaries/2408.03910.md)
 #### [Achieving Human Level Competitive Robot Table Tennis](summaries/2408.03906.md)
 #### [Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond](summaries/2408.03900.md)
+#### [WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models](summaries/2408.03837.md)
 #### [Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields](summaries/2408.03822.md)
 #### [Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling](summaries/2408.03695.md)
 #### [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](summaries/2408.03615.md)
