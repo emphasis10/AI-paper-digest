@@ -1,5 +1,15 @@
 # Paper List
 ## 2408
+#### [Fast Sprite Decomposition from Animated Graphics](summaries/2408.03923.md)
+#### [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](summaries/2408.03910.md)
+#### [Achieving Human Level Competitive Robot Table Tennis](summaries/2408.03906.md)
+#### [Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond](summaries/2408.03900.md)
+#### [Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields](summaries/2408.03822.md)
+#### [Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling](summaries/2408.03695.md)
+#### [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](summaries/2408.03615.md)
+#### [Facing the Music: Tackling Singing Voice Separation in Cinematic Audio Source Separation](summaries/2408.03588.md)
+#### [EXAONE 3.0 7.8B Instruction Tuned Language Model](summaries/2408.03541.md)
+#### [RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis](summaries/2408.03356.md)
 #### [LLaVA-OneVision: Easy Visual Task Transfer](summaries/2408.03326.md)
 #### [CoverBench: A Challenging Benchmark for Complex Claim Verification](summaries/2408.03325.md)
 #### [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](summaries/2408.03314.md)
