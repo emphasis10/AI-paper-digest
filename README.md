@@ -1,5 +1,7 @@
 # Paper List
 ## 2408
+#### [Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics](summaries/2408.04631.md)
+#### [Task-oriented Sequential Grounding in 3D Scenes](summaries/2408.04034.md)
 #### [Fast Sprite Decomposition from Animated Graphics](summaries/2408.03923.md)
 #### [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](summaries/2408.03910.md)
 #### [Achieving Human Level Competitive Robot Table Tennis](summaries/2408.03906.md)
@@ -10,6 +12,7 @@
 #### [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](summaries/2408.03615.md)
 #### [Facing the Music: Tackling Singing Voice Separation in Cinematic Audio Source Separation](summaries/2408.03588.md)
 #### [EXAONE 3.0 7.8B Instruction Tuned Language Model](summaries/2408.03541.md)
+#### [GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI](summaries/2408.03361.md)
 #### [RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis](summaries/2408.03356.md)
 #### [LLaVA-OneVision: Easy Visual Task Transfer](summaries/2408.03326.md)
 #### [CoverBench: A Challenging Benchmark for Complex Claim Verification](summaries/2408.03325.md)
