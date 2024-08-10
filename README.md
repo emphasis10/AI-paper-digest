@@ -1,13 +1,6 @@
 # Paper List
 ## 2408
 #### [Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics](summaries/2408.04631.md)
-#### [Transformer Explainer: Interactive Learning of Text-Generative Models](summaries/2408.04619.md)
-#### [Better Alignment with Instruction Back-and-Forth Translation](summaries/2408.04614.md)
-#### [Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models](summaries/2408.04594.md)
-#### [Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches](summaries/2408.04567.md)
-#### [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](summaries/2408.04520.md)
-#### [Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP](summaries/2408.04303.md)
-#### [LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](summaries/2408.04284.md)
 #### [Task-oriented Sequential Grounding in 3D Scenes](summaries/2408.04034.md)
 #### [Fast Sprite Decomposition from Animated Graphics](summaries/2408.03923.md)
 #### [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](summaries/2408.03910.md)
@@ -30,7 +23,6 @@
 #### [IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts](summaries/2408.03209.md)
 #### [An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion](summaries/2408.03178.md)
 #### [MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine](summaries/2408.02900.md)
-#### [Learning to Predict Program Execution by Modeling Dynamic Dependency on Code Graphs](summaries/2408.02816.md)
 #### [Diffusion Models as Data Mining Tools](summaries/2408.02752.md)
 #### [MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models](summaries/2408.02718.md)
 #### [Self-Taught Evaluators](summaries/2408.02666.md)
