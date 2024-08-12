@@ -1,5 +1,9 @@
 # Paper List
 ## 2408
+#### [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](summaries/2408.05147.md)
+#### [UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling](summaries/2408.04810.md)
+#### [MulliVC: Multi-lingual Voice Conversion With Cycle Consistency](summaries/2408.04708.md)
+#### [ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities](summaries/2408.04682.md)
 #### [Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics](summaries/2408.04631.md)
 #### [Transformer Explainer: Interactive Learning of Text-Generative Models](summaries/2408.04619.md)
 #### [Better Alignment with Instruction Back-and-Forth Translation](summaries/2408.04614.md)
