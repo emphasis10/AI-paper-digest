@@ -1371,6 +1371,7 @@
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
 #### [Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation](summaries/2402.11907.md)
 #### [OneBit: Towards Extremely Low-bit Large Language Models](summaries/2402.11295.md)
+#### [LaCo: Large Language Model Pruning via Layer Collapse](summaries/2402.11187.md)
 #### [Masked Attention is All You Need for Graphs](summaries/2402.10793.md)
 #### [TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles](summaries/2402.10137.md)
 #### [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](summaries/2402.09742.md)
