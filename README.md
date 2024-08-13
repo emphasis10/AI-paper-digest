@@ -1,7 +1,12 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](summaries/2408.06327.md)
+#### [Body Transformer: Leveraging Robot Embodiment for Policy Learning](summaries/2408.06316.md)
 #### [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](summaries/2408.06292.md)
+#### [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](summaries/2408.06195.md)
+#### [FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework](summaries/2408.06190.md)
+#### [Med42-v2: A Suite of Clinical LLMs](summaries/2408.06142.md)
 #### [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](summaries/2408.06072.md)
 #### [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](summaries/2408.06070.md)
 #### [HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors](summaries/2408.06019.md)
