@@ -1,6 +1,9 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](summaries/2408.07055.md)
+#### [Imagen 3](summaries/2408.07009.md)
+#### [OpenResearcher: Unleashing AI for Accelerated Scientific Research](summaries/2408.06941.md)
 #### [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](summaries/2408.06327.md)
 #### [Body Transformer: Leveraging Robot Embodiment for Policy Learning](summaries/2408.06316.md)
 #### [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](summaries/2408.06292.md)
