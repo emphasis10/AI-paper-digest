@@ -1488,6 +1488,7 @@
 #### [Fast Feedforward Networks](summaries/2308.14711.md)
 #### [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](summaries/2308.14352.md)
 #### [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](summaries/2308.13137.md)
+#### [A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations](summaries/2308.06767.md)
 #### [Accelerating LLM Inference with Staged Speculative Decoding](summaries/2308.04623.md)
 #### [AgentBench: Evaluating LLMs as Agents](summaries/2308.03688.md)
 ## 2307
