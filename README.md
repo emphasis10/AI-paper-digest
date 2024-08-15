@@ -1,6 +1,8 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [Generative Photomontage](summaries/2408.07116.md)
+#### [InfinityMATH: A Scalable Instruction Tuning Dataset in Programmatic Mathematical Reasoning](summaries/2408.07089.md)
 #### [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](summaries/2408.07055.md)
 #### [Imagen 3](summaries/2408.07009.md)
 #### [OpenResearcher: Unleashing AI for Accelerated Scientific Research](summaries/2408.06941.md)
