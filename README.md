@@ -1,6 +1,11 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](summaries/2408.07547.md)
+#### [3D Gaussian Editing with A Single Image](summaries/2408.07540.md)
+#### [Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space](summaries/2408.07416.md)
+#### [Aquila2 Technical Report](summaries/2408.07410.md)
+#### [Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM](summaries/2408.07246.md)
 #### [Generative Photomontage](summaries/2408.07116.md)
 #### [InfinityMATH: A Scalable Instruction Tuning Dataset in Programmatic Mathematical Reasoning](summaries/2408.07089.md)
 #### [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](summaries/2408.07055.md)
@@ -27,6 +32,7 @@
 #### [UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization](summaries/2408.05939.md)
 #### [Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation](summaries/2408.05928.md)
 #### [ZePo: Zero-Shot Portrait Stylization with Faster Sampling](summaries/2408.05492.md)
+#### [DeepSpeak Dataset v1.0](summaries/2408.05366.md)
 #### [VITA: Towards Open-Source Interactive Omni Multimodal LLM](summaries/2408.05211.md)
 #### [Kalman-Inspired Feature Propagation for Video Face Super-Resolution](summaries/2408.05205.md)
 #### [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](summaries/2408.05147.md)
