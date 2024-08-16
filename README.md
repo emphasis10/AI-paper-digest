@@ -265,6 +265,7 @@
 #### [Temporal Residual Jacobians For Rig-free Motion Transfer](summaries/2407.14958.md)
 #### [Consent in Crisis: The Rapid Decline of the AI Data Commons](summaries/2407.14933.md)
 #### [POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation](summaries/2407.14931.md)
+#### [Compact Language Models via Pruning and Knowledge Distillation](summaries/2407.14679.md)
 #### [BOND: Aligning LLMs with Best-of-N Distillation](summaries/2407.14622.md)
 #### [NNsight and NDIF: Democratizing Access to Foundation Model Internals](summaries/2407.14561.md)
 #### [Internal Consistency and Self-Feedback in Large Language Models: A Survey](summaries/2407.14507.md)
