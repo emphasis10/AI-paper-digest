@@ -1533,6 +1533,7 @@
 #### [Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization](summaries/2305.14152.md)
 #### [RWKV: Reinventing RNNs for the Transformer Era](summaries/2305.13048.md)
 #### [Accurate Knowledge Distillation with n-best Reranking](summaries/2305.12057.md)
+#### [LLM-Pruner: On the Structural Pruning of Large Language Models](summaries/2305.11627.md)
 #### [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](summaries/2305.10601.md)
 #### [Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](summaries/2305.09955.md)
 #### [SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification](summaries/2305.09781.md)
