@@ -1,6 +1,10 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [Can Large Language Models Understand Symbolic Graphics Programs?](summaries/2408.08313.md)
+#### [FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance](summaries/2408.08189.md)
+#### [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](summaries/2408.08152.md)
+#### [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](summaries/2408.08000.md)
 #### [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](summaries/2408.07547.md)
 #### [3D Gaussian Editing with A Single Image](summaries/2408.07540.md)
 #### [Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space](summaries/2408.07416.md)
