@@ -18,6 +18,7 @@
 #### [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](summaries/2408.08000.md)
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2408.07990.md)
 #### [Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning](summaries/2408.07931.md)
+#### [Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering](summaries/2408.07888.md)
 #### [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](summaries/2408.07852.md)
 #### [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](summaries/2408.07547.md)
 #### [3D Gaussian Editing with A Single Image](summaries/2408.07540.md)
