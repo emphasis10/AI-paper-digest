@@ -1,6 +1,11 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](summaries/2408.08872.md)
+#### [JPEG-LM: LLMs as Image Generators with Canonical Codec Representations](summaries/2408.08459.md)
+#### [D5RL: Diverse Datasets for Data-Driven Deep Reinforcement Learning](summaries/2408.08441.md)
+#### [Automated Design of Agentic Systems](summaries/2408.08435.md)
+#### [TurboEdit: Instant text-based image editing](summaries/2408.08332.md)
 #### [Can Large Language Models Understand Symbolic Graphics Programs?](summaries/2408.08313.md)
 #### [The ShareLM Collection and Plugin: Contributing Human-Model Chats for the Benefit of the Community](summaries/2408.08291.md)
 #### [BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts](summaries/2408.08274.md)
@@ -12,6 +17,7 @@
 #### [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](summaries/2408.08019.md)
 #### [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](summaries/2408.08000.md)
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2408.07990.md)
+#### [Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning](summaries/2408.07931.md)
 #### [Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability](summaries/2408.07852.md)
 #### [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](summaries/2408.07547.md)
 #### [3D Gaussian Editing with A Single Image](summaries/2408.07540.md)
