@@ -3,6 +3,7 @@
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
 #### [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](summaries/2408.10198.md)
 #### [SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views](summaries/2408.10195.md)
+#### [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](summaries/2408.10189.md)
 #### [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](summaries/2408.10188.md)
 #### [NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices](summaries/2408.10161.md)
 #### [Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data](summaries/2408.10119.md)
