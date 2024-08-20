@@ -1,6 +1,9 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](summaries/2408.10198.md)
+#### [NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices](summaries/2408.10161.md)
+#### [Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data](summaries/2408.10119.md)
 #### [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](summaries/2408.08872.md)
 #### [JPEG-LM: LLMs as Image Generators with Canonical Codec Representations](summaries/2408.08459.md)
 #### [D5RL: Diverse Datasets for Data-Driven Deep Reinforcement Learning](summaries/2408.08441.md)
