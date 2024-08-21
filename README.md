@@ -1,6 +1,14 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](summaries/2408.11049.md)
+#### [RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands](summaries/2408.11048.md)
+#### [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](summaries/2408.11039.md)
+#### [MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](summaries/2408.11001.md)
+#### [Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos](summaries/2408.10998.md)
+#### [To Code, or Not To Code? Exploring Impact of Code in Pre-training](summaries/2408.10914.md)
+#### [ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining](summaries/2408.10906.md)
+#### [MambaEVT: Event Stream based Visual Object Tracking using State Space Model](summaries/2408.10487.md)
 #### [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](summaries/2408.10198.md)
 #### [SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views](summaries/2408.10195.md)
 #### [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](summaries/2408.10189.md)
