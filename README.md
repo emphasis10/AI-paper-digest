@@ -1114,6 +1114,7 @@
 #### [KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation](summaries/2405.05329.md)
 #### [You Only Cache Once: Decoder-Decoder Architectures for Language Models](summaries/2405.05254.md)
 #### [ChuXin: 1.6B Technical Report](summaries/2405.04828.md)
+#### [QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](summaries/2405.04532.md)
 #### [xLSTM: Extended Long Short-Term Memory](summaries/2405.04517.md)
 #### [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](summaries/2405.04434.md)
 #### [Granite Code Models: A Family of Open Foundation Models for Code Intelligence](summaries/2405.04324.md)
