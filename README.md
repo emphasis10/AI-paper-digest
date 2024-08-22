@@ -1,6 +1,9 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [FocusLLM: Scaling LLM's Context by Parallel Decoding](summaries/2408.11745.md)
+#### [TrackGo: A Flexible and Efficient Method for Controllable Video Generation](summaries/2408.11475.md)
+#### [TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models](summaries/2408.11318.md)
 #### [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](summaries/2408.11049.md)
 #### [RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands](summaries/2408.11048.md)
 #### [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](summaries/2408.11039.md)
@@ -34,6 +37,7 @@
 #### [Towards flexible perception with visual memory](summaries/2408.08172.md)
 #### [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](summaries/2408.08152.md)
 #### [I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm](summaries/2408.08072.md)
+#### [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](summaries/2408.08067.md)
 #### [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](summaries/2408.08019.md)
 #### [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](summaries/2408.08000.md)
 #### [FuseChat: Knowledge Fusion of Chat Models](summaries/2408.07990.md)
@@ -98,6 +102,7 @@
 #### [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](summaries/2408.04520.md)
 #### [Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP](summaries/2408.04303.md)
 #### [LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection](summaries/2408.04284.md)
+#### [EfficientRAG: Efficient Retriever for Multi-Hop Question Answering](summaries/2408.04259.md)
 #### [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](summaries/2408.04187.md)
 #### [UNLEARN Efficient Removal of Knowledge in Large Language Models](summaries/2408.04140.md)
 #### [Task-oriented Sequential Grounding in 3D Scenes](summaries/2408.04034.md)
