@@ -1,8 +1,12 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models](summaries/2408.11817.md)
+#### [LLM Pruning and Distillation in Practice: The Minitron Approach](summaries/2408.11796.md)
 #### [FocusLLM: Scaling LLM's Context by Parallel Decoding](summaries/2408.11745.md)
+#### [FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting](summaries/2408.11706.md)
 #### [TrackGo: A Flexible and Efficient Method for Controllable Video Generation](summaries/2408.11475.md)
+#### [Expanding FLORES+ Benchmark for more Low-Resource Settings: Portuguese-Emakhuwa Machine Translation Evaluation](summaries/2408.11457.md)
 #### [TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models](summaries/2408.11318.md)
 #### [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](summaries/2408.11049.md)
 #### [RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands](summaries/2408.11048.md)
@@ -25,6 +29,7 @@
 #### [Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges](summaries/2408.08946.md)
 #### [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models](summaries/2408.08926.md)
 #### [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](summaries/2408.08872.md)
+#### [Backward-Compatible Aligned Representations via an Orthogonal Transformation Layer](summaries/2408.08793.md)
 #### [JPEG-LM: LLMs as Image Generators with Canonical Codec Representations](summaries/2408.08459.md)
 #### [D5RL: Diverse Datasets for Data-Driven Deep Reinforcement Learning](summaries/2408.08441.md)
 #### [Automated Design of Agentic Systems](summaries/2408.08435.md)
