@@ -577,6 +577,7 @@
 #### [Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language](summaries/2406.20085.md)
 #### [EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model](summaries/2406.20076.md)
 #### [Applying RLAIF for Code Generation with API-usage in Lightweight LLMs](summaries/2406.20060.md)
+#### [Understanding and Mitigating Language Confusion in LLMs](summaries/2406.20052.md)
 #### [ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models](summaries/2406.20015.md)
 #### [Wavelets Are All You Need for Autoregressive Image Generation](summaries/2406.19997.md)
 #### [Direct Preference Knowledge Distillation for Large Language Models](summaries/2406.19774.md)
