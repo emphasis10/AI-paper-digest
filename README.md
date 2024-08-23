@@ -1,6 +1,14 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [Controllable Text Generation for Large Language Models: A Survey](summaries/2408.12599.md)
+#### [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](summaries/2408.12590.md)
+#### [Sapiens: Foundation for Human Vision Models](summaries/2408.12569.md)
+#### [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation](summaries/2408.12528.md)
+#### [Subsurface Scattering for 3D Gaussian Splatting](summaries/2408.12282.md)
+#### [Scalable Autoregressive Image Generation with Mamba](summaries/2408.12245.md)
+#### [Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event Condition For Foley Sound](summaries/2408.11915.md)
+#### [Hermes 3 Technical Report](summaries/2408.11857.md)
 #### [GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models](summaries/2408.11817.md)
 #### [LLM Pruning and Distillation in Practice: The Minitron Approach](summaries/2408.11796.md)
 #### [FocusLLM: Scaling LLM's Context by Parallel Decoding](summaries/2408.11745.md)
@@ -15,6 +23,7 @@
 #### [Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos](summaries/2408.10998.md)
 #### [To Code, or Not To Code? Exploring Impact of Code in Pre-training](summaries/2408.10914.md)
 #### [ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining](summaries/2408.10906.md)
+#### [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](summaries/2408.10635.md)
 #### [MambaEVT: Event Stream based Visual Object Tracking using State Space Model](summaries/2408.10487.md)
 #### [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](summaries/2408.10198.md)
 #### [SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views](summaries/2408.10195.md)
