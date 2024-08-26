@@ -24,6 +24,7 @@
 #### [Critique-out-Loud Reward Models](summaries/2408.11791.md)
 #### [FocusLLM: Scaling LLM's Context by Parallel Decoding](summaries/2408.11745.md)
 #### [FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting](summaries/2408.11706.md)
+#### [The Vizier Gaussian Process Bandit Algorithm](summaries/2408.11527.md)
 #### [TrackGo: A Flexible and Efficient Method for Controllable Video Generation](summaries/2408.11475.md)
 #### [Expanding FLORES+ Benchmark for more Low-Resource Settings: Portuguese-Emakhuwa Machine Translation Evaluation](summaries/2408.11457.md)
 #### [TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models](summaries/2408.11318.md)
