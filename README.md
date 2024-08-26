@@ -1,6 +1,7 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities](summaries/2408.13239.md)
 #### [DreamCinema: Cinematic Transfer with Free Camera and 3D Character](summaries/2408.12601.md)
 #### [Controllable Text Generation for Large Language Models: A Survey](summaries/2408.12599.md)
 #### [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](summaries/2408.12590.md)
