@@ -1,7 +1,14 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences](summaries/2408.14468.md)
 #### [SWE-bench-java: A GitHub Issue Resolving Benchmark for Java](summaries/2408.14354.md)
+#### [Foundation Models for Music: A Survey](summaries/2408.14340.md)
+#### [MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement](summaries/2408.14211.md)
+#### [SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher](summaries/2408.14176.md)
+#### [Learning to Move Like Professional Counter-Strike Players](summaries/2408.13934.md)
+#### [MobileQuant: Mobile-friendly Quantization for On-device Language Models](summaries/2408.13933.md)
+#### [LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs](summaries/2408.13467.md)
 #### [Training-free Long Video Generation with Chain of Diffusion Model Experts](summaries/2408.13423.md)
 #### [TVG: A Training-free Transition Video Generation Method with Diffusion Models](summaries/2408.13413.md)
 #### [LLaVaOLMoBitnet1B: Ternary LLM goes Multimodal!](summaries/2408.13402.md)
