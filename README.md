@@ -596,6 +596,7 @@
 #### [Searching for Best Practices in Retrieval-Augmented Generation](summaries/2407.01219.md)
 #### [$\text{Memory}^3$: Language Modeling with Explicit Memory](summaries/2407.01178.md)
 #### [Eliminating Position Bias of Language Models: A Mechanistic Approach](summaries/2407.01100.md)
+#### [PocketLLM: Enabling On-Device Fine-Tuning for Personalized LLMs](summaries/2407.01031.md)
 #### [Towards Robust Speech Representation Learning for Thousands of Languages](summaries/2407.00837.md)
 #### [InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation](summaries/2407.00788.md)
 #### [Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning](summaries/2407.00782.md)
