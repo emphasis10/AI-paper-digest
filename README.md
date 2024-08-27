@@ -1,6 +1,11 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [SWE-bench-java: A GitHub Issue Resolving Benchmark for Java](summaries/2408.14354.md)
+#### [Training-free Long Video Generation with Chain of Diffusion Model Experts](summaries/2408.13423.md)
+#### [TVG: A Training-free Transition Video Generation Method with Diffusion Models](summaries/2408.13413.md)
+#### [LLaVaOLMoBitnet1B: Ternary LLM goes Multimodal!](summaries/2408.13402.md)
+#### [Power Scheduler: A Batch Size and Token Number Agnostic Learning Rate Scheduler](summaries/2408.13359.md)
 #### [MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?](summaries/2408.13257.md)
 #### [LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](summaries/2408.13252.md)
 #### [CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities](summaries/2408.13239.md)
@@ -33,6 +38,7 @@
 #### [LLM Pruning and Distillation in Practice: The Minitron Approach](summaries/2408.11796.md)
 #### [Critique-out-Loud Reward Models](summaries/2408.11791.md)
 #### [FocusLLM: Scaling LLM's Context by Parallel Decoding](summaries/2408.11745.md)
+#### [Efficient Detection of Toxic Prompts in Large Language Models](summaries/2408.11727.md)
 #### [FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting](summaries/2408.11706.md)
 #### [The Vizier Gaussian Process Bandit Algorithm](summaries/2408.11527.md)
 #### [TrackGo: A Flexible and Efficient Method for Controllable Video Generation](summaries/2408.11475.md)
@@ -51,6 +57,7 @@
 #### [Quantum Artificial Intelligence: A Brief Survey](summaries/2408.10726.md)
 #### [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](summaries/2408.10635.md)
 #### [Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information](summaries/2408.10615.md)
+#### [Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution](summaries/2408.10548.md)
 #### [MambaEVT: Event Stream based Visual Object Tracking using State Space Model](summaries/2408.10487.md)
 #### [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](summaries/2408.10198.md)
 #### [SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views](summaries/2408.10195.md)
