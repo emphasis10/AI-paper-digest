@@ -1,6 +1,13 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders](summaries/2408.15998.md)
+#### [TEDRA: Text-based Editing of Dynamic and Photoreal Actors](summaries/2408.15995.md)
+#### [Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models](summaries/2408.15915.md)
+#### [LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation](summaries/2408.15881.md)
+#### [Towards Realistic Example-based Modeling via 3D Gaussian Stitching](summaries/2408.15708.md)
+#### [Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models](summaries/2408.15518.md)
+#### [ReMamba: Equip Mamba with Effective Long-Sequence Modeling](summaries/2408.15496.md)
 #### [Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation](summaries/2408.15239.md)
 #### [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](summaries/2408.15237.md)
 #### [Diffusion Models Are Real-Time Game Engines](summaries/2408.14837.md)
