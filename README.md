@@ -1,6 +1,14 @@
 # Paper List
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
+#### [SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners](summaries/2408.16768.md)
+#### [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model](summaries/2408.16767.md)
+#### [CSGO: Content-Style Composition in Text-to-Image Generation](summaries/2408.16766.md)
+#### [WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling](summaries/2408.16532.md)
+#### [CogVLM2: Visual Language Models for Image and Video Understanding](summaries/2408.16500.md)
+#### [Law of Vision Representation in MLLMs](summaries/2408.16357.md)
+#### [3D Reconstruction with Spatial Memory](summaries/2408.16061.md)
+#### [Scaling Up Diffusion and Flow-based XGBoost Models](summaries/2408.16046.md)
 #### [Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders](summaries/2408.15998.md)
 #### [TEDRA: Text-based Editing of Dynamic and Photoreal Actors](summaries/2408.15995.md)
 #### [Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation](summaries/2408.15991.md)
@@ -10,6 +18,7 @@
 #### [Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature](summaries/2408.15836.md)
 #### [Efficient LLM Scheduling by Learning to Rank](summaries/2408.15792.md)
 #### [Towards Realistic Example-based Modeling via 3D Gaussian Stitching](summaries/2408.15708.md)
+#### [StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements](summaries/2408.15666.md)
 #### [Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](summaries/2408.15664.md)
 #### [Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models](summaries/2408.15518.md)
 #### [ReMamba: Equip Mamba with Effective Long-Sequence Modeling](summaries/2408.15496.md)
