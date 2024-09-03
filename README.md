@@ -2,6 +2,7 @@
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
 #### [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](summaries/2408.17267.md)
+#### [VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters](summaries/2408.17253.md)
 #### [VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](summaries/2408.17131.md)
 #### [InkubaLM: A small language model for low-resource African languages](summaries/2408.17024.md)
 #### [SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners](summaries/2408.16768.md)
