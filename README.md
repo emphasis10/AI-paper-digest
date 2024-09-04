@@ -1569,6 +1569,7 @@
 #### [Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models](summaries/2402.14714.md)
 #### [Should We Respect LLMs? A Cross-Lingual Study on the Influence of Prompt Politeness on LLM Performance](summaries/2402.14531.md)
 #### [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](summaries/2402.13605.md)
+#### [A Survey on Knowledge Distillation of Large Language Models](summaries/2402.13116.md)
 #### [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](summaries/2402.12875.md)
 #### [Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation](summaries/2402.11907.md)
 #### [OneBit: Towards Extremely Low-bit Large Language Models](summaries/2402.11295.md)
