@@ -1,6 +1,22 @@
 # Paper List
 ## 2409
+#### [LinFusion: 1 GPU, 1 Minute, 16K Image](summaries/2409.02097.md)
+#### [DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos](summaries/2409.02095.md)
 #### [OLMoE: Open Mixture-of-Experts Language Models](summaries/2409.02060.md)
+#### [Kvasir-VQA: A Text-Image Pair GI Tract Dataset](summaries/2409.01437.md)
+#### [GenAgent: Build Collaborative AI Systems with Automated Workflow Generation -- Case Studies on ComfyUI](summaries/2409.01392.md)
+#### [Know When to Fuse: Investigating Non-English Hybrid Retrieval in the Legal Domain](summaries/2409.01357.md)
+#### [OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model](summaries/2409.01199.md)
+#### [VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges](summaries/2409.01071.md)
+#### [Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation](summaries/2409.01055.md)
+#### [ContextCite: Attributing Model Generation to Context](summaries/2409.00729.md)
+#### [Diffusion Policy Policy Optimization](summaries/2409.00588.md)
+#### [FLUX that Plays Music](summaries/2409.00587.md)
+#### [Compositional 3D-aware Video Generation with LLM Director](summaries/2409.00558.md)
+#### [LongRecipe: Recipe for Efficient Long Context Generalization in Large Languge Models](summaries/2409.00509.md)
+#### [Accurate Compression of Text-to-Image Diffusion Models via Vector Quantization](summaries/2409.00492.md)
+#### [The MERIT Dataset: Modelling and Efficiently Rendering Interpretable Transcripts](summaries/2409.00447.md)
+#### [Density Adaptive Attention-based Speech Network: Enhancing Feature Understanding for Mental Health Disorders](summaries/2409.00391.md)
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
 #### [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](summaries/2408.17267.md)
