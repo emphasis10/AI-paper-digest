@@ -1735,6 +1735,7 @@
 #### [Who Says Elephants Can't Run: Bringing Large Scale MoE Models into Cloud Scale Production](summaries/2211.10017.md)
 ## 2210
 #### [ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs](summaries/2210.03052.md)
+#### [Less is More: Task-aware Layer-wise Distillation for Language Model Compression](summaries/2210.01351.md)
 ## 2209
 #### [FP8 Formats for Deep Learning](summaries/2209.05433.md)
 ## 2208
