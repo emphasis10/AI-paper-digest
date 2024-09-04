@@ -1690,6 +1690,7 @@
 #### [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](summaries/2307.08691.md)
 ## 2306
 #### [MotionGPT: Finetuned LLMs Are General-Purpose Motion Generators](summaries/2306.10900.md)
+#### [MiniLLM: Knowledge Distillation of Large Language Models](summaries/2306.08543.md)
 #### [MOFI: Learning Image Representation from Noisy Entity Annotated Images](summaries/2306.07952.md)
 #### [SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](summaries/2306.03078.md)
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
