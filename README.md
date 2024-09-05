@@ -1703,6 +1703,7 @@
 #### [A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations](summaries/2308.06767.md)
 #### [Accelerating LLM Inference with Staged Speculative Decoding](summaries/2308.04623.md)
 #### [AgentBench: Evaluating LLMs as Agents](summaries/2308.03688.md)
+#### [Baby Llama: knowledge distillation from an ensemble of teachers trained on a small dataset with no performance penalty](summaries/2308.02019.md)
 ## 2307
 #### [Samplable Anonymous Aggregation for Private Federated Data Analysis](summaries/2307.15017.md)
 #### [ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats](summaries/2307.09782.md)
