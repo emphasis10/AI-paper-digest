@@ -1,5 +1,7 @@
 # Paper List
 ## 2409
+#### [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](summaries/2409.02897.md)
+#### [Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](summaries/2409.02634.md)
 #### [LinFusion: 1 GPU, 1 Minute, 16K Image](summaries/2409.02097.md)
 #### [DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos](summaries/2409.02095.md)
 #### [OLMoE: Open Mixture-of-Experts Language Models](summaries/2409.02060.md)
