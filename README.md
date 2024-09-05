@@ -1717,6 +1717,7 @@
 #### [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](summaries/2306.00978.md)
 #### [Bytes Are All You Need: Transformers Operating Directly On File Bytes](summaries/2306.00238.md)
 ## 2305
+#### [LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning](summaries/2305.18403.md)
 #### [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](summaries/2305.18290.md)
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
 #### [QLoRA: Efficient Finetuning of Quantized LLMs](summaries/2305.14314.md)
