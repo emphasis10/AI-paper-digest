@@ -1,5 +1,8 @@
 # Paper List
 ## 2409
+#### [WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild](summaries/2409.03753.md)
+#### [Attention Heads of Large Language Models: A Survey](summaries/2409.03752.md)
+#### [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](summaries/2409.03420.md)
 #### [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](summaries/2409.02897.md)
 #### [LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](summaries/2409.02889.md)
 #### [MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark](summaries/2409.02813.md)
