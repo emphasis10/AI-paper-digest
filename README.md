@@ -1,5 +1,6 @@
 # Paper List
 ## 2409
+#### [Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task](summaries/2409.04005.md)
 #### [WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild](summaries/2409.03753.md)
 #### [Attention Heads of Large Language Models: A Survey](summaries/2409.03752.md)
 #### [Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation](summaries/2409.03718.md)
