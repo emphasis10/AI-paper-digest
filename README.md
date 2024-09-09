@@ -10,6 +10,7 @@
 #### [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](summaries/2409.03420.md)
 #### [ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding](summaries/2409.03277.md)
 #### [Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation](summaries/2409.03271.md)
+#### [GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding](summaries/2409.03258.md)
 #### [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](summaries/2409.02897.md)
 #### [LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](summaries/2409.02889.md)
 #### [Configurable Foundation Models: Building LLMs from a Modular Perspective](summaries/2409.02877.md)
