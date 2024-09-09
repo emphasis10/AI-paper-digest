@@ -1,6 +1,9 @@
 # Paper List
 ## 2409
+#### [Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation](summaries/2409.04410.md)
+#### [GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers](summaries/2409.04196.md)
 #### [Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task](summaries/2409.04005.md)
+#### [How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data](summaries/2409.03810.md)
 #### [WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild](summaries/2409.03753.md)
 #### [Attention Heads of Large Language Models: A Survey](summaries/2409.03752.md)
 #### [Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation](summaries/2409.03718.md)
@@ -24,6 +27,7 @@
 #### [LinFusion: 1 GPU, 1 Minute, 16K Image](summaries/2409.02097.md)
 #### [DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos](summaries/2409.02095.md)
 #### [Political DEBATE: Efficient Zero-shot and Few-shot Classifiers for Political Text](summaries/2409.02078.md)
+#### [Spinning the Golden Thread: Benchmarking Long-Form Generation in Language Models](summaries/2409.02076.md)
 #### [OLMoE: Open Mixture-of-Experts Language Models](summaries/2409.02060.md)
 #### [FuzzCoder: Byte-level Fuzzing Test via Large Language Model](summaries/2409.01944.md)
 #### [Kvasir-VQA: A Text-Image Pair GI Tract Dataset](summaries/2409.01437.md)
