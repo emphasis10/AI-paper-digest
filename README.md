@@ -1,7 +1,17 @@
 # Paper List
 ## 2409
+#### [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](summaries/2409.05865.md)
+#### [Evaluating Multiview Object Consistency in Humans and Image Models](summaries/2409.05862.md)
 #### [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](summaries/2409.05840.md)
+#### [Benchmarking Chinese Knowledge Rectification in Large Language Models](summaries/2409.05806.md)
+#### [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](summaries/2409.05591.md)
+#### [Insights from Benchmarking Frontier Language Models on Web App Code Generation](summaries/2409.05177.md)
+#### [OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs](summaries/2409.05152.md)
+#### [POINTS: Improving Your Vision-language Model with Affordable Strategies](summaries/2409.04828.md)
+#### [Paper Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance](summaries/2409.04593.md)
 #### [Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation](summaries/2409.04410.md)
+#### [Open Language Data Initiative: Advancing Low-Resource Machine Translation for Karakalpak](summaries/2409.04269.md)
+#### [UniDet3D: Multi-dataset Indoor 3D Object Detection](summaries/2409.04234.md)
 #### [GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers](summaries/2409.04196.md)
 #### [Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task](summaries/2409.04005.md)
 #### [How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data](summaries/2409.03810.md)
