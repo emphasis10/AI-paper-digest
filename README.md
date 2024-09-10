@@ -1,5 +1,6 @@
 # Paper List
 ## 2409
+#### [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](summaries/2409.05840.md)
 #### [Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation](summaries/2409.04410.md)
 #### [GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers](summaries/2409.04196.md)
 #### [Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task](summaries/2409.04005.md)
@@ -19,6 +20,7 @@
 #### [Configurable Foundation Models: Building LLMs from a Modular Perspective](summaries/2409.02877.md)
 #### [Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant](summaries/2409.02864.md)
 #### [MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark](summaries/2409.02813.md)
+#### [Towards a Unified View of Preference Learning for Large Language Models: A Survey](summaries/2409.02795.md)
 #### [Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](summaries/2409.02634.md)
 #### [Building Math Agents with Multi-Turn Iterative Preference Learning](summaries/2409.02392.md)
 #### [Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges](summaries/2409.02387.md)
