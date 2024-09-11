@@ -1,6 +1,9 @@
 # Paper List
 ## 2409
+#### [LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation](summaries/2409.06703.md)
+#### [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](summaries/2409.06666.md)
 #### [SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation](summaries/2409.06633.md)
+#### [INTRA: Interaction Relationship-aware Weakly Supervised Affordance Grounding](summaries/2409.06210.md)
 #### [Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis](summaries/2409.06135.md)
 #### [SongCreator: Lyrics-based Universal Song Generation](summaries/2409.06029.md)
 #### [Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments](summaries/2409.05865.md)
