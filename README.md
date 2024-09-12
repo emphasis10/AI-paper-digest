@@ -6,6 +6,7 @@
 #### [Agent Workflow Memory](summaries/2409.07429.md)
 #### [Gated Slot Attention for Efficient Linear-Time Sequence Modeling](summaries/2409.07146.md)
 #### [MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis](summaries/2409.07129.md)
+#### [What is the Role of Small Models in the LLM Era: A Survey](summaries/2409.06857.md)
 #### [gsplat: An Open-Source Library for Gaussian Splatting](summaries/2409.06765.md)
 #### [Generative Hierarchical Materials Search](summaries/2409.06762.md)
 #### [LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation](summaries/2409.06703.md)
