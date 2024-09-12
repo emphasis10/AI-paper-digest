@@ -1,5 +1,13 @@
 # Paper List
 ## 2409
+#### [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](summaries/2409.07452.md)
+#### [VMAS: Video-to-Music Generation via Semantic Alignment in Web Music Videos](summaries/2409.07450.md)
+#### [Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering](summaries/2409.07441.md)
+#### [Agent Workflow Memory](summaries/2409.07429.md)
+#### [Gated Slot Attention for Efficient Linear-Time Sequence Modeling](summaries/2409.07146.md)
+#### [MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis](summaries/2409.07129.md)
+#### [gsplat: An Open-Source Library for Gaussian Splatting](summaries/2409.06765.md)
+#### [Generative Hierarchical Materials Search](summaries/2409.06762.md)
 #### [LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation](summaries/2409.06703.md)
 #### [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](summaries/2409.06666.md)
 #### [SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation](summaries/2409.06633.md)
@@ -20,6 +28,7 @@
 #### [UniDet3D: Multi-dataset Indoor 3D Object Detection](summaries/2409.04234.md)
 #### [GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers](summaries/2409.04196.md)
 #### [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](summaries/2409.04109.md)
+#### [Self-Harmonized Chain of Thought](summaries/2409.04057.md)
 #### [Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task](summaries/2409.04005.md)
 #### [How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data](summaries/2409.03810.md)
 #### [WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild](summaries/2409.03753.md)
