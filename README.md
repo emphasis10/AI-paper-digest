@@ -1,5 +1,10 @@
 # Paper List
 ## 2409
+#### [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors](summaries/2409.08278.md)
+#### [FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](summaries/2409.08270.md)
+#### [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](summaries/2409.08264.md)
+#### [TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder](summaries/2409.08248.md)
+#### [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](summaries/2409.08239.md)
 #### [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](summaries/2409.07452.md)
 #### [VMAS: Video-to-Music Generation via Semantic Alignment in Web Music Videos](summaries/2409.07450.md)
 #### [Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering](summaries/2409.07441.md)
