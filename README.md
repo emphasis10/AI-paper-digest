@@ -1,7 +1,13 @@
 # Paper List
 ## 2409
+#### [A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis](summaries/2409.08947.md)
+#### [InstantDrag: Improving Interactivity in Drag-based Image Editing](summaries/2409.08857.md)
+#### [DrawingSpinUp: 3D Animation from Single Character Drawings](summaries/2409.08615.md)
+#### [Apollo: Band-sequence Modeling for High-Quality Audio Restoration](summaries/2409.08514.md)
+#### [Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection](summaries/2409.08513.md)
 #### [Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos](summaries/2409.08353.md)
 #### [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors](summaries/2409.08278.md)
+#### [Click2Mask: Local Editing with Dynamic Mask Generation](summaries/2409.08272.md)
 #### [FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](summaries/2409.08270.md)
 #### [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](summaries/2409.08264.md)
 #### [TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder](summaries/2409.08248.md)
