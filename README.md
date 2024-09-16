@@ -1,5 +1,6 @@
 # Paper List
 ## 2409
+#### [Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos](summaries/2409.08353.md)
 #### [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors](summaries/2409.08278.md)
 #### [FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](summaries/2409.08270.md)
 #### [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](summaries/2409.08264.md)
