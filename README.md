@@ -1,5 +1,7 @@
 # Paper List
 ## 2409
+#### [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](summaries/2409.10516.md)
+#### [Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](summaries/2409.09214.md)
 #### [A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis](summaries/2409.08947.md)
 #### [InstantDrag: Improving Interactivity in Drag-based Image Editing](summaries/2409.08857.md)
 #### [DrawingSpinUp: 3D Animation from Single Character Drawings](summaries/2409.08615.md)
