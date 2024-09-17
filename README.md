@@ -70,6 +70,7 @@
 #### [ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding](summaries/2409.03277.md)
 #### [Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation](summaries/2409.03271.md)
 #### [GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding](summaries/2409.03258.md)
+#### [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](summaries/2409.03257.md)
 #### [Large Language Model-Based Agents for Software Engineering: A Survey](summaries/2409.02977.md)
 #### [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](summaries/2409.02897.md)
 #### [LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture](summaries/2409.02889.md)
