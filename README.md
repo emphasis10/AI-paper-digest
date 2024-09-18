@@ -1,6 +1,18 @@
 # Paper List
 ## 2409
+#### [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](summaries/2409.11406.md)
+#### [NVLM: Open Frontier-Class Multimodal LLMs](summaries/2409.11402.md)
+#### [OSV: One Step is Enough for High-Quality Image to Video Generation](summaries/2409.11367.md)
+#### [Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think](summaries/2409.11355.md)
+#### [OmniGen: Unified Image Generation](summaries/2409.11340.md)
+#### [SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction](summaries/2409.11211.md)
+#### [Agile Continuous Jumping in Discontinuous Terrains](summaries/2409.10923.md)
+#### [Single-Layer Learnable Activation for Implicit Neural Representation (SL$^{2}$A-INR)](summaries/2409.10836.md)
+#### [PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing](summaries/2409.10831.md)
+#### [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](summaries/2409.10819.md)
+#### [On the limits of agency in agent-based models](summaries/2409.10568.md)
 #### [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](summaries/2409.10516.md)
+#### [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](summaries/2409.09323.md)
 #### [Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](summaries/2409.09214.md)
 #### [A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis](summaries/2409.08947.md)
 #### [InstantDrag: Improving Interactivity in Drag-based Image Editing](summaries/2409.08857.md)
