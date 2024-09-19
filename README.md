@@ -1832,11 +1832,13 @@
 #### [MOFI: Learning Image Representation from Noisy Entity Annotated Images](summaries/2306.07952.md)
 #### [SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](summaries/2306.03078.md)
 #### [TIES-Merging: Resolving Interference When Merging Models](summaries/2306.01708.md)
+#### [The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only](summaries/2306.01116.md)
 #### [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](summaries/2306.00978.md)
 #### [Bytes Are All You Need: Transformers Operating Directly On File Bytes](summaries/2306.00238.md)
 ## 2305
 #### [LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning](summaries/2305.18403.md)
 #### [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](summaries/2305.18290.md)
+#### [Scaling Data-Constrained Language Models](summaries/2305.16264.md)
 #### [Manifold Diffusion Fields](summaries/2305.15586.md)
 #### [QLoRA: Efficient Finetuning of Quantized LLMs](summaries/2305.14314.md)
 #### [Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization](summaries/2305.14152.md)
@@ -1853,6 +1855,7 @@
 ## 2304
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2303
+#### [A Survey of Large Language Models](summaries/2303.18223.md)
 #### [Sigmoid Loss for Language Image Pre-Training](summaries/2303.15343.md)
 #### [Sparks of Artificial General Intelligence: Early experiments with GPT-4](summaries/2303.12712.md)
 #### [ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation](summaries/2303.08302.md)
@@ -1895,34 +1898,50 @@
 #### [A Survey of Multi-Tenant Deep Learning Inference on GPU](summaries/2203.09040.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
+## 2112
+#### [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](summaries/2112.11446.md)
 ## 2110
 #### [Scalable Smartphone Cluster for Deep Learning](summaries/2110.12172.md)
 ## 2106
 #### [LibShalom: Optimizing Small and Irregular-Shaped Matrix Multiplications on ARMv8 Multi-Cores](summaries/2106.libshalom.md)
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
+#### [XtremeDistilTransformers: Task Transfer for Task-agnostic Distillation](summaries/2106.04563.md)
+## 2105
+#### [A Survey of Data Augmentation Approaches for NLP](summaries/2105.03075.md)
 ## 2104
 #### [RoFormer: Enhanced Transformer with Rotary Position Embedding](summaries/2104.09864.md)
 ## 2101
 #### [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](summaries/2101.03961.md)
 ## 2010
+#### [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](summaries/2010.08240.md)
 #### [TurboTransformers: An Efficient GPU Serving System For Transformer Models](summaries/2010.05680.md)
 ## 2009
 #### [Flexible Performant GEMM Kernels on GPUs](summaries/2009.12263.md)
+## 2007
+#### [Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks](summaries/2007.03212.md)
 ## 2005
 #### [Language Models are Few-Shot Learners](summaries/2005.14165.md)
 #### [BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs](summaries/2005.09904.md)
+## 2004
+#### [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](summaries/2004.02984.md)
 ## 2003
 #### [Transformer++](summaries/2003.04974.md)
 ## 2002
 #### [GLU Variants Improve Transformer](summaries/2002.05202.md)
 ## 1910
 #### [Depth-Adaptive Transformer](summaries/1910.10073.md)
+#### [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](summaries/1910.01108.md)
 ## 1909
 #### [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](summaries/1909.11942.md)
+#### [TinyBERT: Distilling BERT for Natural Language Understanding](summaries/1909.10351.md)
+## 1908
+#### [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](summaries/1908.10084.md)
 ## 1907
 #### [RoBERTa: A Robustly Optimized BERT Pretraining Approach](summaries/1907.11692.md)
 ## 1906
 #### [How multilingual is Multilingual BERT?](summaries/1906.01502.md)
+## 1905
+#### [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](summaries/1905.06566.md)
 ## 1810
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summaries/1810.04805.md)
 ## 1805
