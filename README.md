@@ -1,8 +1,10 @@
 # Paper List
 ## 2409
+#### [Vista3D: Unravel the 3D Darkside of a Single Image](summaries/2409.12193.md)
 #### [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](summaries/2409.12191.md)
 #### [Qwen2.5-Coder Technical Report](summaries/2409.12186.md)
 #### [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](summaries/2409.12183.md)
+#### [A Controlled Study on Long Context Extension and Generalization in LLMs](summaries/2409.12181.md)
 #### [Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](summaries/2409.12139.md)
 #### [GRIN: GRadient-INformed MoE](summaries/2409.12136.md)
 #### [LLMs + Persona-Plug = Personalized LLMs](summaries/2409.11901.md)
@@ -22,6 +24,7 @@
 #### [EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](summaries/2409.10819.md)
 #### [On the limits of agency in agent-based models](summaries/2409.10568.md)
 #### [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](summaries/2409.10516.md)
+#### [Towards Diverse and Efficient Audio Captioning via Diffusion Models](summaries/2409.09401.md)
 #### [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](summaries/2409.09323.md)
 #### [Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](summaries/2409.09214.md)
 #### [A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis](summaries/2409.08947.md)
@@ -29,6 +32,7 @@
 #### [DrawingSpinUp: 3D Animation from Single Character Drawings](summaries/2409.08615.md)
 #### [Apollo: Band-sequence Modeling for High-Quality Audio Restoration](summaries/2409.08514.md)
 #### [Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection](summaries/2409.08513.md)
+#### [SoloAudio: Target Sound Extraction with Language-oriented Audio Diffusion Transformer](summaries/2409.08425.md)
 #### [Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos](summaries/2409.08353.md)
 #### [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors](summaries/2409.08278.md)
 #### [Click2Mask: Local Editing with Dynamic Mask Generation](summaries/2409.08272.md)
