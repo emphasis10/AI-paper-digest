@@ -1,5 +1,12 @@
 # Paper List
 ## 2409
+#### [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](summaries/2409.12191.md)
+#### [Qwen2.5-Coder Technical Report](summaries/2409.12186.md)
+#### [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](summaries/2409.12183.md)
+#### [Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](summaries/2409.12139.md)
+#### [GRIN: GRadient-INformed MoE](summaries/2409.12136.md)
+#### [LLMs + Persona-Plug = Personalized LLMs](summaries/2409.11901.md)
+#### [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](summaries/2409.11564.md)
 #### [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](summaries/2409.11406.md)
 #### [NVLM: Open Frontier-Class Multimodal LLMs](summaries/2409.11402.md)
 #### [OSV: One Step is Enough for High-Quality Image to Video Generation](summaries/2409.11367.md)
@@ -64,8 +71,10 @@
 #### [Insights from Benchmarking Frontier Language Models on Web App Code Generation](summaries/2409.05177.md)
 #### [Can OOD Object Detectors Learn from Foundation Models?](summaries/2409.05162.md)
 #### [OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs](summaries/2409.05152.md)
+#### [Achieving Peak Performance for Large Language Models: A Systematic Review](summaries/2409.04833.md)
 #### [POINTS: Improving Your Vision-language Model with Affordable Strategies](summaries/2409.04828.md)
 #### [Paper Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance](summaries/2409.04593.md)
+#### [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](summaries/2409.04431.md)
 #### [Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation](summaries/2409.04410.md)
 #### [Open Language Data Initiative: Advancing Low-Resource Machine Translation for Karakalpak](summaries/2409.04269.md)
 #### [UniDet3D: Multi-dataset Indoor 3D Object Detection](summaries/2409.04234.md)
