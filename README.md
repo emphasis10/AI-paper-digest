@@ -2,8 +2,10 @@
 ## 2409
 #### [Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](summaries/2409.12961.md)
 #### [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](summaries/2409.12960.md)
+#### [MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](summaries/2409.12959.md)
 #### [MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions](summaries/2409.12958.md)
 #### [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](summaries/2409.12957.md)
+#### [Training Language Models to Self-Correct via Reinforcement Learning](summaries/2409.12917.md)
 #### [Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization](summaries/2409.12903.md)
 #### [3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt](summaries/2409.12892.md)
 #### [Language Models Learn to Mislead Humans via RLHF](summaries/2409.12822.md)
@@ -40,6 +42,7 @@
 #### [Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](summaries/2409.09214.md)
 #### [A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis](summaries/2409.08947.md)
 #### [InstantDrag: Improving Interactivity in Drag-based Image Editing](summaries/2409.08857.md)
+#### [B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests](summaries/2409.08692.md)
 #### [DrawingSpinUp: 3D Animation from Single Character Drawings](summaries/2409.08615.md)
 #### [Apollo: Band-sequence Modeling for High-Quality Audio Restoration](summaries/2409.08514.md)
 #### [Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection](summaries/2409.08513.md)
