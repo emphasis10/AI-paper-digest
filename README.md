@@ -1,5 +1,16 @@
 # Paper List
 ## 2409
+#### [Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](summaries/2409.12961.md)
+#### [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](summaries/2409.12960.md)
+#### [MURI: High-Quality Instruction Tuning Datasets for Low-Resource Languages via Reverse Instructions](summaries/2409.12958.md)
+#### [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](summaries/2409.12957.md)
+#### [Scaling Smart: Accelerating Large Language Model Pre-training with Small Model Initialization](summaries/2409.12903.md)
+#### [3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt](summaries/2409.12892.md)
+#### [Language Models Learn to Mislead Humans via RLHF](summaries/2409.12822.md)
+#### [StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation](summaries/2409.12576.md)
+#### [InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning](summaries/2409.12568.md)
+#### [Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation](summaries/2409.12532.md)
+#### [FlexiTex: Enhancing Texture Generation with Visual Guidance](summaries/2409.12431.md)
 #### [Vista3D: Unravel the 3D Darkside of a Single Image](summaries/2409.12193.md)
 #### [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](summaries/2409.12191.md)
 #### [Qwen2.5-Coder Technical Report](summaries/2409.12186.md)
