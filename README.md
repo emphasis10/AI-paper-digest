@@ -1,5 +1,7 @@
 # Paper List
 ## 2409
+#### [Portrait Video Editing Empowered by Multimodal Generative Priors](summaries/2409.13591.md)
+#### [MuCodec: Ultra Low-Bitrate Music Codec](summaries/2409.13216.md)
 #### [CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](summaries/2409.12962.md)
 #### [Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](summaries/2409.12961.md)
 #### [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](summaries/2409.12960.md)
