@@ -1896,6 +1896,7 @@
 #### [Fast Distributed Inference Serving for Large Language Models](summaries/2305.05920.md)
 #### [Shap-E: Generating Conditional 3D Implicit Functions](summaries/2305.02463.md)
 ## 2304
+#### [Are Emergent Abilities of Large Language Models a Mirage?](summaries/2304.15004.md)
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2303
 #### [A Survey of Large Language Models](summaries/2303.18223.md)
