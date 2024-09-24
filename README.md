@@ -1941,6 +1941,8 @@
 #### [A Survey of Multi-Tenant Deep Learning Inference on GPU](summaries/2203.09040.md)
 ## 2202
 #### [cosFormer: Rethinking Softmax in Attention](summaries/2202.08791.md)
+## 2201
+#### [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](summaries/2201.02177.md)
 ## 2112
 #### [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](summaries/2112.11446.md)
 ## 2110
