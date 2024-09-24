@@ -1,5 +1,7 @@
 # Paper List
 ## 2409
+#### [A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](summaries/2409.15277.md)
+#### [A Case Study of Web App Coding with OpenAI Reasoning Models](summaries/2409.13773.md)
 #### [Colorful Diffuse Intrinsic Image Decomposition in the Wild](summaries/2409.13690.md)
 #### [Temporally Aligned Audio for Video with Autoregression](summaries/2409.13689.md)
 #### [V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians](summaries/2409.13648.md)
@@ -8,6 +10,7 @@
 #### [Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts](summaries/2409.13449.md)
 #### [Imagine yourself: Tuning-Free Personalized Image Generation](summaries/2409.13346.md)
 #### [MuCodec: Ultra Low-Bitrate Music Codec](summaries/2409.13216.md)
+#### [An adapted large language model facilitates multiple medical tasks in diabetes care](summaries/2409.13191.md)
 #### [CLAIR-A: Leveraging Large Language Models to Judge Audio Captions](summaries/2409.12962.md)
 #### [Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](summaries/2409.12961.md)
 #### [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](summaries/2409.12960.md)
