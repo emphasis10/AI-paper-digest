@@ -1934,6 +1934,7 @@
 ## 2205
 #### [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](summaries/2205.14135.md)
 #### [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](summaries/2205.12410.md)
+#### [Towards Understanding Grokking: An Effective Theory of Representation Learning](summaries/2205.10343.md)
 #### [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](summaries/2205.05638.md)
 ## 2204
 #### [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](summaries/2204.05862.md)
