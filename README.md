@@ -1,5 +1,9 @@
 # Paper List
 ## 2409
+#### [Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation](summaries/2409.16283.md)
+#### [MonoFormer: One Transformer for Both Diffusion and Autoregression](summaries/2409.16280.md)
+#### [HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models](summaries/2409.16191.md)
+#### [Making Text Embedders Few-Shot Learners](summaries/2409.15700.md)
 #### [A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](summaries/2409.15277.md)
 #### [A Case Study of Web App Coding with OpenAI Reasoning Models](summaries/2409.13773.md)
 #### [Colorful Diffuse Intrinsic Image Decomposition in the Wild](summaries/2409.13690.md)
@@ -28,6 +32,7 @@
 #### [Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation](summaries/2409.12532.md)
 #### [FlexiTex: Enhancing Texture Generation with Visual Guidance](summaries/2409.12431.md)
 #### [Vista3D: Unravel the 3D Darkside of a Single Image](summaries/2409.12193.md)
+#### [DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control](summaries/2409.12192.md)
 #### [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](summaries/2409.12191.md)
 #### [Qwen2.5-Coder Technical Report](summaries/2409.12186.md)
 #### [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](summaries/2409.12183.md)
