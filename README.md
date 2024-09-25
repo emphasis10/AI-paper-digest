@@ -3,6 +3,7 @@
 #### [Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation](summaries/2409.16283.md)
 #### [MonoFormer: One Transformer for Both Diffusion and Autoregression](summaries/2409.16280.md)
 #### [HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models](summaries/2409.16191.md)
+#### [Small Language Models: Survey, Measurements, and Insights](summaries/2409.15790.md)
 #### [Making Text Embedders Few-Shot Learners](summaries/2409.15700.md)
 #### [A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](summaries/2409.15277.md)
 #### [A Case Study of Web App Coding with OpenAI Reasoning Models](summaries/2409.13773.md)
