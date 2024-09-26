@@ -1,5 +1,10 @@
 # Paper List
 ## 2409
+#### [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models](summaries/2409.17146.md)
+#### [DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion](summaries/2409.17145.md)
+#### [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](summaries/2409.17115.md)
+#### [TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans](summaries/2409.16666.md)
+#### [Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing](summaries/2409.16629.md)
 #### [Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation](summaries/2409.16283.md)
 #### [MonoFormer: One Transformer for Both Diffusion and Autoregression](summaries/2409.16280.md)
 #### [EuroLLM: Multilingual Language Models for Europe](summaries/2409.16235.md)
@@ -77,6 +82,7 @@
 #### [Schrodinger's Memory: Large Language Models](summaries/2409.10482.md)
 #### [Trustworthiness in Retrieval-Augmented Generation Systems: A Survey](summaries/2409.10102.md)
 #### [On the Diagram of Thought](summaries/2409.10038.md)
+#### [SFR-RAG: Towards Contextually Faithful LLMs](summaries/2409.09916.md)
 #### [Towards Diverse and Efficient Audio Captioning via Diffusion Models](summaries/2409.09401.md)
 #### [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](summaries/2409.09323.md)
 #### [Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](summaries/2409.09214.md)
