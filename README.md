@@ -1,5 +1,9 @@
 # Paper List
 ## 2409
+#### [EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions](summaries/2409.18042.md)
+#### [MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models](summaries/2409.17481.md)
+#### [Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction](summaries/2409.17422.md)
+#### [Disco4D: Disentangled 4D Human Generation and Animation from a Single Image](summaries/2409.17280.md)
 #### [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models](summaries/2409.17146.md)
 #### [DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion](summaries/2409.17145.md)
 #### [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](summaries/2409.17115.md)
