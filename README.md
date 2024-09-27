@@ -1,6 +1,11 @@
 # Paper List
 ## 2409
+#### [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](summaries/2409.18125.md)
+#### [Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction](summaries/2409.18124.md)
+#### [Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction](summaries/2409.18121.md)
 #### [EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions](summaries/2409.18042.md)
+#### [Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study](summaries/2409.17580.md)
+#### [Pixel-Space Post-Training of Latent Diffusion Models](summaries/2409.17565.md)
 #### [MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models](summaries/2409.17481.md)
 #### [Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction](summaries/2409.17422.md)
 #### [Disco4D: Disentangled 4D Human Generation and Animation from a Single Image](summaries/2409.17280.md)
@@ -29,6 +34,9 @@
 #### [OmniBench: Towards The Future of Universal Omni-Language Models](summaries/2409.15272.md)
 #### [Boosting Healthcare LLMs Through Retrieved Context](summaries/2409.15127.md)
 #### [AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark](summaries/2409.15041.md)
+#### [Reducing the Footprint of Multi-Vector Retrieval with Minimal Performance Impact via Token Pooling](summaries/2409.14683.md)
+#### [Instruction Following without Instruction Tuning](summaries/2409.14254.md)
+#### [The Imperative of Conversation Analysis in the Era of LLMs: A Survey of Tasks, Techniques, and Trends](summaries/2409.14195.md)
 #### [Present and Future Generalization of Synthetic Image Detectors](summaries/2409.14128.md)
 #### [Tabular Data Generation using Binary Diffusion](summaries/2409.13882.md)
 #### [A Case Study of Web App Coding with OpenAI Reasoning Models](summaries/2409.13773.md)
