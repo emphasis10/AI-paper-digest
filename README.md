@@ -1,11 +1,17 @@
 # Paper List
 ## 2409
+#### [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](summaries/2409.18964.md)
+#### [LML: Language Model Learning a Dataset for Data-Augmented Prediction](summaries/2409.18957.md)
+#### [Emu3: Next-Token Prediction is All You Need](summaries/2409.18869.md)
+#### [MinerU: An Open-Source Solution for Precise Document Content Extraction](summaries/2409.18839.md)
 #### [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](summaries/2409.18125.md)
 #### [Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction](summaries/2409.18124.md)
 #### [Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction](summaries/2409.18121.md)
 #### [EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions](summaries/2409.18042.md)
+#### [MIO: A Foundation Model on Multimodal Tokens](summaries/2409.17692.md)
 #### [Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case Study](summaries/2409.17580.md)
 #### [Pixel-Space Post-Training of Latent Diffusion Models](summaries/2409.17565.md)
+#### [Modulated Intervention Preference Optimization (MIPO): Keep the Easy, Refine the Difficult](summaries/2409.17545.md)
 #### [MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models](summaries/2409.17481.md)
 #### [Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction](summaries/2409.17422.md)
 #### [Disco4D: Disentangled 4D Human Generation and Animation from a Single Image](summaries/2409.17280.md)
