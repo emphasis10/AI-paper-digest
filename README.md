@@ -1,6 +1,12 @@
 # Paper List
+## 2410
+#### [Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model And Input View Curation](summaries/2410.00890.md)
+#### [TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](summaries/2410.00531.md)
+#### [Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models](summaries/2410.00231.md)
+#### [ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer](summaries/2410.00086.md)
 ## 2409
 #### [MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning](summaries/2409.20566.md)
+#### [DressRecon: Freeform 4D Human Reconstruction from Monocular Video](summaries/2409.20563.md)
 #### [UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models](summaries/2409.20551.md)
 #### [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers](summaries/2409.20537.md)
 #### [Image Copy Detection for Diffusion Models](summaries/2409.19952.md)
