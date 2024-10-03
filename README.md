@@ -1,5 +1,9 @@
 # Paper List
 ## 2410
+#### [EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](summaries/2410.01804.md)
+#### [ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation](summaries/2410.01731.md)
+#### [HelpSteer2-Preference: Complementing Ratings with Preferences](summaries/2410.01257.md)
+#### [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](summaries/2410.01044.md)
 #### [Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model And Input View Curation](summaries/2410.00890.md)
 #### [What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine Translation with a Human-centered Study](summaries/2410.00545.md)
 #### [TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](summaries/2410.00531.md)
