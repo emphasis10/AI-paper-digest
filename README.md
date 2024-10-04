@@ -1,5 +1,13 @@
 # Paper List
 ## 2410
+#### [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](summaries/2410.02757.md)
+#### [Contrastive Localized Language-Image Pre-Training](summaries/2410.02746.md)
+#### [Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models](summaries/2410.02740.md)
+#### [Video Instruction Tuning With Synthetic Data](summaries/2410.02713.md)
+#### [LLaVA-Critic: Learning to Evaluate Multimodal Models](summaries/2410.02712.md)
+#### [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](summaries/2410.02367.md)
+#### [MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis](summaries/2410.02103.md)
+#### [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](summaries/2410.02056.md)
 #### [EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](summaries/2410.01804.md)
 #### [Quantifying Generalization Complexity for Large Language Models](summaries/2410.01769.md)
 #### [Not All LLM Reasoners Are Created Equal](summaries/2410.01748.md)
