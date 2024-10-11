@@ -2151,6 +2151,7 @@
 #### [Offsite-Tuning: Transfer Learning without Full Model](summaries/2302.04870.md)
 #### [Accelerating Large Language Model Decoding with Speculative Sampling](summaries/2302.01318.md)
 ## 2301
+#### [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](summaries/2301.12597.md)
 #### [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](summaries/2301.08243.md)
 #### [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](summaries/2301.00774.md)
 #### [Muse: Text-To-Image Generation via Masked Generative Transformers](summaries/2301.00704.md)
@@ -2190,6 +2191,7 @@
 #### [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](summaries/2112.11446.md)
 ## 2110
 #### [Scalable Smartphone Cluster for Deep Learning](summaries/2110.12172.md)
+#### [Understanding Dimensional Collapse in Contrastive Self-supervised Learning](summaries/2110.09348.md)
 ## 2106
 #### [LibShalom: Optimizing Small and Irregular-Shaped Matrix Multiplications on ARMv8 Multi-Cores](summaries/2106.libshalom.md)
 #### [LoRA: Low-Rank Adaptation of Large Language Models](summaries/2106.09685.md)
