@@ -1,5 +1,9 @@
 # Paper List
 ## 2410
+#### [Semantic Score Distillation Sampling for Compositional Text-to-3D Generation](summaries/2410.09009.md)
+#### [SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights](summaries/2410.09008.md)
+#### [Baichuan-Omni Technical Report](summaries/2410.08565.md)
+#### [Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis](summaries/2410.08261.md)
 #### [DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models](summaries/2410.08207.md)
 #### [MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code](summaries/2410.08196.md)
 #### [Agent S: An Open Agentic Framework that Uses Computers Like a Human](summaries/2410.08164.md)
@@ -19,6 +23,7 @@
 #### [TextToon: Real-Time Text Toonify Head Avatar from Single Video](summaries/2410.07160.md)
 #### [Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling](summaries/2410.07145.md)
 #### [Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates](summaries/2410.07137.md)
+#### [EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models](summaries/2410.07133.md)
 #### [Personalized Visual Instruction Tuning](summaries/2410.07113.md)
 #### [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](summaries/2410.07095.md)
 #### [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](summaries/2410.07074.md)
