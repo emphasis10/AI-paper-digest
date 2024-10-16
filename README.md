@@ -1,6 +1,11 @@
 # Paper List
 ## 2410
+#### [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](summaries/2410.11779.md)
+#### [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](summaries/2410.11710.md)
+#### [GS^3: Efficient Relighting with Triple Gaussian Splatting](summaries/2410.11419.md)
+#### [SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI](summaries/2410.11096.md)
 #### [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](summaries/2410.10774.md)
+#### [Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](summaries/2410.10626.md)
 #### [MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](summaries/2410.10563.md)
 #### [Animate-X: Universal Character Image Animation with Enhanced Motion Representation](summaries/2410.10306.md)
 #### [MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models](summaries/2410.10139.md)
