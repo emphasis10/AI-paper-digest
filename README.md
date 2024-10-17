@@ -1,5 +1,12 @@
 # Paper List
 ## 2410
+#### [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](summaries/2410.12628.md)
+#### [Exploring Model Kinship for Merging Large Language Models](summaries/2410.12613.md)
+#### [Revealing the Barriers of Language Agents in Planning](summaries/2410.12409.md)
+#### [ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs](summaries/2410.12405.md)
+#### [HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks](summaries/2410.12381.md)
+#### [OMCAT: Omni Context Aware Transformer](summaries/2410.12109.md)
+#### [Improving Long-Text Alignment for Text-to-Image Diffusion Models](summaries/2410.11817.md)
 #### [NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models](summaries/2410.11805.md)
 #### [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](summaries/2410.11795.md)
 #### [MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](summaries/2410.11779.md)
