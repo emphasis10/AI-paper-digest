@@ -16,6 +16,7 @@
 #### [Movie Gen: A Cast of Media Foundation Models](summaries/2410.13720.md)
 #### [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](summaries/2410.13639.md)
 #### [LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning](summaries/2410.13618.md)
+#### [MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models](summaries/2410.13370.md)
 #### [Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant](summaries/2410.13360.md)
 #### [Do LLMs Have Political Correctness? Analyzing Ethical Biases and Jailbreak Vulnerabilities in AI Systems](summaries/2410.13334.md)
 #### [SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation](summaries/2410.13293.md)
