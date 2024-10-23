@@ -2,6 +2,7 @@
 ## 2410
 #### [FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors](summaries/2410.16271.md)
 #### [SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree](summaries/2410.16268.md)
+#### [Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos](summaries/2410.16259.md)
 #### [CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution](summaries/2410.16256.md)
 #### [Pre-training Distillation for Large Language Models: A Design Space Exploration](summaries/2410.16215.md)
 #### [RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style](summaries/2410.16184.md)
@@ -12,6 +13,7 @@
 #### [Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training](summaries/2410.15460.md)
 #### [Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant](summaries/2410.15316.md)
 #### [DM-Codec: Distilling Multimodal Representations for Speech Tokenization](summaries/2410.15017.md)
+#### [How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold](summaries/2410.15002.md)
 #### [Baichuan Alignment Technical Report](summaries/2410.14940.md)
 #### [SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation](summaries/2410.14745.md)
 #### [Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts](summaries/2410.14677.md)
