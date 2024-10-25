@@ -1,5 +1,14 @@
 # Paper List
 ## 2410
+#### [Framer: Interactive Frame Interpolation](summaries/2410.18978.md)
+#### [Unbounded: A Generative Infinite Game of Character Life Simulation](summaries/2410.18975.md)
+#### [Stable Consistency Tuning: Understanding and Improving Consistency Models](summaries/2410.18958.md)
+#### [Should We Really Edit Language Models? On the Evaluation of Edited Language Models](summaries/2410.18785.md)
+#### [Why Does the Effective Context Length of LLMs Fall Short?](summaries/2410.18745.md)
+#### [Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch](summaries/2410.18693.md)
+#### [LOGO -- Long cOntext aliGnment via efficient preference Optimization](summaries/2410.18533.md)
+#### [CCI3.0-HQ: a large-scale Chinese dataset of high quality designed for pre-training large language models](summaries/2410.18505.md)
+#### [Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs](summaries/2410.18451.md)
 #### [DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](summaries/2410.18084.md)
 #### [WorldSimBench: Towards Video Generation Models as World Simulators](summaries/2410.18072.md)
 #### [TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts](summaries/2410.18071.md)
@@ -10,6 +19,7 @@
 #### [JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation](summaries/2410.17250.md)
 #### [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](summaries/2410.17249.md)
 #### [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction](summaries/2410.17247.md)
+#### [Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss](summaries/2410.17243.md)
 #### [Frontiers in Intelligent Colonoscopy](summaries/2410.17241.md)
 #### [MiniPLM: Knowledge Distillation for Pre-Training Language Models](summaries/2410.17215.md)
 #### [Aligning Large Language Models via Self-Steering Optimization](summaries/2410.17131.md)
