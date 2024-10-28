@@ -1,5 +1,7 @@
 # Paper List
 ## 2410
+#### [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark](summaries/2410.19168.md)
+#### [Teach Multimodal LLMs to Comprehend Electrocardiographic Images](summaries/2410.19008.md)
 #### [Framer: Interactive Frame Interpolation](summaries/2410.18978.md)
 #### [MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms](summaries/2410.18977.md)
 #### [CAMEL-Bench: A Comprehensive Arabic LMM Benchmark](summaries/2410.18976.md)
@@ -13,6 +15,7 @@
 #### [Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch](summaries/2410.18693.md)
 #### [Data Scaling Laws in Imitation Learning for Robotic Manipulation](summaries/2410.18647.md)
 #### [Taipan: Efficient and Expressive State Space Language Models with Selective Attention](summaries/2410.18572.md)
+#### [Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data](summaries/2410.18558.md)
 #### [SMITE: Segment Me In TimE](summaries/2410.18538.md)
 #### [LOGO -- Long cOntext aliGnment via efficient preference Optimization](summaries/2410.18533.md)
 #### [CCI3.0-HQ: a large-scale Chinese dataset of high quality designed for pre-training large language models](summaries/2410.18505.md)
@@ -23,6 +26,7 @@
 #### [Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits](summaries/2410.18234.md)
 #### [ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment](summaries/2410.18194.md)
 #### [DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](summaries/2410.18084.md)
+#### [Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration](summaries/2410.18076.md)
 #### [WorldSimBench: Towards Video Generation Models as World Simulators](summaries/2410.18072.md)
 #### [TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts](summaries/2410.18071.md)
 #### [Scalable Ranked Preference Optimization for Text-to-Image Generation](summaries/2410.18013.md)
