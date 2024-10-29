@@ -1,5 +1,9 @@
 # Paper List
 ## 2410
+#### [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](summaries/2410.21264.md)
+#### [LongReward: Improving Long-context Large Language Models with AI Feedback](summaries/2410.21252.md)
+#### [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](summaries/2410.21220.md)
+#### [A Survey of Small Language Models](summaries/2410.20011.md)
 #### [Counting Ability of Large Language Models and Impact of Tokenization](summaries/2410.19730.md)
 #### [FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality](summaries/2410.19355.md)
 #### [Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning](summaries/2410.19290.md)
@@ -19,6 +23,7 @@
 #### [Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances](summaries/2410.18775.md)
 #### [Why Does the Effective Context Length of LLMs Fall Short?](summaries/2410.18745.md)
 #### [Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch](summaries/2410.18693.md)
+#### [DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation](summaries/2410.18666.md)
 #### [Data Scaling Laws in Imitation Learning for Robotic Manipulation](summaries/2410.18647.md)
 #### [Taipan: Efficient and Expressive State Space Language Models with Selective Attention](summaries/2410.18572.md)
 #### [Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data](summaries/2410.18558.md)
