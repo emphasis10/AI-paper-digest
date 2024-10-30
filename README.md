@@ -1,5 +1,10 @@
 # Paper List
 ## 2410
+#### [Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset](summaries/2410.22325.md)
+#### [Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning](summaries/2410.22304.md)
+#### [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](summaries/2410.21845.md)
+#### [ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference](summaries/2410.21465.md)
+#### [SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization](summaries/2410.21411.md)
 #### [GPT-4o System Card](summaries/2410.21276.md)
 #### [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](summaries/2410.21264.md)
 #### [LongReward: Improving Long-context Large Language Models with AI Feedback](summaries/2410.21252.md)
