@@ -9,6 +9,7 @@
 #### [GPT-4o System Card](summaries/2410.21276.md)
 #### [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](summaries/2410.21264.md)
 #### [LongReward: Improving Long-context Large Language Models with AI Feedback](summaries/2410.21252.md)
+#### [LoRA vs Full Fine-tuning: An Illusion of Equivalence](summaries/2410.21228.md)
 #### [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](summaries/2410.21220.md)
 #### [Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction](summaries/2410.21169.md)
 #### [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](summaries/2410.20878.md)
