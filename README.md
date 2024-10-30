@@ -5,6 +5,7 @@
 #### [LongReward: Improving Long-context Large Language Models with AI Feedback](summaries/2410.21252.md)
 #### [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](summaries/2410.21220.md)
 #### [Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction](summaries/2410.21169.md)
+#### [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](summaries/2410.20878.md)
 #### [Language Models And A Second Opinion Use Case: The Pocket Professional](summaries/2410.20636.md)
 #### [GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation](summaries/2410.20474.md)
 #### [Fast Best-of-N Decoding via Speculative Rejection](summaries/2410.20290.md)
