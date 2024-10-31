@@ -1,5 +1,6 @@
 # Paper List
 ## 2410
+#### [CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation](summaries/2410.23090.md)
 #### [Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset](summaries/2410.22325.md)
 #### [Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning](summaries/2410.22304.md)
 #### [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](summaries/2410.21845.md)
@@ -19,6 +20,7 @@
 #### [Fast Best-of-N Decoding via Speculative Rejection](summaries/2410.20290.md)
 #### [MarDini: Masked Autoregressive Diffusion for Video Generation at Scale](summaries/2410.20280.md)
 #### [Neural Fields in Robotics: A Survey](summaries/2410.20220.md)
+#### [AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels](summaries/2410.20050.md)
 #### [A Survey of Small Language Models](summaries/2410.20011.md)
 #### [Counting Ability of Large Language Models and Impact of Tokenization](summaries/2410.19730.md)
 #### [OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization](summaries/2410.19609.md)
