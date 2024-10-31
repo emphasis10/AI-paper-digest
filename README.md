@@ -2044,7 +2044,7 @@
 #### [Pegasus-1 Technical Report](summaries/2404.14687.md)
 #### [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](summaries/2404.14619.md)
 #### [Align Your Steps: Optimizing Sampling Schedules in Diffusion Models](summaries/2404.14507.md)
-#### [SnapKV : LLM Knows What You are Looking for Before Generation](summaries/2404.14469.md)
+#### [SnapKV: LLM Knows What You are Looking for Before Generation](summaries/2404.14469.md)
 #### [Learning H-Infinity Locomotion Control](summaries/2404.14405.md)
 #### [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](summaries/2404.14396.md)
 #### [A Multimodal Automated Interpretability Agent](summaries/2404.14394.md)
