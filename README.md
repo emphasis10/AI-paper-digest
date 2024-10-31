@@ -1,6 +1,10 @@
 # Paper List
 ## 2410
+#### [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](summaries/2410.23168.md)
 #### [CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation](summaries/2410.23090.md)
+#### [Stealing User Prompts from Mixture of Experts](summaries/2410.22884.md)
+#### [Toxicity of the Commons: Curating Open-Source Pre-Training Data](summaries/2410.22587.md)
+#### [A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks](summaries/2410.22391.md)
 #### [Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset](summaries/2410.22325.md)
 #### [Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning](summaries/2410.22304.md)
 #### [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](summaries/2410.21845.md)
