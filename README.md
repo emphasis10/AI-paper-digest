@@ -1,5 +1,8 @@
 # Paper List
 ## 2410
+#### [Learning Video Representations without Natural Videos](summaries/2410.24213.md)
+#### [Constraint Back-translation Improves Complex Instruction Following of Large Language Models](summaries/2410.24175.md)
+#### [Language Models can Self-Lengthen to Generate Long Texts](summaries/2410.23933.md)
 #### [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](summaries/2410.23168.md)
 #### [CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation](summaries/2410.23090.md)
 #### [Stealing User Prompts from Mixture of Experts](summaries/2410.22884.md)
@@ -7,6 +10,7 @@
 #### [A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks](summaries/2410.22391.md)
 #### [Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset](summaries/2410.22325.md)
 #### [Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning](summaries/2410.22304.md)
+#### [BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays](summaries/2410.21969.md)
 #### [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](summaries/2410.21845.md)
 #### [ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference](summaries/2410.21465.md)
 #### [SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization](summaries/2410.21411.md)
