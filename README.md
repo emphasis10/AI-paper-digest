@@ -132,6 +132,7 @@
 #### [Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning](summaries/2410.14208.md)
 #### [In-context learning and Occam's razor](summaries/2410.14086.md)
 #### [UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models](summaries/2410.14059.md)
+#### [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](summaries/2410.14057.md)
 #### [FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model](summaries/2410.13925.md)
 #### [ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding](summaries/2410.13924.md)
 #### [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](summaries/2410.13863.md)
