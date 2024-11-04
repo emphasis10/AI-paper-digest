@@ -1,4 +1,7 @@
 # Paper List
+## 2411
+#### [Randomized Autoregressive Visual Generation](summaries/2411.00776.md)
+#### [Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation](summaries/2411.00412.md)
 ## 2410
 #### [Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use](summaries/2410.24218.md)
 #### [Learning Video Representations without Natural Videos](summaries/2410.24213.md)
@@ -9,6 +12,7 @@
 #### [Language Models can Self-Lengthen to Generate Long Texts](summaries/2410.23933.md)
 #### [BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments](summaries/2410.23918.md)
 #### [GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](summaries/2410.23825.md)
+#### [In-Context LoRA for Diffusion Transformers](summaries/2410.23775.md)
 #### [What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective](summaries/2410.23743.md)
 #### [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](summaries/2410.23168.md)
 #### [CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation](summaries/2410.23090.md)
