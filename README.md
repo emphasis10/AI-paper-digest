@@ -1,5 +1,6 @@
 # Paper List
 ## 2411
+#### [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](summaries/2411.10440.md)
 #### [MagicQuill: An Intelligent Interactive Image Editing System](summaries/2411.09703.md)
 #### [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](summaries/2411.09595.md)
 #### [Cut Your Losses in Large-Vocabulary Language Models](summaries/2411.09009.md)
@@ -13,6 +14,7 @@
 #### [PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation](summaries/2411.08307.md)
 #### [Large Language Models Can Self-Improve in Long-context Reasoning](summaries/2411.08147.md)
 #### [Scaling Properties of Diffusion Models for Perceptual Tasks](summaries/2411.08034.md)
+#### [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](summaries/2411.08033.md)
 #### [Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data](summaries/2411.08028.md)
 #### [Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings](summaries/2411.08017.md)
 #### [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](summaries/2411.07975.md)
