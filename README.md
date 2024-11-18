@@ -1,6 +1,9 @@
 # Paper List
 ## 2411
 #### [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](summaries/2411.10440.md)
+#### [Number it: Temporal Grounding Videos like Flipping Manga](summaries/2411.10332.md)
+#### [The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use](summaries/2411.10323.md)
+#### [Xmodel-1.5: An 1B-scale Multilingual LLM](summaries/2411.10083.md)
 #### [MagicQuill: An Intelligent Interactive Image Editing System](summaries/2411.09703.md)
 #### [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](summaries/2411.09595.md)
 #### [Cut Your Losses in Large-Vocabulary Language Models](summaries/2411.09009.md)
@@ -31,6 +34,7 @@
 #### [Stronger Models are NOT Stronger Teachers for Instruction Tuning](summaries/2411.07133.md)
 #### [Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models](summaries/2411.07126.md)
 #### [Designing Reliable Experiments with Generative Agent-Based Modeling: A Comprehensive Guide Using Concordia by Google DeepMind](summaries/2411.07038.md)
+#### [Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement](summaries/2411.06558.md)
 #### [Hermes: A Large Language Model Framework on the Journey to Autonomous Networks](summaries/2411.06490.md)
 #### [KMM: Key Frame Mask Mamba for Extended Motion Generation](summaries/2411.06481.md)
 #### [ClinicalBench: Can LLMs Beat Traditional ML Models in Clinical Prediction?](summaries/2411.06469.md)
