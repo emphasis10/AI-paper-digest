@@ -2460,6 +2460,7 @@
 #### [SliceGPT: Compress Large Language Models by Deleting Rows and Columns](summaries/2401.15024.md)
 #### [Omnipredictors for Regression and the Approximate Rank of Convex Functions](summaries/2401.14645.md)
 #### [Demystifying Chains, Trees, and Graphs of Thoughts](summaries/2401.14295.md)
+#### [BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models](summaries/2401.12522.md)
 #### [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](summaries/2401.10774.md)
 #### [Tuning Language Models by Proxy](summaries/2401.08565.md)
 #### [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](summaries/2401.07851.md)
@@ -2489,6 +2490,7 @@
 #### [MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training](summaries/2311.17049.md)
 #### [RELIC: Investigating Large Language Model Responses using Self-Consistency](summaries/2311.16842.md)
 #### [Direct2.5: Diverse 3D Content Creation via Multi-view 2.5D Diffusion](summaries/2311.15980.md)
+#### [PaSS: Parallel Speculative Sampling](summaries/2311.13581.md)
 #### [LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](summaries/2311.12023.md)
 #### [MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](summaries/2311.11501.md)
 #### [PINE: Efficient Norm-Bound Verification for Secret-Shared Vectors](summaries/2311.10237.md)
@@ -2648,8 +2650,10 @@
 #### [A Survey of Data Augmentation Approaches for NLP](summaries/2105.03075.md)
 ## 2104
 #### [RoFormer: Enhanced Transformer with Rotary Position Embedding](summaries/2104.09864.md)
+#### [The Power of Scale for Parameter-Efficient Prompt Tuning](summaries/2104.08691.md)
 ## 2101
 #### [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](summaries/2101.03961.md)
+#### [Prefix-Tuning: Optimizing Continuous Prompts for Generation](summaries/2101.00190.md)
 ## 2010
 #### [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](summaries/2010.08240.md)
 #### [TurboTransformers: An Efficient GPU Serving System For Transformer Models](summaries/2010.05680.md)
