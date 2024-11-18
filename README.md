@@ -2480,6 +2480,7 @@
 #### [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](summaries/2312.12456.md)
 #### [KGLens: Towards Efficient and Effective Knowledge Probing of Large Language Models with Knowledge Graphs](summaries/2312.11539.md)
 #### [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](summaries/2312.11514.md)
+#### [Retrieval-Augmented Generation for Large Language Models: A Survey](summaries/2312.10997.md)
 #### [Conformer-Based Speech Recognition On Extreme Edge-Computing Devices](summaries/2312.10359.md)
 #### [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](summaries/2312.09979.md)
 #### [An LLM Compiler for Parallel Function Calling](summaries/2312.04511.md)
