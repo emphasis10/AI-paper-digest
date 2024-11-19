@@ -22,6 +22,7 @@
 #### [Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings](summaries/2411.08017.md)
 #### [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](summaries/2411.07975.md)
 #### [Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows](summaries/2411.07763.md)
+#### [Top-$nσ$: Not All Logits Are You Need](summaries/2411.07641.md)
 #### [Direct Preference Optimization Using Sparse Feature-Level Constraints](summaries/2411.07618.md)
 #### [BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions](summaries/2411.07461.md)
 #### [Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models](summaries/2411.07232.md)
