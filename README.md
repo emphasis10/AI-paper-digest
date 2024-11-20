@@ -1,5 +1,6 @@
 # Paper List
 ## 2411
+#### [Continuous Speculative Decoding for Autoregressive Image Generation](summaries/2411.11925.md)
 #### [Generative World Explorer](summaries/2411.11844.md)
 #### [Drowning in Documents: Consequences of Scaling Reranker Inference](summaries/2411.11767.md)
 #### [Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering](summaries/2411.11504.md)
