@@ -1,5 +1,10 @@
 # Paper List
 ## 2411
+#### [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](summaries/2411.13503.md)
+#### [When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training](summaries/2411.13476.md)
+#### [VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation](summaries/2411.13281.md)
+#### [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](summaries/2411.13025.md)
+#### [Stylecodes: Encoding Stylistic Information For Image Generation](summaries/2411.12811.md)
 #### [Soft Robotic Dynamic In-Hand Pen Spinning](summaries/2411.12734.md)
 #### [RedPajama: an Open Dataset for Training Large Language Models](summaries/2411.12372.md)
 #### [Building Trust: Foundations of Security, Safety and Transparency in AI](summaries/2411.12275.md)
@@ -61,6 +66,7 @@
 #### [Stronger Models are NOT Stronger Teachers for Instruction Tuning](summaries/2411.07133.md)
 #### [Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models](summaries/2411.07126.md)
 #### [Designing Reliable Experiments with Generative Agent-Based Modeling: A Comprehensive Guide Using Concordia by Google DeepMind](summaries/2411.07038.md)
+#### [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](summaries/2411.06559.md)
 #### [Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement](summaries/2411.06558.md)
 #### [Hermes: A Large Language Model Framework on the Journey to Autonomous Networks](summaries/2411.06490.md)
 #### [KMM: Key Frame Mask Mamba for Extended Motion Generation](summaries/2411.06481.md)
