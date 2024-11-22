@@ -1,5 +1,9 @@
 # Paper List
 ## 2411
+#### [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](summaries/2411.14432.md)
+#### [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](summaries/2411.14405.md)
+#### [Natural Language Reinforcement Learning](summaries/2411.14251.md)
+#### [OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs](summaries/2411.14199.md)
 #### [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](summaries/2411.13503.md)
 #### [When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training](summaries/2411.13476.md)
 #### [VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation](summaries/2411.13281.md)
