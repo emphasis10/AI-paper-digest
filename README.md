@@ -1,5 +1,6 @@
 # Paper List
 ## 2411
+#### [Style-Friendly SNR Sampler for Style-Driven Generation](summaries/2411.14793.md)
 #### [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](summaries/2411.14432.md)
 #### [Stable Flow: Vital Layers for Training-Free Image Editing](summaries/2411.14430.md)
 #### [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](summaries/2411.14405.md)
