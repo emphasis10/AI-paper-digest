@@ -2668,6 +2668,7 @@
 #### [Visual Instruction Tuning](summaries/2304.08485.md)
 ## 2303
 #### [A Survey of Large Language Models](summaries/2303.18223.md)
+#### [G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](summaries/2303.16634.md)
 #### [Sigmoid Loss for Language Image Pre-Training](summaries/2303.15343.md)
 #### [Sparks of Artificial General Intelligence: Early experiments with GPT-4](summaries/2303.12712.md)
 #### [ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation](summaries/2303.08302.md)
