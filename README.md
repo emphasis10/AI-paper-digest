@@ -1,5 +1,10 @@
 # Paper List
 ## 2411
+#### [DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation](summaries/2411.16657.md)
+#### [From CISC to RISC: language-model guided assembly transpilation](summaries/2411.16341.md)
+#### [Cautious Optimizers: Improving Training with One Line of Code](summaries/2411.16085.md)
+#### [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](summaries/2411.15466.md)
+#### [Material Anything: Generating Materials for Any 3D Object via Diffusion](summaries/2411.15138.md)
 #### [WildLMa: Long Horizon Loco-Manipulation in the Wild](summaries/2411.15131.md)
 #### [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](summaries/2411.15124.md)
 #### [VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement](summaries/2411.15115.md)
@@ -9,7 +14,9 @@
 #### [VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](summaries/2411.14794.md)
 #### [Style-Friendly SNR Sampler for Style-Driven Generation](summaries/2411.14793.md)
 #### [Efficient Long Video Tokenization via Coordinated-based Patch Reconstruction](summaries/2411.14762.md)
+#### [GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI](summaries/2411.14522.md)
 #### [MyTimeMachine: Personalized Facial Age Transformation](summaries/2411.14521.md)
+#### [The Impossible Test: A 2024 Unsolvable Dataset and A Chance for an AGI Quiz](summaries/2411.14486.md)
 #### [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](summaries/2411.14432.md)
 #### [Stable Flow: Vital Layers for Training-Free Image Editing](summaries/2411.14430.md)
 #### [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](summaries/2411.14405.md)
