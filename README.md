@@ -1,5 +1,10 @@
 # Paper List
 ## 2411
+#### [Learning 3D Representations from Procedural 3D Programs](summaries/2411.17467.md)
+#### [ShowUI: One Vision-Language-Action Model for GUI Visual Agent](summaries/2411.17465.md)
+#### [AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation](summaries/2411.17383.md)
+#### [DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting](summaries/2411.17223.md)
+#### [Star Attention: Efficient LLM Inference over Long Sequences](summaries/2411.17116.md)
 #### [Factorized Visual Tokenization and Generation](summaries/2411.16681.md)
 #### [DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation](summaries/2411.16657.md)
 #### [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](summaries/2411.16594.md)
@@ -15,6 +20,7 @@
 #### [Best of Both Worlds: Advantages of Hybrid Graph Sequence Models](summaries/2411.15671.md)
 #### [Knowledge Transfer Across Modalities with Natural Language Supervision](summaries/2411.15611.md)
 #### [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](summaries/2411.15466.md)
+#### [FINECAPTION: Compositional Image Captioning Focusing on Wherever You Want at Any Granularity](summaries/2411.15411.md)
 #### [Material Anything: Generating Materials for Any 3D Object via Diffusion](summaries/2411.15138.md)
 #### [WildLMa: Long Horizon Loco-Manipulation in the Wild](summaries/2411.15131.md)
 #### [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](summaries/2411.15124.md)
@@ -25,6 +31,7 @@
 #### [VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](summaries/2411.14794.md)
 #### [Style-Friendly SNR Sampler for Style-Driven Generation](summaries/2411.14793.md)
 #### [Efficient Long Video Tokenization via Coordinated-based Patch Reconstruction](summaries/2411.14762.md)
+#### [TEXGen: a Generative Diffusion Model for Mesh Textures](summaries/2411.14740.md)
 #### [SegBook: A Simple Baseline and Cookbook for Volumetric Medical Image Segmentation](summaries/2411.14525.md)
 #### [GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI](summaries/2411.14522.md)
 #### [MyTimeMachine: Personalized Facial Age Transformation](summaries/2411.14521.md)
