@@ -43,6 +43,7 @@
 #### [Efficient Long Video Tokenization via Coordinated-based Patch Reconstruction](summaries/2411.14762.md)
 #### [TEXGen: a Generative Diffusion Model for Mesh Textures](summaries/2411.14740.md)
 #### [MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](summaries/2411.14721.md)
+#### [Understanding LLM Embeddings for Regression](summaries/2411.14708.md)
 #### [SegBook: A Simple Baseline and Cookbook for Volumetric Medical Image Segmentation](summaries/2411.14525.md)
 #### [GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI](summaries/2411.14522.md)
 #### [MyTimeMachine: Personalized Facial Age Transformation](summaries/2411.14521.md)
