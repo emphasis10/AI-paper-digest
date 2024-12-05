@@ -1,5 +1,9 @@
 # Paper List
 ## 2412
+#### [MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation](summaries/2412.03558.md)
+#### [Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion](summaries/2412.03515.md)
+#### [Mimir: Improving Video Diffusion Models for Precise Text Understanding](summaries/2412.03085.md)
+#### [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](summaries/2412.03069.md)
 #### [Scaling Image Tokenizers with Grouped Spherical Quantization](summaries/2412.02632.md)
 #### [AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?](summaries/2412.02611.md)
 #### [OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](summaries/2412.02592.md)
@@ -10,6 +14,7 @@
 #### [VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval](summaries/2412.01558.md)
 #### [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](summaries/2412.01292.md)
 #### [Yi-Lightning Technical Report](summaries/2412.01253.md)
+#### [One Shot, One Talk: Whole-body Talking Avatar from a Single Image](summaries/2412.01106.md)
 ## 2411
 #### [AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos](summaries/2411.19950.md)
 #### [Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability](summaries/2411.19943.md)
