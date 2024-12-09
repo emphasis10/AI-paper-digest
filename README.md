@@ -1,7 +1,13 @@
 # Paper List
 ## 2412
+#### [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](summaries/2412.05271.md)
+#### [APOLLO: SGD-like Memory, AdamW-level Performance](summaries/2412.05270.md)
+#### [Mind the Time: Temporally-Controlled Multi-Event Video Generation](summaries/2412.05263.md)
 #### [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](summaries/2412.05237.md)
+#### [DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling](summaries/2412.04905.md)
+#### [Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction](summaries/2412.04887.md)
 #### [EXAONE 3.5: Series of Large Language Models for Real-world Use Cases](summaries/2412.04862.md)
+#### [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](summaries/2412.04814.md)
 #### [NVILA: Efficient Frontier Visual Language Models](summaries/2412.04468.md)
 #### [VisionZip: Longer is Better but Not Necessary in Vision Language Models](summaries/2412.04467.md)
 #### [4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion](summaries/2412.04462.md)
@@ -38,6 +44,7 @@
 #### [NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images](summaries/2412.03517.md)
 #### [Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion](summaries/2412.03515.md)
 #### [CleanDIFT: Diffusion Features without Noise](summaries/2412.03439.md)
+#### [2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction](summaries/2412.03428.md)
 #### [Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation](summaries/2412.03304.md)
 #### [U-MATH: A University-Level Benchmark for Evaluating Mathematical Skills in LLMs](summaries/2412.03205.md)
 #### [Weighted-Reward Preference Optimization for Implicit Model Fusion](summaries/2412.03187.md)
