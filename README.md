@@ -1,5 +1,7 @@
 # Paper List
 ## 2412
+#### [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](summaries/2412.05237.md)
+#### [EXAONE 3.5: Series of Large Language Models for Real-world Use Cases](summaries/2412.04862.md)
 #### [NVILA: Efficient Frontier Visual Language Models](summaries/2412.04468.md)
 #### [VisionZip: Longer is Better but Not Necessary in Vision Language Models](summaries/2412.04467.md)
 #### [4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion](summaries/2412.04462.md)
@@ -7,12 +9,15 @@
 #### [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](summaries/2412.04454.md)
 #### [p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay](summaries/2412.04449.md)
 #### [MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation](summaries/2412.04448.md)
+#### [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](summaries/2412.04445.md)
+#### [GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration](summaries/2412.04440.md)
 #### [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](summaries/2412.04431.md)
 #### [Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion](summaries/2412.04424.md)
 #### [Establishing Task Scaling Laws via Compute-Efficient Model Ladders](summaries/2412.04403.md)
 #### [Discriminative Fine-tuning of LVLMs](summaries/2412.04378.md)
 #### [Challenges in Trustworthy Human Evaluation of Chatbots](summaries/2412.04363.md)
 #### [Densing Law of LLMs](summaries/2412.04315.md)
+#### [SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion](summaries/2412.04301.md)
 #### [HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing](summaries/2412.04280.md)
 #### [SynFinTabs: A Dataset of Synthetic Financial Tables for Information and Table Extraction](summaries/2412.04262.md)
 #### [AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models](summaries/2412.04146.md)
