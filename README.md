@@ -1,13 +1,17 @@
 # Paper List
 ## 2412
+#### [RL Zero: Zero-Shot Language to Behaviors without any Supervision](summaries/2412.05718.md)
 #### [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](summaries/2412.05271.md)
 #### [APOLLO: SGD-like Memory, AdamW-level Performance](summaries/2412.05270.md)
 #### [Mind the Time: Temporally-Controlled Multi-Event Video Generation](summaries/2412.05263.md)
+#### [CompCap: Improving Multimodal Large Language Models with Composite Captions](summaries/2412.05243.md)
 #### [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](summaries/2412.05237.md)
 #### [DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling](summaries/2412.04905.md)
 #### [Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction](summaries/2412.04887.md)
 #### [EXAONE 3.5: Series of Large Language Models for Real-world Use Cases](summaries/2412.04862.md)
+#### [PanoDreamer: 3D Panorama Synthesis from a Single Image](summaries/2412.04827.md)
 #### [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](summaries/2412.04814.md)
+#### [BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks](summaries/2412.04626.md)
 #### [NVILA: Efficient Frontier Visual Language Models](summaries/2412.04468.md)
 #### [VisionZip: Longer is Better but Not Necessary in Vision Language Models](summaries/2412.04467.md)
 #### [4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion](summaries/2412.04462.md)
