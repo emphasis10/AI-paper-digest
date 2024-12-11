@@ -1,9 +1,13 @@
 # Paper List
 ## 2412
+#### [UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics](summaries/2412.07774.md)
+#### [Granite Guardian](summaries/2412.07724.md)
+#### [Fully Open Source Moxin-7B Technical Report](summaries/2412.06845.md)
 #### [CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction](summaries/2412.06782.md)
 #### [Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation](summaries/2412.06781.md)
 #### [Training Large Language Models to Reason in a Continuous Latent Space](summaries/2412.06769.md)
 #### [You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale](summaries/2412.06699.md)
+#### [ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance](summaries/2412.06673.md)
 #### [ProcessBench: Identifying Process Errors in Mathematical Reasoning](summaries/2412.06559.md)
 #### [Unraveling the Complexity of Memory in RL Agents: an Approach for Classification and Evaluation](summaries/2412.06531.md)
 #### [Exploring Multi-Grained Concept Annotations for Multimodal Large Language Models](summaries/2412.05939.md)
