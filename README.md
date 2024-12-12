@@ -1,5 +1,6 @@
 # Paper List
 ## 2412
+#### [Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation](summaries/2412.07797.md)
 #### [Video Motion Transfer with Diffusion Transformers](summaries/2412.07776.md)
 #### [UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics](summaries/2412.07774.md)
 #### [3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation](summaries/2412.07759.md)
