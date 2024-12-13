@@ -1,6 +1,13 @@
 # Paper List
 ## 2412
+#### [InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions](summaries/2412.09596.md)
+#### [Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion](summaries/2412.09593.md)
+#### [Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders](summaries/2412.09586.md)
+#### [OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary Embedding Distillation](summaries/2412.09585.md)
+#### [FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction](summaries/2412.09573.md)
+#### [Shiksha: A Technical Domain focused Translation Dataset and Model for Indian Languages](summaries/2412.09025.md)
 #### [StreamChat: Chatting with Streaming Video](summaries/2412.08646.md)
+#### [Multimodal Latent Language Modeling with Next-Token Diffusion](summaries/2412.08635.md)
 #### [FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models](summaries/2412.08629.md)
 #### [LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations](summaries/2412.08580.md)
 #### [StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements](summaries/2412.08503.md)
@@ -43,6 +50,7 @@
 #### [Exploring Multi-Grained Concept Annotations for Multimodal Large Language Models](summaries/2412.05939.md)
 #### [RL Zero: Zero-Shot Language to Behaviors without any Supervision](summaries/2412.05718.md)
 #### [Global and Dense Embeddings of Earth: Major TOM Floating in the Latent Space](summaries/2412.05600.md)
+#### [SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts](summaries/2412.05552.md)
 #### [MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance](summaries/2412.05355.md)
 #### [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](summaries/2412.05271.md)
 #### [APOLLO: SGD-like Memory, AdamW-level Performance](summaries/2412.05270.md)
