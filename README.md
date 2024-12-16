@@ -1,5 +1,9 @@
 # Paper List
 ## 2412
+#### [SCBench: A KV Cache-Centric Analysis of Long-Context Methods](summaries/2412.10319.md)
+#### [Large Action Models: From Inception to Implementation](summaries/2412.10047.md)
+#### [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion](summaries/2412.09626.md)
+#### [GenEx: Generating an Explorable World](summaries/2412.09624.md)
 #### [LoRACLR: Contrastive Adaptation for Customization of Diffusion Models](summaries/2412.09622.md)
 #### [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](summaries/2412.09619.md)
 #### [EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM](summaries/2412.09618.md)
@@ -45,6 +49,7 @@
 #### [OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations](summaries/2412.07626.md)
 #### [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](summaries/2412.07589.md)
 #### [Mobile Video Diffusion](summaries/2412.07583.md)
+#### [FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing](summaries/2412.07517.md)
 #### [Causal World Representation in the GPT Model](summaries/2412.07446.md)
 #### [Contextualized Counterspeech: Strategies for Adaptation, Personalization, and Evaluation](summaries/2412.07338.md)
 #### [Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](summaries/2412.07334.md)
