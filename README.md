@@ -1,5 +1,11 @@
 # Paper List
 ## 2412
+#### [IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations](summaries/2412.12083.md)
+#### [RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation](summaries/2412.11919.md)
+#### [StrandHead: Text to Strand-Disentangled 3D Head Avatars Using Hair Geometric Priors](summaries/2412.11586.md)
+#### [MOVIS: Enhancing Multi-Object Novel View Synthesis for Indoor Scenes](summaries/2412.11457.md)
+#### [GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs](summaries/2412.11258.md)
+#### [Smaller Language Models Are Better Instruction Evolvers](summaries/2412.11231.md)
 #### [Apollo: An Exploration of Video Understanding in Large Multimodal Models](summaries/2412.10360.md)
 #### [SCBench: A KV Cache-Centric Analysis of Long-Context Methods](summaries/2412.10319.md)
 #### [Large Action Models: From Inception to Implementation](summaries/2412.10047.md)
