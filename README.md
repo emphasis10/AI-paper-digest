@@ -1,6 +1,12 @@
 # Paper List
 ## 2412
+#### [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](summaries/2412.13194.md)
 #### [Are Your LLMs Capable of Stable Reasoning?](summaries/2412.13147.md)
+#### [OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](summaries/2412.13018.md)
+#### [MIVE: New Design and Benchmark for Multi-Instance Video Editing](summaries/2412.12877.md)
+#### [Multi-Dimensional Insights: Benchmarking Real-World Personalization in Large Multimodal Models](summaries/2412.12606.md)
+#### [When to Speak, When to Abstain: Contrastive Decoding with Abstention](summaries/2412.12527.md)
+#### [Emergence of Abstractions: Concept Encoding and Decoding Mechanism for In-Context Learning in Transformers](summaries/2412.12276.md)
 #### [Causal Diffusion Transformers for Generative Modeling](summaries/2412.12095.md)
 #### [SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator](summaries/2412.12094.md)
 #### [Wonderland: Navigating 3D Scenes from a Single Image](summaries/2412.12091.md)
@@ -19,6 +25,7 @@
 #### [GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs](summaries/2412.11258.md)
 #### [Smaller Language Models Are Better Instruction Evolvers](summaries/2412.11231.md)
 #### [DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes](summaries/2412.11100.md)
+#### [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](summaries/2412.10704.md)
 #### [TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning](summaries/2412.10447.md)
 #### [Apollo: An Exploration of Video Understanding in Large Multimodal Models](summaries/2412.10360.md)
 #### [SCBench: A KV Cache-Centric Analysis of Long-Context Methods](summaries/2412.10319.md)
