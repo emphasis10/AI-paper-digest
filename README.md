@@ -1,5 +1,6 @@
 # Paper List
 ## 2412
+#### [Are Your LLMs Capable of Stable Reasoning?](summaries/2412.13147.md)
 #### [Causal Diffusion Transformers for Generative Modeling](summaries/2412.12095.md)
 #### [SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator](summaries/2412.12094.md)
 #### [Wonderland: Navigating 3D Scenes from a Single Image](summaries/2412.12091.md)
