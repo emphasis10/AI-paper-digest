@@ -1,10 +1,17 @@
 # Paper List
 ## 2412
+#### [FashionComposer: Compositional Fashion Image Generation](summaries/2412.14168.md)
+#### [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](summaries/2412.14161.md)
+#### [Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation](summaries/2412.14015.md)
+#### [RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment](summaries/2412.13746.md)
+#### [GUI Agents: A Survey](summaries/2412.13501.md)
 #### [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](summaries/2412.13194.md)
 #### [Are Your LLMs Capable of Stable Reasoning?](summaries/2412.13147.md)
+#### [VidTok: A Versatile and Open-Source Video Tokenizer](summaries/2412.13061.md)
 #### [OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](summaries/2412.13018.md)
 #### [MIVE: New Design and Benchmark for Multi-Instance Video Editing](summaries/2412.12877.md)
 #### [Multi-Dimensional Insights: Benchmarking Real-World Personalization in Large Multimodal Models](summaries/2412.12606.md)
+#### [ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers](summaries/2412.12571.md)
 #### [When to Speak, When to Abstain: Contrastive Decoding with Abstention](summaries/2412.12527.md)
 #### [Emergence of Abstractions: Concept Encoding and Decoding Mechanism for In-Context Learning in Transformers](summaries/2412.12276.md)
 #### [Causal Diffusion Transformers for Generative Modeling](summaries/2412.12095.md)
