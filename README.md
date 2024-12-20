@@ -1,5 +1,17 @@
 # Paper List
 ## 2412
+#### [UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency](summaries/2412.15216.md)
+#### [Flowing from Words to Pixels: A Framework for Cross-Modality Evolution](summaries/2412.15213.md)
+#### [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](summaries/2412.15204.md)
+#### [DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation](summaries/2412.15200.md)
+#### [Qwen2.5 Technical Report](summaries/2412.15115.md)
+#### [AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling](summaries/2412.15084.md)
+#### [Progressive Multimodal Reasoning via Active Retrieval](summaries/2412.14835.md)
+#### [How to Synthesize Text Data without Model Collapse?](summaries/2412.14689.md)
+#### [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](summaries/2412.14642.md)
+#### [MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](summaries/2412.14475.md)
+#### [Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion](summaries/2412.14462.md)
+#### [Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception](summaries/2412.14233.md)
 #### [AniDoc: Animation Creation Made Easier](summaries/2412.14173.md)
 #### [Learning from Massive Human Videos for Universal Humanoid Pose Control](summaries/2412.14172.md)
 #### [FashionComposer: Compositional Fashion Image Generation](summaries/2412.14168.md)
