@@ -1,6 +1,7 @@
 # Paper List
 ## 2412
 #### [UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency](summaries/2412.15216.md)
+#### [LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis](summaries/2412.15214.md)
 #### [Flowing from Words to Pixels: A Framework for Cross-Modality Evolution](summaries/2412.15213.md)
 #### [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](summaries/2412.15204.md)
 #### [DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation](summaries/2412.15200.md)
@@ -11,6 +12,7 @@
 #### [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](summaries/2412.14642.md)
 #### [MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](summaries/2412.14475.md)
 #### [Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion](summaries/2412.14462.md)
+#### [PixelMan: Consistent Object Editing with Diffusion Models via Pixel Manipulation and Generation](summaries/2412.14283.md)
 #### [Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception](summaries/2412.14233.md)
 #### [AniDoc: Animation Creation Made Easier](summaries/2412.14173.md)
 #### [Learning from Massive Human Videos for Universal Humanoid Pose Control](summaries/2412.14172.md)
@@ -25,7 +27,9 @@
 #### [RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment](summaries/2412.13746.md)
 #### [AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge](summaries/2412.13670.md)
 #### [GUI Agents: A Survey](summaries/2412.13501.md)
+#### [DateLogicQA: Benchmarking Temporal Biases in Large Language Models](summaries/2412.13377.md)
 #### [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](summaries/2412.13194.md)
+#### [Move-in-2D: 2D-Conditioned Human Motion Generation](summaries/2412.13185.md)
 #### [Are Your LLMs Capable of Stable Reasoning?](summaries/2412.13147.md)
 #### [VidTok: A Versatile and Open-Source Video Tokenizer](summaries/2412.13061.md)
 #### [OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](summaries/2412.13018.md)
