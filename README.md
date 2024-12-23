@@ -1268,6 +1268,7 @@
 #### [The MERIT Dataset: Modelling and Efficiently Rendering Interpretable Transcripts](summaries/2409.00447.md)
 #### [Density Adaptive Attention-based Speech Network: Enhancing Feature Understanding for Mental Health Disorders](summaries/2409.00391.md)
 #### [A Survey for Large Language Models in Biomedicine](summaries/2409.00133.md)
+#### [On-Device Language Models: A Comprehensive Review](summaries/2409.00088.md)
 ## 2408
 #### [ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models](summaries/2408.convkgyarn.md)
 #### [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](summaries/2408.17267.md)
