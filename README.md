@@ -774,6 +774,7 @@
 #### [SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI](summaries/2410.11096.md)
 #### [Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models](summaries/2410.11081.md)
 #### [Agent-as-a-Judge: Evaluate Agents with Agents](summaries/2410.10934.md)
+#### [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads](summaries/2410.10819.md)
 #### [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](summaries/2410.10816.md)
 #### [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](summaries/2410.10814.md)
 #### [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](summaries/2410.10812.md)
