@@ -1,5 +1,7 @@
 # Paper List
 ## 2412
+#### [CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up](summaries/2412.16112.md)
+#### [Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis](summaries/2412.15322.md)
 #### [UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency](summaries/2412.15216.md)
 #### [LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis](summaries/2412.15214.md)
 #### [Flowing from Words to Pixels: A Framework for Cross-Modality Evolution](summaries/2412.15213.md)
@@ -7,6 +9,7 @@
 #### [DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation](summaries/2412.15200.md)
 #### [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](summaries/2412.15191.md)
 #### [Rethinking Uncertainty Estimation in Natural Language Generation](summaries/2412.15176.md)
+#### [Parallelized Autoregressive Visual Generation](summaries/2412.15119.md)
 #### [Qwen2.5 Technical Report](summaries/2412.15115.md)
 #### [AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling](summaries/2412.15084.md)
 #### [Progressive Multimodal Reasoning via Active Retrieval](summaries/2412.14835.md)
@@ -28,6 +31,7 @@
 #### [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](summaries/2412.13795.md)
 #### [RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment](summaries/2412.13746.md)
 #### [AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge](summaries/2412.13670.md)
+#### [SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation](summaries/2412.13649.md)
 #### [GUI Agents: A Survey](summaries/2412.13501.md)
 #### [DateLogicQA: Benchmarking Temporal Biases in Large Language Models](summaries/2412.13377.md)
 #### [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](summaries/2412.13194.md)
