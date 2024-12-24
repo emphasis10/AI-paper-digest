@@ -1,5 +1,9 @@
 # Paper List
 ## 2412
+#### [Diving into Self-Evolving Training for Multimodal Reasoning](summaries/2412.17451.md)
+#### [B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners](summaries/2412.17256.md)
+#### [Revisiting In-Context Learning with Long Context Language Models](summaries/2412.16926.md)
+#### [NILE: Internal Consistency Alignment in Large Language Models](summaries/2412.16686.md)
 #### [Offline Reinforcement Learning for LLM Multi-Step Reasoning](summaries/2412.16145.md)
 #### [CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up](summaries/2412.16112.md)
 #### [Fietje: An open, efficient LLM for Dutch](summaries/2412.15450.md)
@@ -16,6 +20,7 @@
 #### [AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling](summaries/2412.15084.md)
 #### [LLMs Lost in Translation: M-ALERT uncovers Cross-Linguistic Safety Gaps](summaries/2412.15035.md)
 #### [IDOL: Instant Photorealistic 3D Human Creation from a Single Image](summaries/2412.14963.md)
+#### [RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response](summaries/2412.14922.md)
 #### [Progressive Multimodal Reasoning via Active Retrieval](summaries/2412.14835.md)
 #### [How to Synthesize Text Data without Model Collapse?](summaries/2412.14689.md)
 #### [TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation](summaries/2412.14642.md)
