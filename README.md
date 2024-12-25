@@ -17,6 +17,7 @@
 #### [Offline Reinforcement Learning for LLM Multi-Step Reasoning](summaries/2412.16145.md)
 #### [CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up](summaries/2412.16112.md)
 #### [Fietje: An open, efficient LLM for Dutch](summaries/2412.15450.md)
+#### [SKETCH: Structured Knowledge Enhanced Text Comprehension for Holistic Retrieval](summaries/2412.15443.md)
 #### [Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis](summaries/2412.15322.md)
 #### [UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency](summaries/2412.15216.md)
 #### [LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis](summaries/2412.15214.md)
