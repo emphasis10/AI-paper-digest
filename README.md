@@ -2,6 +2,7 @@
 ## 2412
 #### [PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models](summaries/2412.18608.md)
 #### [DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation](summaries/2412.18597.md)
+#### [Token-Budget-Aware LLM Reasoning](summaries/2412.18547.md)
 #### [3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding](summaries/2412.18450.md)
 #### [DepthLab: From Partial to Complete](summaries/2412.18153.md)
 #### [Large Motion Video Autoencoding with Cross-modal Video VAE](summaries/2412.17805.md)
