@@ -480,6 +480,7 @@
 #### [Watermark Anything with Localized Messages](summaries/2411.07231.md)
 #### [Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving](summaries/2411.07228.md)
 #### [OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision](summaries/2411.07199.md)
+#### [The Super Weight in Large Language Models](summaries/2411.07191.md)
 #### [SAMPart3D: Segment Any Part in 3D Objects](summaries/2411.07184.md)
 #### [Counterfactual Generation from Language Models](summaries/2411.07180.md)
 #### [Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models](summaries/2411.07140.md)
