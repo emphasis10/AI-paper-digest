@@ -2,6 +2,7 @@
 ## 2412
 #### [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](summaries/2412.18609.md)
 #### [PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models](summaries/2412.18608.md)
+#### [Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models](summaries/2412.18605.md)
 #### [DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation](summaries/2412.18597.md)
 #### [Token-Budget-Aware LLM Reasoning](summaries/2412.18547.md)
 #### [How "Real" is Your Real-Time Simultaneous Speech-to-Text Translation System?](summaries/2412.18495.md)
