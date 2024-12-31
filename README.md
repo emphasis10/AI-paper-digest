@@ -1,5 +1,6 @@
 # Paper List
 ## 2412
+#### [Edicho: Consistent Image Editing in the Wild](summaries/2412.21079.md)
 #### [From Elements to Design: A Layered Approach for Automatic Graphic Design Composition](summaries/2412.19712.md)
 #### [VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models](summaries/2412.19645.md)
 #### [Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging](summaries/2412.19512.md)
