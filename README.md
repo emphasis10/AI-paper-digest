@@ -21,6 +21,7 @@
 #### [Xmodel-2 Technical Report](summaries/2412.19638.md)
 #### [Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging](summaries/2412.19512.md)
 #### [Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment](summaries/2412.19326.md)
+#### [MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes](summaries/2412.19260.md)
 #### [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](summaries/2412.18925.md)
 #### [Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey](summaries/2412.18619.md)
 #### [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](summaries/2412.18609.md)
