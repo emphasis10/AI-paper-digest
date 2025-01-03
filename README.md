@@ -2956,6 +2956,7 @@
 #### [TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles](summaries/2402.10137.md)
 #### [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](summaries/2402.09742.md)
 #### [DoRA: Weight-Decomposed Low-Rank Adaptation](summaries/2402.09353.md)
+#### [Higher Layers Need More LoRA Experts](summaries/2402.08562.md)
 #### [On Computationally Efficient Multi-Class Calibration](summaries/2402.07821.md)
 #### [X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design](summaries/2402.07148.md)
 #### [Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](summaries/2402.05445.md)
