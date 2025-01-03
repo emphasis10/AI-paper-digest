@@ -1,4 +1,7 @@
 # Paper List
+## 2501
+#### [Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](summaries/2501.01423.md)
+#### [ProgCo: Program Helps Self-Correction of Large Language Models](summaries/2501.01264.md)
 ## 2412
 #### [PERSE: Personalized 3D Generative Avatars from A Single Portrait](summaries/2412.21206.md)
 #### [HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation](summaries/2412.21199.md)
