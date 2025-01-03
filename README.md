@@ -1,7 +1,20 @@
 # Paper List
 ## 2501
+#### [VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control](summaries/2501.01427.md)
 #### [Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](summaries/2501.01423.md)
+#### [SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration](summaries/2501.01320.md)
 #### [ProgCo: Program Helps Self-Correction of Large Language Models](summaries/2501.01264.md)
+#### [CodeElo: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings](summaries/2501.01257.md)
+#### [SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization](summaries/2501.01245.md)
+#### [A3: Android Agent Arena for Mobile GUI Agents](summaries/2501.01149.md)
+#### [Dynamic Scaling of Unit Tests for Code Reward Modeling](summaries/2501.01054.md)
+#### [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](summaries/2501.00958.md)
+#### [Rethinking Addressing in Language Models via Contexualized Equivariant Positional Encoding](summaries/2501.00712.md)
+#### [Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing](summaries/2501.00658.md)
+#### [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](summaries/2501.00599.md)
+#### [MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models](summaries/2501.00316.md)
+#### [MLLM-as-a-Judge for Image Safety without Human Labeling](summaries/2501.00192.md)
+#### [LTX-Video: Realtime Video Latent Diffusion](summaries/2501.00103.md)
 ## 2412
 #### [PERSE: Personalized 3D Generative Avatars from A Single Portrait](summaries/2412.21206.md)
 #### [HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation](summaries/2412.21199.md)
@@ -10,6 +23,7 @@
 #### [Training Software Engineering Agents and Verifiers with SWE-Gym](summaries/2412.21139.md)
 #### [Edicho: Consistent Image Editing in the Wild](summaries/2412.21079.md)
 #### [TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization](summaries/2412.21037.md)
+#### [MapQaTor: A System for Efficient Annotation of Map Query Datasets](summaries/2412.21015.md)
 #### [Efficiently Serving LLM Reasoning Programs with Certaindex](summaries/2412.20993.md)
 #### [Slow Perception: Let's Perceive Geometric Figures Step-by-step](summaries/2412.20631.md)
 #### [Bringing Objects to Life: 4D generation from 3D objects](summaries/2412.20422.md)
