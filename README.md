@@ -1,5 +1,10 @@
 # Paper List
 ## 2501
+#### [VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction](summaries/2501.01957.md)
+#### [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](summaries/2501.01904.md)
+#### [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](summaries/2501.01895.md)
+#### [SDPO: Segment-Level Direct Preference Optimization for Social Agents](summaries/2501.01821.md)
+#### [BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery](summaries/2501.01540.md)
 #### [VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control](summaries/2501.01427.md)
 #### [Unifying Specialized Visual Encoders for Video Language Models](summaries/2501.01426.md)
 #### [Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](summaries/2501.01423.md)
@@ -13,6 +18,7 @@
 #### [Dynamic Scaling of Unit Tests for Code Reward Modeling](summaries/2501.01054.md)
 #### [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](summaries/2501.00958.md)
 #### [Population Aware Diffusion for Time Series Generation](summaries/2501.00910.md)
+#### [LUSIFER: Language Universal Space Integration for Enhanced Multilingual Embeddings with Large Language Models](summaries/2501.00874.md)
 #### [Rethinking Addressing in Language Models via Contexualized Equivariant Positional Encoding](summaries/2501.00712.md)
 #### [Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing](summaries/2501.00658.md)
 #### [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](summaries/2501.00599.md)
@@ -28,6 +34,7 @@
 #### [Facilitating large language model Russian adaptation with Learned Embedding Propagation](summaries/2412.21140.md)
 #### [Training Software Engineering Agents and Verifiers with SWE-Gym](summaries/2412.21139.md)
 #### [Edicho: Consistent Image Editing in the Wild](summaries/2412.21079.md)
+#### [VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation](summaries/2412.21059.md)
 #### [TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization](summaries/2412.21037.md)
 #### [MapQaTor: A System for Efficient Annotation of Map Query Datasets](summaries/2412.21015.md)
 #### [Efficiently Serving LLM Reasoning Programs with Certaindex](summaries/2412.20993.md)
