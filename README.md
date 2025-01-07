@@ -1,5 +1,8 @@
 # Paper List
 ## 2501
+#### [TransPixar: Advancing Text-to-Video Generation with Transparency](summaries/2501.03006.md)
+#### [STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution](summaries/2501.02976.md)
+#### [Personalized Graph-Based Retrieval for Large Language Models](summaries/2501.02157.md)
 #### [VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction](summaries/2501.01957.md)
 #### [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](summaries/2501.01904.md)
 #### [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](summaries/2501.01895.md)
