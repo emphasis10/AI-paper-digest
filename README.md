@@ -1,5 +1,6 @@
 # Paper List
 ## 2501
+#### [LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token](summaries/2501.03895.md)
 #### [BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning](summaries/2501.03226.md)
 #### [Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction](summaries/2501.03218.md)
 #### [Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation](summaries/2501.03059.md)
