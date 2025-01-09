@@ -1,5 +1,6 @@
 # Paper List
 ## 2501
+#### [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](summaries/2501.04519.md)
 #### [Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos](summaries/2501.04001.md)
 #### [PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides](summaries/2501.03936.md)
 #### [Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers](summaries/2501.03931.md)
@@ -16,6 +17,7 @@
 #### [STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution](summaries/2501.02976.md)
 #### [MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models](summaries/2501.02955.md)
 #### [Samba-asr state-of-the-art speech recognition leveraging structured state-space models](summaries/2501.02832.md)
+#### [GeAR: Generation Augmented Retrieval](summaries/2501.02772.md)
 #### [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](summaries/2501.02690.md)
 #### [DepthMaster: Taming Diffusion Models for Monocular Depth Estimation](summaries/2501.02576.md)
 #### [ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use](summaries/2501.02506.md)
