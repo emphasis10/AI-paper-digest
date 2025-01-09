@@ -1,6 +1,15 @@
 # Paper List
 ## 2501
+#### [EpiCoder: Encompassing Diversity and Complexity in Code Generation](summaries/2501.04694.md)
+#### [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images](summaries/2501.04689.md)
+#### [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](summaries/2501.04686.md)
+#### [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though](summaries/2501.04682.md)
+#### [Multi-task retriever fine-tuning for domain-specific and efficient RAG](summaries/2501.04652.md)
+#### [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](summaries/2501.04575.md)
 #### [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](summaries/2501.04519.md)
+#### [LLM4SR: A Survey on Large Language Models for Scientific Research](summaries/2501.04306.md)
+#### [Agent Laboratory: Using LLM Agents as Research Assistants](summaries/2501.04227.md)
+#### [Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation](summaries/2501.04144.md)
 #### [Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos](summaries/2501.04001.md)
 #### [PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides](summaries/2501.03936.md)
 #### [Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers](summaries/2501.03931.md)
@@ -9,6 +18,7 @@
 #### [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](summaries/2501.03847.md)
 #### [MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting](summaries/2501.03714.md)
 #### [Cosmos World Foundation Model Platform for Physical AI](summaries/2501.03575.md)
+#### [DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm for Direct Preference Optimization](summaries/2501.03271.md)
 #### [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](summaries/2501.03262.md)
 #### [BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning](summaries/2501.03226.md)
 #### [Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction](summaries/2501.03218.md)
