@@ -1,5 +1,6 @@
 # Paper List
 ## 2501
+#### [The GAN is dead; long live the GAN! A Modern GAN Baseline](summaries/2501.05441.md)
 #### [EpiCoder: Encompassing Diversity and Complexity in Code Generation](summaries/2501.04694.md)
 #### [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images](summaries/2501.04689.md)
 #### [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](summaries/2501.04686.md)
