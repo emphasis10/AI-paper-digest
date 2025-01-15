@@ -59,6 +59,7 @@
 #### [Population Aware Diffusion for Time Series Generation](summaries/2501.00910.md)
 #### [LUSIFER: Language Universal Space Integration for Enhanced Multilingual Embeddings with Large Language Models](summaries/2501.00874.md)
 #### [Rethinking Addressing in Language Models via Contexualized Equivariant Positional Encoding](summaries/2501.00712.md)
+#### [Titans: Learning to Memorize at Test Time](summaries/2501.00663.md)
 #### [Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing](summaries/2501.00658.md)
 #### [VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM](summaries/2501.00599.md)
 #### [MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models](summaries/2501.00316.md)
