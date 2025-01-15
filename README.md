@@ -16,6 +16,7 @@
 #### [Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding](summaries/2501.07888.md)
 #### [Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens](summaries/2501.07730.md)
 #### [Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models](summaries/2501.06751.md)
+#### [$\text{Transformer}^2$: Self-adaptive LLMs](summaries/2501.06252.md)
 #### [The GAN is dead; long live the GAN! A Modern GAN Baseline](summaries/2501.05441.md)
 #### [3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering](summaries/2501.05131.md)
 #### [EpiCoder: Encompassing Diversity and Complexity in Code Generation](summaries/2501.04694.md)
