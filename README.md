@@ -134,6 +134,7 @@
 #### [Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](summaries/2412.18319.md)
 #### [Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation](summaries/2412.18176.md)
 #### [DepthLab: From Partial to Complete](summaries/2412.18153.md)
+#### [SlimGPT: Layer-wise Structured Pruning for Large Language Models](summaries/2412.18110.md)
 #### [MMFactory: A Universal Solution Search Engine for Vision-Language Tasks](summaries/2412.18072.md)
 #### [WavePulse: Real-time Content Analytics of Radio Livestreams](summaries/2412.17998.md)
 #### [Large Motion Video Autoencoding with Cross-modal Video VAE](summaries/2412.17805.md)
