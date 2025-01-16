@@ -1,5 +1,13 @@
 # Paper List
 ## 2501
+#### [Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion](summaries/2501.09019.md)
+#### [Multimodal LLMs Can Reason about Aesthetics in Zero-Shot](summaries/2501.09012.md)
+#### [RepVideo: Rethinking Cross-Layer Representation for Video Generation](summaries/2501.08994.md)
+#### [CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities](summaries/2501.08983.md)
+#### [Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography](summaries/2501.08970.md)
+#### [MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents](summaries/2501.08828.md)
+#### [XMusic: Towards a Generalized and Controllable Symbolic Music Generation Framework](summaries/2501.08809.md)
+#### [Towards Best Practices for Open Datasets for LLM Training](summaries/2501.08365.md)
 #### [MangaNinja: Line Art Colorization with Precise Reference Following](summaries/2501.08332.md)
 #### [PokerBench: Training Large Language Models to become Professional Poker Players](summaries/2501.08328.md)
 #### [Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks](summaries/2501.08326.md)
@@ -14,6 +22,7 @@
 #### [Potential and Perils of Large Language Models as Judges of Unstructured Textual Data](summaries/2501.08167.md)
 #### [In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR](summaries/2501.08120.md)
 #### [Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding](summaries/2501.07888.md)
+#### [Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding](summaries/2501.07783.md)
 #### [Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens](summaries/2501.07730.md)
 #### [MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](summaries/2501.07556.md)
 #### [Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models](summaries/2501.06751.md)
