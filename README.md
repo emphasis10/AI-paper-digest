@@ -15,6 +15,7 @@
 #### [In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR](summaries/2501.08120.md)
 #### [Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding](summaries/2501.07888.md)
 #### [Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens](summaries/2501.07730.md)
+#### [MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](summaries/2501.07556.md)
 #### [Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models](summaries/2501.06751.md)
 #### [$\text{Transformer}^2$: Self-adaptive LLMs](summaries/2501.06252.md)
 #### [The GAN is dead; long live the GAN! A Modern GAN Baseline](summaries/2501.05441.md)
