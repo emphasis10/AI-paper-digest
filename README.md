@@ -251,6 +251,7 @@
 #### [Multi-Dimensional Insights: Benchmarking Real-World Personalization in Large Multimodal Models](summaries/2412.12606.md)
 #### [ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers](summaries/2412.12571.md)
 #### [When to Speak, When to Abstain: Contrastive Decoding with Abstention](summaries/2412.12527.md)
+#### [Core Context Aware Attention for Long Context Language Modeling](summaries/2412.12465.md)
 #### [Emergence of Abstractions: Concept Encoding and Decoding Mechanism for In-Context Learning in Transformers](summaries/2412.12276.md)
 #### [How to Choose a Threshold for an Evaluation Metric for Large Language Models](summaries/2412.12148.md)
 #### [Causal Diffusion Transformers for Generative Modeling](summaries/2412.12095.md)
