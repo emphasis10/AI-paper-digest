@@ -1,5 +1,6 @@
 # Paper List
 ## 2501
+#### [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](summaries/2501.10132.md)
 #### [SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces](summaries/2501.09756.md)
 #### [Learnings from Scaling Visual Tokenizers for Reconstruction and Generation](summaries/2501.09755.md)
 #### [OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking](summaries/2501.09751.md)
