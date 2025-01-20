@@ -1,6 +1,14 @@
 # Paper List
 ## 2501
 #### [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](summaries/2501.10132.md)
+#### [PaSa: An LLM Agent for Comprehensive Academic Paper Search](summaries/2501.10120.md)
+#### [HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution](summaries/2501.10045.md)
+#### [X-Dyna: Expressive Dynamic Human Image Animation](summaries/2501.10021.md)
+#### [Textoon: Generating Vivid 2D Cartoon Characters from Text Descriptions](summaries/2501.10020.md)
+#### [GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor](summaries/2501.09978.md)
+#### [Evolving Deeper LLM Thinking](summaries/2501.09891.md)
+#### [Bridging Language Barriers in Healthcare: A Study on Arabic LLMs](summaries/2501.09825.md)
+#### [Multiple Choice Questions: Reasoning Makes Large Language Models (LLMs) More Self-Confident Even When They Are Wrong](summaries/2501.09775.md)
 #### [SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces](summaries/2501.09756.md)
 #### [Learnings from Scaling Visual Tokenizers for Reconstruction and Generation](summaries/2501.09755.md)
 #### [OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking](summaries/2501.09751.md)
