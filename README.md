@@ -33,6 +33,7 @@
 #### [MangaNinja: Line Art Colorization with Precise Reference Following](summaries/2501.08332.md)
 #### [PokerBench: Training Large Language Models to become Professional Poker Players](summaries/2501.08328.md)
 #### [Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks](summaries/2501.08326.md)
+#### [GameFactory: Creating New Games with Generative Interactive Videos](summaries/2501.08325.md)
 #### [Enhancing Automated Interpretability with Output-Centric Feature Descriptions](summaries/2501.08319.md)
 #### [Diffusion Adversarial Post-Training for One-Step Video Generation](summaries/2501.08316.md)
 #### [MiniMax-01: Scaling Foundation Models with Lightning Attention](summaries/2501.08313.md)
