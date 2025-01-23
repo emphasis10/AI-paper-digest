@@ -1,7 +1,14 @@
 # Paper List
 ## 2501
+#### [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](summaries/2501.13106.md)
+#### [Autonomy-of-Experts Models](summaries/2501.13074.md)
+#### [Pairwise RM: Perform Best-of-N Sampling with Knockout Tournament](summaries/2501.13007.md)
+#### [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](summaries/2501.12948.md)
+#### [FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces](summaries/2501.12909.md)
+#### [Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback](summaries/2501.12895.md)
 #### [Kimi k1.5: Scaling Reinforcement Learning with LLMs](summaries/2501.12599.md)
 #### [O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](summaries/2501.12570.md)
+#### [IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems](summaries/2501.11067.md)
 #### [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](summaries/2501.10132.md)
 #### [PaSa: An LLM Agent for Comprehensive Academic Paper Search](summaries/2501.10120.md)
 #### [HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution](summaries/2501.10045.md)
