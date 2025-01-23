@@ -1,5 +1,7 @@
 # Paper List
 ## 2501
+#### [Kimi k1.5: Scaling Reinforcement Learning with LLMs](summaries/2501.12599.md)
+#### [O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](summaries/2501.12570.md)
 #### [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](summaries/2501.10132.md)
 #### [PaSa: An LLM Agent for Comprehensive Academic Paper Search](summaries/2501.10120.md)
 #### [HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution](summaries/2501.10045.md)
