@@ -1,5 +1,6 @@
 # Paper List
 ## 2501
+#### [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](summaries/2501.13926.md)
 #### [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](summaries/2501.13106.md)
 #### [Autonomy-of-Experts Models](summaries/2501.13074.md)
 #### [Pairwise RM: Perform Best-of-N Sampling with Knockout Tournament](summaries/2501.13007.md)
