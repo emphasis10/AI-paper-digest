@@ -1,5 +1,6 @@
 # Paper List
 ## 2501
+#### [LLM-AutoDiff: Auto-Differentiate Any LLM Workflow](summaries/2501.16673.md)
 #### [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](summaries/2501.13926.md)
 #### [IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models](summaries/2501.13920.md)
 #### [Temporal Preference Optimization for Long-Form Video Understanding](summaries/2501.13919.md)
