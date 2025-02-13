@@ -1,9 +1,15 @@
 # Paper List
 ## 2502
+#### [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](summaries/2502.08639.md)
+#### [SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation](summaries/2502.08168.md)
+#### [Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance](summaries/2502.08127.md)
+#### [TransMLA: Multi-head Latent Attention Is All You Need](summaries/2502.07864.md)
 #### [Auditing Prompt Caching in Language Model APIs](summaries/2502.07776.md)
+#### [Next Block Prediction: Video Generation via Semi-Autoregressive Modeling](summaries/2502.07737.md)
 #### [Magic 1-For-1: Generating One Minute Video Clips within One Minute](summaries/2502.07701.md)
 #### [Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving](summaries/2502.07640.md)
 #### [Scaling Pre-training to One Hundred Billion Data for Vision Language Models](summaries/2502.07617.md)
+#### [DPO-Shift: Shifting the Distribution of Direct Preference Optimization](summaries/2502.07599.md)
 #### [VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation](summaries/2502.07531.md)
 #### [NatureLM: Deciphering the Language of Nature for Scientific Discovery](summaries/2502.07527.md)
 #### [Enhance-A-Video: Better Generated Video for Free](summaries/2502.07508.md)
