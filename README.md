@@ -1,5 +1,9 @@
 # Paper List
 ## 2502
+#### [SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](summaries/2502.09604.md)
+#### [Logical Reasoning in Large Language Models: A Survey](summaries/2502.09100.md)
+#### [An Open Recipe: Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging](summaries/2502.09056.md)
+#### [The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding](summaries/2502.08946.md)
 #### [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](summaries/2502.08639.md)
 #### [Distillation Scaling Laws](summaries/2502.08606.md)
 #### [Light-A-Video: Training-free Video Relighting via Progressive Light Fusion](summaries/2502.08590.md)
