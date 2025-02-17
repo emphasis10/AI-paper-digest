@@ -1,5 +1,8 @@
 # Paper List
 ## 2502
+#### [Region-Adaptive Sampling for Diffusion Transformers](summaries/2502.10389.md)
+#### [STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning](summaries/2502.10177.md)
+#### [ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](summaries/2502.09696.md)
 #### [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](summaries/2502.09621.md)
 #### [Exploring the Potential of Encoder-free Architectures in 3D LMMs](summaries/2502.09620.md)
 #### [Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights](summaries/2502.09619.md)
