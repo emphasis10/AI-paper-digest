@@ -1,5 +1,7 @@
 # Paper List
 ## 2502
+#### [Building A Proof-Oriented Programmer That Is 64% Better Than GPT-4o Under Data Scarsity](summaries/2502.11901.md)
+#### [Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest](summaries/2502.11275.md)
 #### [Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding](summaries/2502.10392.md)
 #### [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](summaries/2502.10391.md)
 #### [Region-Adaptive Sampling for Diffusion Transformers](summaries/2502.10389.md)
