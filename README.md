@@ -1,5 +1,11 @@
 # Paper List
 ## 2502
+#### [Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation](summaries/2502.13145.md)
+#### [SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation](summaries/2502.13143.md)
+#### [Rethinking Diverse Human Preference Learning through Principal Component Analysis](summaries/2502.13131.md)
+#### [HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading](summaries/2502.12574.md)
+#### [RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](summaries/2502.12513.md)
+#### [Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge](summaries/2502.12501.md)
 #### [Learning Getting-Up Policies for Real-World Humanoid Robots](summaries/2502.12152.md)
 #### [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](summaries/2502.12148.md)
 #### [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](summaries/2502.12146.md)
@@ -12,6 +18,7 @@
 #### [Language Complexity Measurement as a Noisy Zero-Shot Proxy for Evaluating LLM Performance](summaries/2502.11578.md)
 #### [Large Language Models and Mathematical Reasoning Failures](summaries/2502.11574.md)
 #### [SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL](summaries/2502.11438.md)
+#### [FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](summaries/2502.11433.md)
 #### [System Message Generation for User Preferences using Open-Source Models](summaries/2502.11330.md)
 #### [Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest](summaries/2502.11275.md)
 #### [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](summaries/2502.11196.md)
@@ -22,6 +29,7 @@
 #### [Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems](summaries/2502.11098.md)
 #### [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](summaries/2502.11089.md)
 #### [Towards Data-Efficient Pretraining for Atomic Property Prediction](summaries/2502.11085.md)
+#### [Phantom: Subject-consistent video generation via cross-modal alignment](summaries/2502.11079.md)
 #### [Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning](summaries/2502.10550.md)
 #### [I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models](summaries/2502.10458.md)
 #### [One Example Shown, Many Concepts Known! Counterexample-Driven Conceptual Reasoning in Mathematical LLMs](summaries/2502.10454.md)
