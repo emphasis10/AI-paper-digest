@@ -1,6 +1,9 @@
 # Paper List
 ## 2502
+#### [LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](summaries/2502.13922.md)
+#### [SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?](summaries/2502.13233.md)
 #### [Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation](summaries/2502.13145.md)
+#### [RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](summaries/2502.13144.md)
 #### [SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation](summaries/2502.13143.md)
 #### [Pre-training Auto-regressive Robotic Models with 4D Representations](summaries/2502.13142.md)
 #### [Rethinking Diverse Human Preference Learning through Principal Component Analysis](summaries/2502.13131.md)
@@ -21,6 +24,7 @@
 #### [Learning Getting-Up Policies for Real-World Humanoid Robots](summaries/2502.12152.md)
 #### [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](summaries/2502.12148.md)
 #### [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](summaries/2502.12146.md)
+#### [Small Models Struggle to Learn from Strong Reasoners](summaries/2502.12143.md)
 #### [MagicArticulate: Make Your 3D Models Articulation-Ready](summaries/2502.12135.md)
 #### [SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](summaries/2502.12115.md)
 #### [PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](summaries/2502.12054.md)
