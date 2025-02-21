@@ -1,5 +1,10 @@
 # Paper List
 ## 2502
+#### [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](summaries/2502.14768.md)
+#### [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](summaries/2502.14739.md)
+#### [AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO](summaries/2502.14669.md)
+#### [MLGym: A New Framework and Benchmark for Advancing AI Research Agents](summaries/2502.14499.md)
+#### [S*: Test Time Scaling for Code Generation](summaries/2502.14382.md)
 #### [Autellix: An Efficient Serving Engine for LLM Agents as General Programs](summaries/2502.13965.md)
 #### [Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering](summaries/2502.13962.md)
 #### [Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](summaries/2502.13946.md)
