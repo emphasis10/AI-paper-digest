@@ -1,5 +1,10 @@
 # Paper List
 ## 2502
+#### [One-step Diffusion Models with $f$-Divergence Distribution Matching](summaries/2502.15681.md)
+#### [The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer](summaries/2502.15631.md)
+#### [InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback](summaries/2502.15027.md)
+#### [SIFT: Grounding LLM Reasoning in Contexts via Stickers](summaries/2502.14922.md)
+#### [Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence](summaries/2502.14905.md)
 #### [LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](summaries/2502.14866.md)
 #### [CLIPPER: Compression enables long-context synthetic data generation](summaries/2502.14854.md)
 #### [Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](summaries/2502.14846.md)
@@ -8,6 +13,7 @@
 #### [LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models](summaries/2502.14834.md)
 #### [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](summaries/2502.14802.md)
 #### [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](summaries/2502.14786.md)
+#### [SurveyX: Academic Survey Automation via Large Language Models](summaries/2502.14776.md)
 #### [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](summaries/2502.14768.md)
 #### [SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines](summaries/2502.14739.md)
 #### [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](summaries/2502.14727.md)
@@ -42,6 +48,7 @@
 #### [ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation](summaries/2502.13581.md)
 #### [Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](summaries/2502.13573.md)
 #### [Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models](summaries/2502.13533.md)
+#### [Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](summaries/2502.13449.md)
 #### [Craw4LLM: Efficient Web Crawling for LLM Pretraining](summaries/2502.13347.md)
 #### [SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?](summaries/2502.13233.md)
 #### [Thinking Preference Optimization](summaries/2502.13173.md)
