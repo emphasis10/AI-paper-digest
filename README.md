@@ -1,9 +1,12 @@
 # Paper List
 ## 2502
+#### [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](summaries/2502.19411.md)
+#### [General Reasoning Requires Learning to Reason from the Get-go](summaries/2502.19402.md)
 #### [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](summaries/2502.18449.md)
 #### [OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](summaries/2502.18411.md)
 #### [ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation](summaries/2502.18364.md)
 #### [WebGames: Challenging General-Purpose Web-Browsing AI Agents](summaries/2502.18356.md)
+#### [LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers](summaries/2502.18139.md)
 #### [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](summaries/2502.18137.md)
 #### [GCC: Generative Color Constancy via Diffusing a Color Checker](summaries/2502.17435.md)
 #### [X-Dancer: Expressive Music to Human Dance Video Generation](summaries/2502.17414.md)
@@ -12,7 +15,10 @@
 #### [Unveiling Downstream Performance Scaling of LLMs: A Clustering-Based Perspective](summaries/2502.17262.md)
 #### [VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](summaries/2502.17258.md)
 #### [MegaLoc: One Retrieval to Place Them All](summaries/2502.17237.md)
+#### [IGDA: Interactive Graph Discovery through Large Language Model Agents](summaries/2502.17189.md)
 #### [DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks](summaries/2502.17157.md)
+#### [CodeSwift: Accelerating LLM Inference for Efficient Code Generation](summaries/2502.17139.md)
+#### [Applications of Large Models in Medicine](summaries/2502.17132.md)
 #### [Thus Spake Long-Context Large Language Model](summaries/2502.17129.md)
 #### [Mobile-Agent-V: Learning Mobile Device Operation Through Video-Guided Multi-Agent Collaboration](summaries/2502.17110.md)
 #### [Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam](summaries/2502.17055.md)
@@ -34,7 +40,9 @@
 #### [Scale-Distribution Decoupling: Enabling Stable and Effective Training of Large Language Models](summaries/2502.15499.md)
 #### [TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning](summaries/2502.15425.md)
 #### [Evaluating Multimodal Generative AI with Korean Educational Standards](summaries/2502.15422.md)
+#### [Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs](summaries/2502.15224.md)
 #### [M3-AGIQA: Multimodal, Multi-Round, Multi-Aspect AI-Generated Image Quality Assessment](summaries/2502.15167.md)
+#### [Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems](summaries/2502.15153.md)
 #### [MONSTER: Monash Scalable Time Series Evaluation Repository](summaries/2502.15122.md)
 #### [Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models](summaries/2502.15086.md)
 #### [UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning](summaries/2502.15082.md)
@@ -112,6 +120,7 @@
 #### [The snake in the Brownian sphere](summaries/2502.13074.md)
 #### [Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity](summaries/2502.13063.md)
 #### [Eager Updates For Overlapped Communication and Computation in DiLoCo](summaries/2502.12996.md)
+#### [Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing](summaries/2502.12962.md)
 #### [Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options](summaries/2502.12929.md)
 #### [Soundwave: Less is More for Speech-Text Alignment in LLMs](summaries/2502.12900.md)
 #### [PAFT: Prompt-Agnostic Fine-Tuning](summaries/2502.12859.md)
@@ -3783,6 +3792,7 @@
 ## 2207
 #### [Confident Adaptive Language Modeling](summaries/2207.07061.md)
 ## 2206
+#### [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](summaries/2206.04615.md)
 #### [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](summaries/2206.01861.md)
 #### [NIPQ: Noise proxy-based Integrated Pseudo-Quantization](summaries/2206.00820.md)
 ## 2205
