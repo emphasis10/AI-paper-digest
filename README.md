@@ -1,5 +1,14 @@
 # Paper List
+## 2503
+#### [Structured Outputs Enable General-Purpose LLMs to be Medical Experts](summaries/2503.03194.md)
+#### [MPO: Boosting LLM Agents with Meta Plan Optimization](summaries/2503.02682.md)
+#### [ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](summaries/2503.02390.md)
+#### [ATLaS: Agent Tuning via Learning Critical Steps](summaries/2503.02197.md)
+#### [Nature-Inspired Population-Based Evolution of Large Language Models](summaries/2503.01155.md)
 ## 2502
+#### [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](summaries/2502.21321.md)
+#### [Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision](summaries/2502.20790.md)
+#### [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](summaries/2502.20339.md)
 #### [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](summaries/2502.19411.md)
 #### [General Reasoning Requires Learning to Reason from the Get-go](summaries/2502.19402.md)
 #### [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](summaries/2502.18449.md)
@@ -8,6 +17,7 @@
 #### [WebGames: Challenging General-Purpose Web-Browsing AI Agents](summaries/2502.18356.md)
 #### [LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers](summaries/2502.18139.md)
 #### [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](summaries/2502.18137.md)
+#### [Fractal Generative Models](summaries/2502.17437.md)
 #### [GCC: Generative Color Constancy via Diffusing a Color Checker](summaries/2502.17435.md)
 #### [X-Dancer: Expressive Music to Human Dance Video Generation](summaries/2502.17414.md)
 #### [Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning](summaries/2502.17407.md)
