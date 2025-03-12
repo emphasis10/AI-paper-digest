@@ -3630,6 +3630,7 @@
 #### [DISTILLM: Towards Streamlined Distillation for Large Language Models](summaries/2402.03898.md)
 #### [ReLU$^2$ Wins: Discovering Efficient Activation Functions for Sparse LLMs](summaries/2402.03804.md)
 #### [Careful with that Scalpel: Improving Gradient Surgery with an EMA](summaries/2402.02998.md)
+#### [Understanding the planning of LLM agents: A survey](summaries/2402.02716.md)
 #### [DenseFormer: Enhancing Information Flow in Transformers via Depth Weighted Averaging](summaries/2402.02622.md)
 #### [Executable Code Actions Elicit Better LLM Agents](summaries/2402.01030.md)
 ## 2401
