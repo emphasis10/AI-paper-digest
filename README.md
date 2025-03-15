@@ -1,5 +1,18 @@
 # Paper List
 ## 2503
+#### [Transformers without Normalization](summaries/2503.10622.md)
+#### [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](summaries/2503.09572.md)
+#### [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](summaries/2503.09567.md)
+#### [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](summaries/2503.09516.md)
+#### [A Survey on Enhancing Causal Reasoning Ability of Large Language Models](summaries/2503.09326.md)
+#### [Teaching LLMs How to Learn with Contextual Fine-Tuning](summaries/2503.09032.md)
+#### [A Theory of Learning with Autoregressive Chain of Thought](summaries/2503.07932.md)
+#### [Gemini Embedding: Generalizable Embeddings from Gemini](summaries/2503.07891.md)
+#### [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](summaries/2503.07536.md)
+#### [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](summaries/2503.07459.md)
+#### [Understanding the Limits of Lifelong Knowledge Editing in LLMs](summaries/2503.05683.md)
+#### [PromptPex: Automatic Test Generation for Language Model Prompts](summaries/2503.05070.md)
+#### [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](summaries/2503.04697.md)
 #### [Structured Outputs Enable General-Purpose LLMs to be Medical Experts](summaries/2503.03194.md)
 #### [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](summaries/2503.02875.md)
 #### [MPO: Boosting LLM Agents with Meta Plan Optimization](summaries/2503.02682.md)
