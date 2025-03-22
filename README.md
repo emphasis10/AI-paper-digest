@@ -1,5 +1,18 @@
 # Paper List
 ## 2503
+#### [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](summaries/2503.16419.md)
+#### [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](summaries/2503.16252.md)
+#### [The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement](summaries/2503.16024.md)
+#### [From Chaos to Order: The Atomic Reasoner Framework for Fine-grained Reasoning in Large Language Models](summaries/2503.15944.md)
+#### [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](summaries/2503.15478.md)
+#### [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](summaries/2503.14476.md)
+#### [Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](summaries/2503.14411.md)
+#### [MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](summaries/2503.13964.md)
+#### [MetaScale: Test-Time Scaling with Evolving Meta-Thoughts](summaries/2503.13447.md)
+#### [ThinkPatterns-21k: A Systematic Study on the Impact of Thinking Patterns in LLMs](summaries/2503.12918.md)
+#### [Quantum-Enhanced LLM Efficient Fine Tuning](summaries/2503.12790.md)
+#### [GNNs as Predictors of Agentic Workflow Performances](summaries/2503.11301.md)
+#### [GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction](summaries/2503.11227.md)
 #### [Transformers without Normalization](summaries/2503.10622.md)
 #### [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](summaries/2503.09572.md)
 #### [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](summaries/2503.09567.md)
