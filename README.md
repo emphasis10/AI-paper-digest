@@ -1,5 +1,16 @@
 # Paper List
+## 2504
+#### [Inference-Time Scaling for Generalist Reward Modeling](summaries/2504.02495.md)
+#### [Cognitive Memory in Large Language Models](summaries/2504.02441.md)
+#### [From Code Generation to Software Testing: AI Copilot with Context-Based RAG](summaries/2504.01866.md)
+#### [InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation](summaries/2504.01707.md)
+#### [ToolACE-R: Tool Learning with Adaptive Self-Refinement](summaries/2504.01400.md)
+#### [Z1: Efficient Test-time Scaling with Code](summaries/2504.00810.md)
 ## 2503
+#### [Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](summaries/2503.24377.md)
+#### [Effectively Controlling Reasoning Models through Thinking Intervention](summaries/2503.24370.md)
+#### [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](summaries/2503.24235.md)
+#### [RARE: Retrieval-Augmented Reasoning Modeling](summaries/2503.23513.md)
 #### [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](summaries/2503.16419.md)
 #### [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](summaries/2503.16252.md)
 #### [The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement](summaries/2503.16024.md)
