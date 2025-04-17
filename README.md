@@ -1,5 +1,6 @@
 # Paper List
 ## 2504
+#### [Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective](summaries/2504.10918.md)
 #### [Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation](summaries/2504.07794.md)
 #### [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](summaries/2504.07717.md)
 #### [ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models](summaries/2504.07624.md)
