@@ -1,6 +1,14 @@
 # Paper List
 ## 2504
+#### [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](summaries/2504.12216.md)
+#### [Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts](summaries/2504.11420.md)
+#### [Fine-Tuning Large Language Models on Quantum Optimization Problems for Circuit Generation](summaries/2504.11109.md)
 #### [Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective](summaries/2504.10918.md)
+#### [Towards A Universal Graph Structural Encoder](summaries/2504.10917.md)
+#### [ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search](summaries/2504.10893.md)
+#### [Reasoning Models Can Be Effective Without Thinking](summaries/2504.09858.md)
+#### [DocAgent: A Multi-Agent System for Automated Code Documentation Generation](summaries/2504.08725.md)
+#### [SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents](summaries/2504.08703.md)
 #### [Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation](summaries/2504.07794.md)
 #### [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](summaries/2504.07717.md)
 #### [ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models](summaries/2504.07624.md)
