@@ -1,6 +1,16 @@
 # Paper List
 ## 2504
+#### [TTRL: Test-Time Reinforcement Learning](summaries/2504.16084.md)
+#### [PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models](summaries/2504.16074.md)
+#### [The Geometry of Self-Verification in a Task-Specific Reasoning Model](summaries/2504.14379.md)
+#### [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](summaries/2504.13837.md)
+#### [Scaling sparse feature circuit finding for in-context learning](summaries/2504.13756.md)
+#### [Continual Pre-Training is (not) What You Need in Domain Adaption](summaries/2504.13603.md)
+#### [CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models](summaries/2504.13534.md)
+#### [From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](summaries/2504.13471.md)
+#### [Sleep-time Compute: Beyond Inference Scaling at Test-time](summaries/2504.13171.md)
 #### [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](summaries/2504.12216.md)
+#### [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](summaries/2504.11536.md)
 #### [Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts](summaries/2504.11420.md)
 #### [Fine-Tuning Large Language Models on Quantum Optimization Problems for Circuit Generation](summaries/2504.11109.md)
 #### [Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective](summaries/2504.10918.md)
