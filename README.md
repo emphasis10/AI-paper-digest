@@ -1,7 +1,12 @@
 # Paper List
 ## 2504
 #### [TTRL: Test-Time Reinforcement Learning](summaries/2504.16084.md)
+#### [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](summaries/2504.16078.md)
 #### [PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models](summaries/2504.16074.md)
+#### [WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents](summaries/2504.15785.md)
+#### [Bare Minimum Mitigations for Autonomous AI Development](summaries/2504.15416.md)
+#### [A Self-Improving Coding Agent](summaries/2504.15228.md)
+#### [Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision](summaries/2504.15046.md)
 #### [The Geometry of Self-Verification in a Task-Specific Reasoning Model](summaries/2504.14379.md)
 #### [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](summaries/2504.13837.md)
 #### [Scaling sparse feature circuit finding for in-context learning](summaries/2504.13756.md)
@@ -64,6 +69,7 @@
 #### [Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](summaries/2503.14411.md)
 #### [Synthetic Data Generation Using Large Language Models: Advances in Text and Code](summaries/2503.14023.md)
 #### [MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](summaries/2503.13964.md)
+#### [Why Do Multi-Agent LLM Systems Fail?](summaries/2503.13657.md)
 #### [Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models](summaries/2503.13551.md)
 #### [MetaScale: Test-Time Scaling with Evolving Meta-Thoughts](summaries/2503.13447.md)
 #### [ThinkPatterns-21k: A Systematic Study on the Impact of Thinking Patterns in LLMs](summaries/2503.12918.md)
