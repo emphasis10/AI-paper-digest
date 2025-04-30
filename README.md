@@ -1,5 +1,6 @@
 # Paper List
 ## 2504
+#### [Process Reward Models That Think](summaries/2504.16828.md)
 #### [TTRL: Test-Time Reinforcement Learning](summaries/2504.16084.md)
 #### [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](summaries/2504.16078.md)
 #### [PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models](summaries/2504.16074.md)
