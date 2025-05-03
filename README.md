@@ -1,5 +1,11 @@
 # Paper List
 ## 2504
+#### [The Leaderboard Illusion](summaries/2504.20879.md)
+#### [AutoJudge: Judge Decoding Without Manual Annotation](summaries/2504.20039.md)
+#### [Taming the Titans: A Survey of Efficient LLM Inference Serving](summaries/2504.19720.md)
+#### [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](summaries/2504.19413.md)
+#### [MAGI: Multi-Agent Guided Interview for Psychiatric Assessment](summaries/2504.18260.md)
+#### [Think, Prune, Train, Improve: Scaling Reasoning without Scaling Models](summaries/2504.18116.md)
 #### [Process Reward Models That Think](summaries/2504.16828.md)
 #### [TTRL: Test-Time Reinforcement Learning](summaries/2504.16084.md)
 #### [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](summaries/2504.16078.md)
