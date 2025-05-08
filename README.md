@@ -1,5 +1,6 @@
 # Paper List
 ## 2505
+#### [Llama-Nemotron: Efficient Reasoning Models](summaries/2505.00949.md)
 #### [Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks](summaries/2505.00234.md)
 ## 2504
 #### [LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](summaries/2504.21716.md)
