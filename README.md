@@ -1,8 +1,17 @@
 # Paper List
 ## 2505
+#### [Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models](summaries/2505.03469.md)
+#### [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](summaries/2505.03335.md)
+#### [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](summaries/2505.03275.md)
+#### [DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning](summaries/2505.03209.md)
+#### [Holmes: Automated Fact Check with Large Language Models](summaries/2505.03135.md)
+#### [HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking](summaries/2505.02322.md)
 #### [Llama-Nemotron: Efficient Reasoning Models](summaries/2505.00949.md)
+#### [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](summaries/2505.00675.md)
+#### [DeepCritic: Deliberate Critique with Large Language Models](summaries/2505.00662.md)
 #### [Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks](summaries/2505.00234.md)
 ## 2504
+#### [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](summaries/2504.21801.md)
 #### [LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](summaries/2504.21716.md)
 #### [The Leaderboard Illusion](summaries/2504.20879.md)
 #### [AutoJudge: Judge Decoding Without Manual Annotation](summaries/2504.20039.md)
