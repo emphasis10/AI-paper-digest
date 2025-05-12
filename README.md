@@ -1,11 +1,13 @@
 # Paper List
 ## 2505
+#### [The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete](summaries/2505.03961.md)
 #### [Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models](summaries/2505.03469.md)
 #### [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](summaries/2505.03335.md)
 #### [RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation](summaries/2505.03275.md)
 #### [DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning](summaries/2505.03209.md)
 #### [Holmes: Automated Fact Check with Large Language Models](summaries/2505.03135.md)
 #### [HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking](summaries/2505.02322.md)
+#### [MemEngine: A Unified and Modular Library for Developing Advanced Memory of LLM-based Agents](summaries/2505.02099.md)
 #### [Llama-Nemotron: Efficient Reasoning Models](summaries/2505.00949.md)
 #### [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](summaries/2505.00675.md)
 #### [DeepCritic: Deliberate Critique with Large Language Models](summaries/2505.00662.md)
@@ -29,6 +31,7 @@
 #### [A Self-Improving Coding Agent](summaries/2504.15228.md)
 #### [Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision](summaries/2504.15046.md)
 #### [The Geometry of Self-Verification in a Task-Specific Reasoning Model](summaries/2504.14379.md)
+#### [Nemotron-CrossThink: Scaling Self-Learning beyond Math Reasoning](summaries/2504.13941.md)
 #### [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](summaries/2504.13837.md)
 #### [Scaling sparse feature circuit finding for in-context learning](summaries/2504.13756.md)
 #### [Continual Pre-Training is (not) What You Need in Domain Adaption](summaries/2504.13603.md)
