@@ -1,5 +1,16 @@
 # Paper List
 ## 2505
+#### [Superposition Yields Robust Neural Scaling](summaries/2505.10465.md)
+#### [The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think](summaries/2505.10185.md)
+#### [Qwen3 Technical Report](summaries/2505.09388.md)
+#### [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](summaries/2505.09343.md)
+#### [HealthBench: Evaluating Large Language Models Towards Improved Human Health](summaries/2505.08775.md)
+#### [A Practical Introduction to Deep Reinforcement Learning](summaries/2505.08295.md)
+#### [MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining](summaries/2505.07608.md)
+#### [LLMs Get Lost In Multi-Turn Conversation](summaries/2505.06120.md)
+#### [Continuous Thought Machines](summaries/2505.05522.md)
+#### [Reasoning Models Don't Always Say What They Think](summaries/2505.05410.md)
+#### [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](summaries/2505.04588.md)
 #### [The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete](summaries/2505.03961.md)
 #### [Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models](summaries/2505.03469.md)
 #### [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](summaries/2505.03335.md)
