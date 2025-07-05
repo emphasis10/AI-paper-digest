@@ -1,5 +1,14 @@
 # Paper List
+## 2507
+#### [Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](summaries/2507.00432.md)
 ## 2506
+#### [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](summaries/2506.24119.md)
+#### [Generalist Reward Models: Found Inside Large Language Models](summaries/2506.23235.md)
+#### [WorldVLA: Towards Autoregressive Action World Model](summaries/2506.21539.md)
+#### [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](summaries/2506.21506.md)
+#### [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](summaries/2506.20512.md)
+#### [Unified Vision-Language-Action Model](summaries/2506.19850.md)
+#### [Thought Anchors: Which LLM Reasoning Steps Matter?](summaries/2506.19143.md)
 #### [Show-o2: Improved Native Unified Multimodal Models](summaries/2506.15564.md)
 #### [From Bytes to Ideas: Language Modeling with Autoregressive U-Nets](summaries/2506.14761.md)
 #### [Reasoning with Exploration: An Entropy Perspective](summaries/2506.14758.md)
